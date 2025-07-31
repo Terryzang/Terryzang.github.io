@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/about/</link>
+      <atom:link href="https://terryzang.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abouts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>Abouts</title>
+      <link>https://terryzang.github.io/about/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://terryzang.github.io/about/cosn/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/about/cosn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://terryzang.github.io/about/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/about/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
