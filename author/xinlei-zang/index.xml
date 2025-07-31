@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinlei Zang | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/xinlei-zang/</link>
+      <atom:link href="https://terryzang.github.io/author/xinlei-zang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinlei Zang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://terryzang.github.io/author/xinlei-zang/avatar_hu_e6c201a3ad228636.jpg</url>
+      <title>Xinlei Zang</title>
+      <link>https://terryzang.github.io/author/xinlei-zang/</link>
+    </image>
+    
+    <item>
+      <title>Xinlei Zang</title>
+      <link>https://terryzang.github.io/author/xinlei-zang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/author/xinlei-zang/</guid>
+      <description>&lt;p&gt;I am dedicated to advancing and reshaping the theories within psychological science through the lens of the philosophy of science. My recent work focuses on cutting-edge interdisciplinary research, primarily involving machine learning and pattern recognition, signal processing and feature engineering, computational modeling of cognition and behavior, and the philosophy of science as it applies to psychology (reflecting on both theory and technology).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

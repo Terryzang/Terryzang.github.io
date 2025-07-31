@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruyuan Zhang | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/ruyuan-zhang/</link>
+      <atom:link href="https://terryzang.github.io/author/ruyuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruyuan Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://terryzang.github.io/author/ruyuan-zhang/avatar_hu_587f368a0c10b245.jpg</url>
+      <title>Ruyuan Zhang</title>
+      <link>https://terryzang.github.io/author/ruyuan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Ruyuan Zhang</title>
+      <link>https://terryzang.github.io/author/ruyuan-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/author/ruyuan-zhang/</guid>
+      <description>&lt;p&gt;Dr. Zhang Ruoyuan is currently the dual-appointed project leader of the School of Psychology at Shanghai Jiao Tong University and the Mental Health Center Affiliated to Shanghai Jiao Tong University School of Medicine. He leads the Cognitive Computational Neuroscience and Brain Imaging research group. Zhang Ruoyuan graduated from the School of Psychology and Cognitive Science at Peking University with a bachelor&amp;rsquo;s degree, and obtained his doctorate from the Department of Brain and Cognitive Science at the University of Rochester. After that, he conducted postdoctoral research at the University of Minnesota and the National Institutes of Health in the United States. Zhang Ruoyuan has been dedicated to interdisciplinary research at the intersection of brain science and artificial intelligence, integrating research methods such as psychophysics, Bayesian probability models, deep learning models, neural regulation, and nuclear magnetic resonance to explore the neural computing mechanisms of the human brain and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

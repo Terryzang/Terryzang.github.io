@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COSN_John | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/cosn_john/</link>
+      <atom:link href="https://terryzang.github.io/author/cosn_john/index.xml" rel="self" type="application/rss+xml" />
+    <description>COSN_John</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>COSN_John</title>
+      <link>https://terryzang.github.io/author/cosn_john/</link>
+    </image>
+    
+    <item>
+      <title>Exclusive interview with the editor-in-chief of eLife</title>
+      <link>https://terryzang.github.io/about/post/2025-5-elife/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/about/post/2025-5-elife/</guid>
+      <description>&lt;p&gt;Exclusive interview with the editor-in-chief of eLife: Without the impact factor, the number of submissions from China has decreased by 80%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In November 2024&lt;/strong&gt;, Clarivate announced that the eLife journal would no longer be assigned an SCI impact factor. Previously, this interdisciplinary biology journal had an IF of 6.4. As of 2025, this pioneering open-access journal began to feel the aftershocks of losing the impact factor, and &amp;ldquo;the biggest and most significant changes all came from China.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Dr. Timothy Behrens, the editor-in-chief of eLife, is the deputy director of the Wellcome Centre for Integrative Neuroimaging at the University of Oxford, a professor of computational neurobiology, and an honorary lecturer at University College London. He disclosed to the intellectuals: &amp;ldquo;(Before the decision of Clarivate Analytics)&amp;rdquo;, &amp;ldquo;About 40% of the submissions to eLife came from China. Now, we have lost approximately 80% of the submissions from China.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This non-profit academic journal was established in 2012 and is supported by three powerful scientific funding institutions in the United States (Howard Hughes Medical Institute), the United Kingdom (Wellcome Foundation), and Germany (Max Planck Society). The founding editor was Randy Schekman, a 2012 Nobel Prize winner. eLife is renowned for its pioneering and experimental publishing model. After winning the Nobel Prize, Randy Schekman publicly criticized top journals such as CNS (Cell, Science, Nature), saying they were like &amp;ldquo;limited luxury goods&amp;rdquo;, causing unnecessary pressure on scientists.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-elife-logo&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/post/20250730.jpg&#34; alt=&#34;eLife Logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      eLife Logo
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;From its inception, in addition to open access, another significant innovation of eLife was the collaborative system for peer review, which means that the reviewers and the editors discuss the opinions together. This concept attracted dozens of active scientists to serve as editors, responsible for screening the submissions, and hundreds of scientists to serve as reviewers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Publication | &#34;Robustness Report Journal&#34; in Diamond Open Access Model</title>
+      <link>https://terryzang.github.io/about/post/2024-12-new-publication/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/about/post/2024-12-new-publication/</guid>
+      <description>&lt;p&gt;This week, a brand-new open-access diamond journal - the Journal of Robustness Reports (abbreviated as JRR) - officially launched (website: &lt;a href=&#34;https://scipost.org/JRobustRep%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scipost.org/JRobustRep)&lt;/a&gt;. This journal focuses on publishing brief re-analyses of published empirical research results.&lt;/p&gt;
+&lt;p&gt;The majority of empirical research papers only report a single main analytical result, which is usually carried out by a single analysis team (often also the team responsible for the experimental design and data collection) according to a single analysis plan. However, the &amp;ldquo;multi-analyst projects&amp;rdquo; in recent years have shown that different analysis teams often adopt their own unique methods, resulting in significant differences in conclusions. In fact, there is no single optimal statistical analysis plan, and different reasonable plans may lead to different conclusions. The strong variability of conclusions indicates their vulnerability, which is highly dependent on the specific analysis path. The key issue is that without independent analyses by multiple teams, it is difficult to assess the robustness of the conclusions. We recently proposed that for empirical research with significant scientific or social significance, 2-3 short reanalysis reports completed by independent experts should be attached [1]. To verify the feasibility and cognitive value of this method, we established the &amp;ldquo;Robustness Report Journal&amp;rdquo;, dedicated to publishing reanalyses of empirical results. This article outlines the journal&amp;rsquo;s positioning, workflow, and article format of JRR. We hope that JRR can promote reanalysis to become a routine practice in the field of empirical science.&lt;/p&gt;
+&lt;p&gt;JRR requires that the main body of the &amp;ldquo;Stability Report&amp;rdquo; should not exceed 500 words (excluding acknowledgments, references, chart explanations and title page). Only one presentation element (either a figure or a table) is allowed, and other supplementary materials must be presented in the form of online appendices. The response from the original author and the editor&amp;rsquo;s summary are also limited to 500 words and one presentation element, but they do not need to follow the above chapter structure. The article template is available in both Word and LaTeX versions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/post/20241202.png&#34; alt=&#34;图1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The original intention behind setting the word limit: JRR hopes to encourage mainstream empirical journals to adopt this format, attaching robustness reports to important studies – a 500-word length is comparable to that of a &amp;ldquo;comment&amp;rdquo; or &amp;ldquo;letter to the editor&amp;rdquo; (most journals are already familiar with such formats), and the implementation cost is extremely low.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

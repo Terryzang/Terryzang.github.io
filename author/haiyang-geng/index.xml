@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haiyang Geng | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/haiyang-geng/</link>
+      <atom:link href="https://terryzang.github.io/author/haiyang-geng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haiyang Geng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://terryzang.github.io/author/haiyang-geng/avatar_hu_97dd4b475c28e262.jpg</url>
+      <title>Haiyang Geng</title>
+      <link>https://terryzang.github.io/author/haiyang-geng/</link>
+    </image>
+    
+    <item>
+      <title>Haiyang Geng</title>
+      <link>https://terryzang.github.io/author/haiyang-geng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/author/haiyang-geng/</guid>
+      <description>&lt;p&gt;Dr. Haiyang Geng is a postdoc researcher in Dr. Xiaoging Hu&amp;rsquo;s lab at The University of Hong KongHis current research focuses on memory, decision and psychopathology (i.e. anxiety, depressionand schizophrenia) by using computational modeling and advanced neuroimaging approaches. in2012, Haiyang Geng obtained his bachelor degree in bioinformatics at Harbin Medical University.After that, tremendous interest and curiosity drive him to enter the field of cognitive neuroscienceDuring his master, he worked with Dr. Xuebing Li in the Institute of Psychology, Chinese Academy ofScience on the topic of exploring neural mechanisms of anxiety. in 2015, he got his master degreein cognitive neuroscience. During 2015-2016, he worked with Dr. Shaozheng Qin at Beijing NormalUniversity on modulation of stress, anxiety on working memory. During 2016-2020, he joined thePh.D. program at the University of Groningen. During his Ph.D., Haiyang was supervised by prof.Andre Aleman and prof, Yue-Jia Luo, His Ph.D, research is to examine how disrupted predictionprocesses may contribute to a variety of psychiatric symptoms (i.e. anxiety, hallucination andapathy) by using multiple neuroimaging approaches including brain activation, connectivity (i.e.psychophysiological interaction (PPl)) and dynamic functional connectivity (i.e. sliding window, Kmeans and phase synchronization), graph theory (i.e. modularity analysis).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
