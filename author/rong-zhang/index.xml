@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rong Zhang | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/rong-zhang/</link>
+      <atom:link href="https://terryzang.github.io/author/rong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rong Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://terryzang.github.io/author/rong-zhang/avatar_hu_4c3a82ca1f642507.jpg</url>
+      <title>Rong Zhang</title>
+      <link>https://terryzang.github.io/author/rong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Rong Zhang</title>
+      <link>https://terryzang.github.io/author/rong-zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/author/rong-zhang/</guid>
+      <description>&lt;p&gt;Zhang Rong is currently pursuing a doctoral degree at the School of Psychology of South China Normal University.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

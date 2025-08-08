@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang Xindi | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/wang-xindi/</link>
+      <atom:link href="https://terryzang.github.io/author/wang-xindi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang Xindi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://terryzang.github.io/author/wang-xindi/avatar_hu_db01dcc01ce33a1b.jpg</url>
+      <title>Wang Xindi</title>
+      <link>https://terryzang.github.io/author/wang-xindi/</link>
+    </image>
+    
+    <item>
+      <title>Wang Xindi</title>
+      <link>https://terryzang.github.io/author/wang-xindi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/author/wang-xindi/</guid>
+      <description>&lt;p&gt;Dr. Xindi Wang is now a senio!algorithm engineer at Beijing Intelligent Brain Cloud, Inc., Beijing China. He is a code contributor and maintainer Of GRETNA, REST, DPAB!and contributor of ClVET. During 2011-2018, he was supervised by ProfYufeng Zang and Prof. Yong He in theNational Key Laboratory of Cognitive Neuroscience and Learning at Beijing Normal University and tried to explored if ferentiated hubs in structural human networks. After obtaining his PhDdegree, he move to Montreal Neurological Institute (MNl) and work with Prof. Alan C Evans.In 2021, He joined Beijing Intelligent Brain CloudInc.and continue to contribute onbrain MR imaging methodology. Hiscurrent research focuses on the qualitycontrol of multi-modal MRl from multisite. He is also interested in improvingMR imaging preprocessing by usingdeep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

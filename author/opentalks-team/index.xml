@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenTalks Team | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/opentalks-team/</link>
+      <atom:link href="https://terryzang.github.io/author/opentalks-team/index.xml" rel="self" type="application/rss+xml" />
+    <description>OpenTalks Team</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Sep 2025 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>OpenTalks Team</title>
+      <link>https://terryzang.github.io/author/opentalks-team/</link>
+    </image>
+    
+    <item>
+      <title>OpenTalks #89 | AI孪生脑：模型训练、评估、应用</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_89/</link>
+      <pubDate>Sat, 13 Sep 2025 21:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_89/</guid>
+      <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;刘泉影&lt;/b&gt;，南方科技大学长聘副教授，博导，PI。2010年/2013年毕业于兰州大学信息学院，获学士/硕士学位。2017年于瑞士苏黎世联邦理工学院获博士学位，其后在美国加州理工学院从事博士后研究工作。2019年8月回国，在南方科技大学成立神经计算与控制实验室（NCC lab）。主要研究方向是多模态神经信号处理算法、脑网络动力学建模、神经编解码算法、神经调控优化算法等工作，致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，已在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #88 | 运用敏感性分析评估心理学纵向研究中未测量混淆因素的干扰风险</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_88/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_88/</guid>
+      <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentalk/89.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;刘泉影&lt;/b&gt;，南方科技大学长聘副教授，博导，PI。2010年/2013年毕业于兰州大学信息学院，获学士/硕士学位。2017年于瑞士苏黎世联邦理工学院获博士学位，其后在美国加州理工学院从事博士后研究工作。2019年8月回国，在南方科技大学成立神经计算与控制实验室（NCC lab）。主要研究方向是多模态神经信号处理算法、脑网络动力学建模、神经编解码算法、神经调控优化算法等工作，致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，已在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTalk No.86 | The Academic Impact of Open Science</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_86/</link>
+      <pubDate>Thu, 22 May 2025 14:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_86/</guid>
+      <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentalk/86.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;Thomas Klebel&lt;/b&gt; is a member of the Open and Reproducible Research Group and a Senior Researcher at Know Center. In his research, he investigates unintended consequences of current implementations of Open Research, ways of improving the reproducibility of research findings, and avenues for sustainable business models around open research infrastructure. With a focus on quantitative methods of inquiry, he is also keenly interested in causal modelling and ways of improving research practice. Thomas completed his doctoral studies in Sociology in 2024 and holds a degree in Music Performance from the University of Performing Arts Graz. You can find him on ORCID and LinkedIn.
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #87 | DeepPrep: 高效fMRI预处理平台及其在精准神经调控中的应用</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_87/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #85 | 决策过程中噪声的情景依赖性</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_85/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #84 | 视觉学习的计算神经机制</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_84/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #83 | 人脑功能网络的毕生发展参考模型</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_83/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #82 | 跨文化、跨时空的人际关系概念结构</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_82/</link>
+      <pubDate>Thu, 27 Mar 2025 20:30:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_82/</guid>
+      <description>&lt;h3&gt;分享嘉宾:&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentalk/82.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;程溪&lt;/b&gt;，北京师范大学心理学博士研究生，本科毕业于南京师范大学心理学院。研究方向聚焦社会认知领域，目前主要开展两方面工作：1）开发简便测量和可用于文本分析的社会关系量化工具，探索社会认知结构的文化差异及其历史演变规律；2）探究幽默与心理健康的关系及其认知神经基础。
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #81 | 阈下抑郁发展进程的影响因素</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_81/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTalks #80 | ARIADNE: 科研资源指北</title>
+      <link>https://terryzang.github.io/event/opentalk/2025_80/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentalk/2025_80/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

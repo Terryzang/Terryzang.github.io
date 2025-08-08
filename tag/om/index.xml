@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OM | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/tag/om/</link>
+      <atom:link href="https://terryzang.github.io/tag/om/index.xml" rel="self" type="application/rss+xml" />
+    <description>OM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>OM</title>
+      <link>https://terryzang.github.io/tag/om/</link>
+    </image>
+    
+    <item>
+      <title>OpenMinds 3.0 | 第12期：频率论or贝叶斯</title>
+      <link>https://terryzang.github.io/event/openmind/2024_3.12/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2024_3.12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMinds 3.0 | 第11期：贝叶斯因子</title>
+      <link>https://terryzang.github.io/event/openmind/2024_3.11/</link>
+      <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2024_3.11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMinds 3.0 | 第10期：频率论 vs. 贝叶斯统计</title>
+      <link>https://terryzang.github.io/event/openmind/2024_3.10/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2024_3.10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMinds 3.0 | 第9期：样本量规划</title>
+      <link>https://terryzang.github.io/event/openmind/2024_3.9/</link>
+      <pubDate>Sun, 22 Sep 2024 20:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2024_3.9/</guid>
+      <description>&lt;h3&gt;报告人:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;陈书园&lt;/b&gt;（中科院心理研究所）
+&lt;h3&gt;主持人:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;李淼（博士）&lt;/b&gt;Université de Lille，France
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenMinds 3.0 | 第8期：统计检验力</title>
+      <link>https://terryzang.github.io/event/openmind/2024_3.8/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2024_3.8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenMinds 2.0 | 第3期：可重复性危机背后的理论问题</title>
+      <link>https://terryzang.github.io/event/openmind/2022_2.3/</link>
+      <pubDate>Sun, 09 Jan 2022 20:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/openmind/2022_2.3/</guid>
+      <description>&lt;h3&gt;报告人:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/openmind/3.91.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;王海侠&lt;/b&gt;（暨南大学）
+&lt;h3&gt;主持人:&lt;/h3&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/openmind/3.92.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;b&gt;陈妍秀&lt;/b&gt;（中科院心理所）
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

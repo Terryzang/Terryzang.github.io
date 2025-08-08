@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: August 8, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1abdbb84e0d01f97450b6e724b0f513f.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="这篇文章是信号检测模型系列的第三部分：在第一部分中，我主要讨论了如何使用贝叶斯（广义线性和非线性）建模技术估计单个被试的等方差高斯信号检测论（EVSDT）模型。在第二部分中，我主要讨论了如何使用层级贝叶斯模型同时估计多个被试的等方差高斯信号检测论模型。在这篇文章中，我扩展到了对评级（rating）任务的讨论，然后展示如何借助R语言和brms工具包（Burkner2017; R Core Team 2017）使用贝叶斯方法估计相等与不等方差高斯信号检测论（UVSDT）的模型。在这里，我们主要讨论单个被试的估计模型。在下一篇博客中，我们将讨论多被试的层级模型。" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/" />
+<link rel="canonical" href="https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_276167d0fdd13cd7.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_bc6479ba188df54b.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Chinese Open Science Network" />
+<meta property="og:url" content="https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/" />
+<meta property="og:title" content="翻译 | 信号检测论的贝叶斯估计 (三) | Chinese Open Science Network" />
+<meta property="og:description" content="这篇文章是信号检测模型系列的第三部分：在第一部分中，我主要讨论了如何使用贝叶斯（广义线性和非线性）建模技术估计单个被试的等方差高斯信号检测论（EVSDT）模型。在第二部分中，我主要讨论了如何使用层级贝叶斯模型同时估计多个被试的等方差高斯信号检测论模型。在这篇文章中，我扩展到了对评级（rating）任务的讨论，然后展示如何借助R语言和brms工具包（Burkner2017; R Core Team 2017）使用贝叶斯方法估计相等与不等方差高斯信号检测论（UVSDT）的模型。在这里，我们主要讨论单个被试的估计模型。在下一篇博客中，我们将讨论多被试的层级模型。" /><meta property="og:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2021-01-30T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2021-01-30T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/"
+  },
+  "name": "翻译 | 信号检测论的贝叶斯估计 (三)",
+  
+  
+  "startDate": "2021-01-30T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "OpenTransfer Team"
+  },
+  
+  "description": "这篇文章是信号检测模型系列的第三部分：在第一部分中，我主要讨论了如何使用贝叶斯（广义线性和非线性）建模技术估计单个被试的等方差高斯信号检测论（EVSDT）模型。在第二部分中，我主要讨论了如何使用层级贝叶斯模型同时估计多个被试的等方差高斯信号检测论模型。在这篇文章中，我扩展到了对评级（rating）任务的讨论，然后展示如何借助R语言和brms工具包（Burkner2017; R Core Team 2017）使用贝叶斯方法估计相等与不等方差高斯信号检测论（UVSDT）的模型。在这里，我们主要讨论单个被试的估计模型。在下一篇博客中，我们将讨论多被试的层级模型。"
+}
+</script>
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>翻译 | 信号检测论的贝叶斯估计 (三) | Chinese Open Science Network</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b3b50dbd1acb9df11d6eaef9eef68912" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.a34d644821f8082b8ecf344df0738d37.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>HOME</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ABOUT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/about/cosn/"><span>ABOUT COSN</span></a>
+              
+                <a class="dropdown-item" href="/about/people/"><span>PEOPLE</span></a>
+              
+                <a class="dropdown-item" href="/about/duty/"><span>COMMITTEE DUTY</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/news/"><span>NEWS</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>EVENT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/event/opentalk"><span>OpenTalks</span></a>
+              
+                <a class="dropdown-item" href="/event/openmind"><span>OpenMinds</span></a>
+              
+                <a class="dropdown-item" href="/event/opentransfer"><span>OpenTransfer</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>CONTACT</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>翻译 | 信号检测论的贝叶斯估计 (三)</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/opentransfer-team/">OpenTransfer Team</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jan 30, 2021
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <p><i><b>原标题：</b>Bayesian Estimation of Signal Detection Models, Part 3<br>
+<b>原文地址：</b><a href="https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/" target="_blank" rel="noopener">https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/</a><br>
+<b>原作者：</b>Matti. Vuorre<br>
+<b>译者：</b>刘帅呈 高昊<br>
+<b>校对：</b>胡传鹏 金海洋 于玮烨<br></i></p>
+<h3>引言</h3>
+<h4>案例数据：评级任务</h4>
+<p style="text-indent:32.4px">我们首先使用来自Decarlo（2003）的示例数据，简单地讨论一下评级任务。在之前的文章中，我们讨论了信号检测实验。这个实验中的实验材料要么是旧的，要么是新的，被试对实验材料进行 “旧”或“新”的二项的反应。在这里，我们将对实验任务进行简单的修改，被试将表达他们的（不）确定性：即在每个试次（trial）中呈现的实验材料依旧是旧的或者新的，但是被试需要对他们关于刺激材料的判断做出确信度评级。例如，在下面的数据中，参与者可以用数字来回答，表示他们认为这个项目是旧的确信度：1 =肯定是新的，…，6 =肯定是旧的。</p>
+<p style="text-indent:32.4px">对于结果数据的一个解释是，被试为确信度评级设置了许多标准，例如：反应为6比反应为4需要更多的证据。也就是说，在回答“肯定是新的”、“可能是新的”等问题时，会有不同的标准。然而，被试的辨别力应该不受影响。</p>
+<p style="text-indent:32.4px">下面的案例数据以一种汇总的形式呈现（整理了新或者旧（isold=1）两种试次类型中每个确信度的反应数量（Decarlo，2003））：</p>
+<pre><code class="language-r">
+library(tidyverse)
+dsum <- tibble( 
+      isold = c(0,0,0,0,0,0,1,1,1,1,1,1),
+      y =c(1:6, 1:6）,
+      count = c(174, 172, 104, 92, 41, 8, 46, 57, 66, 101, 154, 173)
+      )
+dsum
+  ## # A tibble: 12 x 3
+  ##   isold     y count
+  ##   &lt;dbl&gt; &lt;int&gt; &lt;dbl&gt;
+  ## 1   0   1  174
+  ## 2   0   2  172
+  ## 3   0   3  104
+  ## 4   0   4  92
+  ## 5   0   5   41
+  ## 6   0   6   8
+  ## 7   1   1   46
+  ## 8   1   2   57
+  ## 9   1   3   66
+  ## 10   1   4   101
+  ## 11   1   5   154
+  ## 12   1   6   173
+</code></pre>
+<p style="text-indent:32.4px">然而，这几篇博客文章的一个主题是：我们不需要将数据汇总为计数数据（或单元（cell）数据，或类似的），而是尽可能的直接使用实验提供的原始数据。我认为，特别是当我们想包含协变量时，使用这种试次水平的数据在计算和概念上都更容易。以下是原始试次水平格式的数据：</p>
+<pre><code class="language-r">
+d <- tibble( 
+      isold = c(rep(0, 174), rep(0, 172), rep(0, 104), rep(0, 92), rep(0, 41), rep(0, 8),
+      rep(1, 46), rep(1, 57), rep(1, 66), rep(1, 101), rep(1, 154), rep(1, 173)),
+      y = c(rep(1, 174), rep(2, 172), rep(3, 104), rep(4, 92), rep(5, 41), rep(6, 8),
+      rep(1, 46), rep(2, 57), rep(3, 66), rep(4, 101), rep(5, 154), rep(6, 173)) 
+  ) 
+  d
+  ## # A tibble: 1,188 x 2
+  ##    isold     y
+  ##    &lt;dbl&gt; &lt;dbl&gt;
+  ##  1     0     1
+  ##  2     0     1
+  ##  3     0    1
+  ##  4     0     1
+  ##  5     0     1
+  ##  6     0     1
+  ##  7     0     1
+  ##  8     0     1
+  ##  9     0     1
+  ## 10     0     1
+  ## # ... with 1,178 more rows
+</code></pre>
+<p style="text-indent:32.4px">（上面的代码不够整洁，如果有人知道可以把汇总数据整理为整洁的试次水平数据的其他方法，请告诉我。）如果你想在自己的电脑上面尝试，可以在R语言上执行上述代码。我们现在可以从EVSDT模型开始，让信号检测论模型拟合这个被试的数据。</p>
+<h3>EVSDT：一个被试的评级反应</h3>
+<p style="text-indent:32.4px">回忆一下，二项反应的EVSDT模型中，我们对概率P（在试次i中是旧的反应）进行了建模：</p>
+$$
+p_i = Φ(d'\text{isold}_i - C)
+$$
+<p style="text-indent:32.4px">该模型呈现了对新的实验材料反应为旧（c=zFAR）的概率（z分数），以及对旧的实验材料反应依然为旧（d'）的增量（z分数）。对于评级数据，模型是相似的，只是现在包含了多个c。这表示对不同确信度评级反应的不同标准。这些标准被认为是有顺序的——当试次中的信号（记忆强度）较弱时，与报告“确定为旧”相比，人们应该更容易报告“不确定为旧”。</p>
+<p style="text-indent:32.4px">评级反应的EVSDT模型对反应确信度评级为k或更低（信心评级）的累计概率进行建模：</p>
+$$
+p(y_i \ ≤ k_i) = Φ(d'\text{isold}_i - C_{ki})
+$$
+<p style="text-indent:32.4px">该模型也被称为序数概率Φ模型（Ordinal Probit Model），它可以通过很多回归模型软件进行拟合。Decarl（2003）展示了在SPSS中如何使用PLUM程序拟合单个被试的模型。然而，我们可以通过在R语言中brms工具包（Bürkner，2017; Stan Development Team，2016）估计这个模型并得到该模型的贝叶斯推论。使用该模型（暂时不考虑先验分布）对上述数据进行估计的brms语法如下:</p>
+<pre><code class="language-r">
+fit1 <- brm(y ~ isold, 
+            family = cumulative(link="probit"), 
+            data = d,
+            cores = 4,
+          file = here::here("static/data/sdtmodel3-1"))
+</code></pre>
+<p style="text-indent:32.4px">该模型估计了每个反应类别的截距（反应标准）和isold的效应，即d'。模型的后验分布总结如下：</p>
+<pre><code class="language-r">
+summary(fit1)
+  ##  Family: cumulative
+  ##   Links: mu = probit; disc = identity
+  ## Formula: y ~ isold
+  ##    Data: d (Number of observations: 1188)
+  ## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+  ##          total post-warmup samples = 4000
+  ##
+  ## Population-Level Effects:
+  ##              Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+  ## Intercept[1]    -0.44      0.05    -0.54    -0.35       4256 1.00
+  ## Intercept[2]     0.23      0.05     0.14     0.33       5885 1.00
+  ## Intercept[3]     0.67      0.05     0.57     0.77       4736 1.00
+  ## Intercept[4]     1.20      0.06     1.09     1.31       4620 1.00
+  ## Intercept[5]     1.88      0.07     1.75     2.01       4436 1.00
+  ## isold            1.26      0.07     1.13     1.39       4157 1.00
+  ##
+  ## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample
+  ## is a crude measure of effective sample size, and Rhat is the potential
+  ## scale reduction factor on split chains (at convergence, Rhat = 1).
+</code></pre>
+<p style="text-indent:32.4px">5个截距是模型中的5个标准，isold为d'。我也用SPSS对这个模型进行了估计，比较这两种方法的结果可能会有帮助：</p>
+<pre><code class="language-r">
+PLUM y WITH x
+  /CRITERIA=CIN(95) DELTA(0) LCONVERGE(0) MXITER(100) MXSTEP(5) PCONVERGE(1.0E-6) SINGULAR(1.0E-8)
+  /LINK=PROBIT
+  /PRINT=FIT KERNEL PARAMETER SUMMARY.
+Parameter Estimates
+|-----------------|--------|----------|-----------------------------------|
+|                 |Estimate|Std. Error|95% Confidence Interval            |
+|                 |        |          |-----------------------|-----------|
+|                 |        |          |Lower Bound            |Upper Bound|
+|---------|-------|--------|----------|-----------------------|-----------|
+|Threshold|[y = 1]|-.442   |.051      |-.541                  |-.343      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 2]|.230    |.049      |.134                   |.326       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 3]|.669    |.051      |.569                   |.769       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 4]|1.198   |.056      |1.088                  |1.308      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 5]|1.876   |.066      |1.747                  |2.005      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Location |x      |1.253   |.065      |1.125                  |1.381      |
+|-------------------------------------------------------------------------|
+Link function: Probit.
+</code></pre>
+<p style="text-indent:32.4px">不出所料，从brms得到的数值结果（后验均值和标准差，可信区间）与从SPSS中得到的频率论结果相匹配。</p><p style="text-indent:32.4px">现在我们可以用图形来说明估计的参数如何映射到信号检测论模型。d'是信号和噪音分布峰值之间的距离：表示被试分辨信号和噪音的能力。这5个截距是指对不同确信度评级的标准（z分数）。如果把z分数换算成比例（例如使用R语言中的pnorm()函数），他们测量的是在噪音分布下z分数左边的累积面积(模型图见图1)。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图1通过参数后验均值可视化的等方差高斯信号检测模型这两个分布一个是噪音分布虚线一个是信号分布实线竖直的点线是反应标准d是两个分布的峰值距离">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_1.png" alt="图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&#39;是两个分布的峰值距离。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&rsquo;是两个分布的峰值距离。
+    </figcaption></figure>
+<br>
+<h3>UVSDT：一个被试的评级反应</h3>
+<p style="text-indent:32.4px">值得注意的是，上面的模型假设信号和噪音分布的方差相等。不等方差SDT模型（UVSDT）允许信号分布和噪音分布有不同的方差（噪音的标准差还是固定为1），并且当允许信号分布的标准差变化时，它始终大于1。</p><p style="text-indent:32.4px">UVSDT模型增加了一个参数(Decarlo，2003)来描述信号分布的标准差。我们可以把它作为一个比例参数包含在上面的公式中。但是因为标准差的参数一定大于零，为方便起见，可以使用$\text{log}(σ_\text{old}) = a$：</p>
+$$
+p(y_i \le k_i) = \Phi\left(\frac{d' \cdot \text{isold}_i - c_k}{\exp(a \cdot \text{isold}_i)}\right)
+$$
+<p style="text-indent:32.4px">这种非线性模型，也被称为不等误差概率模型（a probit model with heteroscedastic error， 例如：DeCarlo （2010）），可以使用brms工具包进行估计。最初，我认为我们可以写出非线性brms公式来描述序数概率模型，但是brms不支持非线性累积序数模型。然后，我开始修改原始的Stan代码去估算该模型，尽管这样做可行，但对于开展实证研究却不太实用，因为并不是每个人都想编写Stan代码。</p><p style="text-indent:32.4px">在与brms的创建者Paul Bürkner进行多次交流之后（Paul Bürkner在免费和开源软件上做了很多努力，应该为他颁发金牌），我发现，在默认情况下brms在序数回归模型中包含类似的参数。如果您向上滚动并查看fit1的总结，你可以在最上面看到该模型的公式为：</p>
+<pre><code class="language-r">
+Formula: y ~ isold      
+         disc = 1
+</code></pre>
+<p style="text-indent:32.4px">换句话说，有一个“discrimination”参数disc，默认情况下设置为1。这里是brms如何参数化序数概率模型的：</p>
+$$
+p(y_i \le k_i) = \Phi\left(disc * \left( c_{ki} - d' \text{isold}_i\right)\right)
+$$
+<p style="text-indent:32.4px">重要的是，我们还可以在disc上包含预测变量。在这种情况下，当isold为1时，我们想对disc进行估计。因此，新实验材料的disc为1，但是旧实验材料的disc需要从实验数据中估计得来。默认情况下，该参数是通过对数链接函数（a log linkfunction）进行建模，因此包含一个0/1预测因子（isold）就应该可以正常工作：</p>
+$$
+p(y_i \le k_i) = \Phi\left(\exp(disc\text{isold}_i) * \left( c_{ki} - d' \text{isold}_i\right)\right)
+$$
+<p style="text-indent:32.4px">因此，我们只需对EVSDT模型的代码进行一些细微调整即可估算该模型：</p>
+<pre><code class="language-r">
+uvsdt_m <- bf(y ~ isold, disc ~ 0 + isold)
+</code></pre>
+<p style="text-indent:32.4px">该模型中有两个brms公式。首先，我们对<span style="color:#d23;"> y ~ isold</span>已经很熟悉了。在第二个公式中，我们编写<span style="color:#d23;">disc ~ 0 + isold</span>以防止模型对噪声分布的这个参数进行估计：回忆一下，我们已经将噪声分布的标准差设置为1（通过$\exp(disc * 0) = 1$实现）。在R语言中（以及brms中），建模语法<span style="color:#d23;">0 + ...</span>意味着从模型中除去截距。通过仅包含<span style="color:#d23;">isold</span>，我们可以实现如上所述的0/1预测因子。然后，我们可以估算该模型：
+</p>
+<pre><code class="language-r">
+fit2 <- brm(uvsdt_m,
+            family = cumulative(link="probit"),
+            data = d,
+            control = list(adapt_delta = .99),
+            cores = 4,
+            file = here::here("static/data/sdtmodel3-2"))
+</code></pre>
+该模型参数的估计结果如下：
+<pre><code class="language-r">
+summary(fit2)
+  ##  Family: cumulative
+  ##   Links: mu = probit; disc = log
+  ## Formula: y ~ isold
+  ##          disc ~ 0 + isold
+  ##    Data: d (Number of observations: 1188)
+  ## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+  ##          total post-warmup samples = 4000
+  ##
+  ## Population-Level Effects:
+  ##              Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+  ## Intercept[1]    -0.54      0.05    -0.64    -0.43       3420 1.00
+  ## Intercept[2]     0.20      0.05     0.11     0.30       5291 1.00
+  ## Intercept[3]     0.71      0.05     0.61     0.82       4472 1.00
+  ## Intercept[4]     1.37      0.07     1.25     1.51       2203 1.00
+  ## Intercept[5]     2.31      0.11     2.10     2.54       1562 1.00
+  ## isold            1.53      0.10     1.35     1.72       1724 1.00
+  ## disc_isold      -0.36      0.06    -0.48    -0.24       1501 1.00
+  ##
+  ## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample
+  ## is a crude measure of effective sample size, and Rhat is the potential
+  ## scale reduction factor on split chains (at convergence, Rhat = 1).
+</code></pre>
+<p style="text-indent:32.4px">注意，我们需要翻转disc参数的符号以获得。对其求幂为我们提供了信号分布的标准差，并且由于我们是在贝叶斯框架中估算模型，因此我们得到的是该参数的后验分布，绘制在图2的y轴上。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图2拟合一个被试数据获得的两个uvsdt参数d和信号分布的标准偏差的近似联合后验概率密度浅黄色表示较高的后验密度红点表示从spss的序数回归模块获得的最大似然估计">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_2.png" alt="图2：拟合一个被试数据获得的两个UVSDT参数（d&#39;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图2：拟合一个被试数据获得的两个UVSDT参数（d&rsquo;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">我们还可以将brms的结果与SPSS的结果（Decarl，2003描述的SPSS程序）进行比较：</p>
+<pre><code class="language-r">
+PLUM y WITH x
+  /CRITERIA=CIN(95) DELTA(0) LCONVERGE(0) MXITER(100) MXSTEP(5) PCONVERGE(1.0E-6) SINGULAR(1.0E-8)
+  /LINK=PROBIT
+  /PRINT=FIT KERNEL PARAMETER SUMMARY
+  /SCALE=x .
+Parameter Estimates
+|-----------------|--------|----------|-----------------------------------|
+|                 |Estimate|Std. Error|95% Confidence Interval            |
+|                 |        |          |-----------------------|-----------|
+|                 |        |          |Lower Bound            |Upper Bound|
+|---------|-------|--------|----------|-----------------------|-----------|
+|Threshold|[y = 1]|-.533   |.054      |-.638                  |-.428      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 2]|.204    |.050      |.107                   |.301       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 3]|.710    |.053      |.607                   |.813       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 4]|1.366   |.067      |1.235                  |1.498      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 5]|2.294   |.113      |2.072                  |2.516      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Location |x      |1.519   |.096      |1.331                  |1.707      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Scale    |x      |.348    |.063      |.225                   |.472       |
+|-------------------------------------------------------------------------|
+Link function: Probit.
+</code></pre>
+<p style="text-indent:32.4px">再次，因为我们使用了无信息先验分布（uninformative prior distributions），最大似然估计（SPSS）的结果在数值上与我们贝叶斯的结果相匹配。绘制模型的分布图显示，信号分布比噪声分布具有更大的方差（图3）。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图3参数后验均值可视化的不等方差高斯信号检测论模型这两个分布是噪声分布虚线和信号分布实线竖直点线是反应标准d是两个分布的峰之间的比例距离">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_3.png" alt="图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&#39;是两个分布的峰之间的比例距离。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&rsquo;是两个分布的峰之间的比例距离。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">研究者所感兴趣的其他百分比数所对应的量（quantities）可以从参数后验分布中计算得来。从后验中获取样本的一个好处是，如果我们逐行完成这些计算，我们将自动获得这些后验分布（样本）其他百分比数所对应的量。</p>
+<p style="text-indent:32.4px">在这里，我们计算这样一个量：噪声与信号标准差之比（$\exp(-a)$；注意：我们的模型以<i>disc_isold</i>形式返回<i>-a</i>），这也是z-ROC曲线的斜率。我们将首先获取<span style="color:#d23;">disc_isold</span>的后验样本，然后计算比率，并汇总后验样本分布中2.5％，50％和97.5％所对应的量。</p>
+<pre><code class="language-r">
+as.data.frame(fit2, pars = "b_disc_isold") %>%    
+transmute(ratio = exp(b_disc_isold)) %>%
+    pull(ratio) %>%
+    quantile(probs = c(.025, .5, .975))
+##  2.5%   50% 97.5%
+## 0.618 0.699 0.788
+</code></pre>
+<p style="text-indent:32.4px">这些展示了参数的95％可信区间和中位数。这些可以在出版物中来描述对应的参数。我们还可以将后验分布绘制为直方图：</p>
+<pre><code class="language-r">
+as.data.frame(fit2, pars = "b_disc_isold") %>%
+    transmute(ratio = exp(b_disc_isold)) %>%
+    ggplot(aes(ratio)) +
+    geom_histogram(col="black", fill="gray70") +
+theme(aspect.ratio = 1)
+</code></pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_4.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+<br>
+感谢阅读。
+<p><br><br></p>
+<h3>参考文献</h3><i>
+<p>[1] Bürkner, Paul-Christian. 2017. “Brms: An R Package for Bayesian Multilevel Models Using Stan.” Journal of Statistical Software 80 (1): 1–28. <a href="https://doi.org/10.18637/jss.v080.i01" target="_blank" rel="noopener">https://doi.org/10.18637/jss.v080.i01</a>.</p>
+<p>[2] Decarlo, Lawrence T. 2003. “Using the PLUM Procedure of SPSS to Fit Unequal Variance and Generalized Signal Detection Models.” Behavior Research Methods, Instruments, &amp; Computers 35 (1): 49–56. <a href="https://doi.org/10.3758/BF03195496" target="_blank" rel="noopener">https://doi.org/10.3758/BF03195496</a>.</p>
+<p>[3] DeCarlo, Lawrence T. 2010. “On the Statistical and Theoretical Basis of Signal Detection Theory and Extensions: Unequal Variance, Random Coefficient, and Mixture Models.” Journal of Mathematical Psychology 54 (3): 304–13. <a href="https://doi.org/10.1016/j.jmp.2010.01.001" target="_blank" rel="noopener">https://doi.org/10.1016/j.jmp.2010.01.001</a>.</p>
+<p>[4] R Core Team. 2017. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. <a href="https://www.R-project.org/" target="_blank" rel="noopener">https://www.R-project.org/</a>.</p>
+<p>[5] Stan Development Team. 2016. Stan: A C++ Library for Probability and Sampling, Version 2.15.0. <a href="http://mc-stan.org/" target="_blank" rel="noopener">http://mc-stan.org/</a>.</p>
+</i>
+<!-- <span style="color:#d23;">改变颜色院</span>。 -->
+<!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ -->
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/of/">OF</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F&amp;text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1&#43;%28%E4%B8%89%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F&amp;t=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1&#43;%28%E4%B8%89%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E7%BF%BB%E8%AF%91%20%7C%20%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1%20%28%E4%B8%89%29&amp;body=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1&#43;%28%E4%B8%89%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1&#43;%28%E4%B8%89%29%20https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2021%25E8%25B4%259D%25E5%258F%25B6%25E6%2596%25AF3%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E4%BF%A1%E5%8F%B7%E6%A3%80%E6%B5%8B%E8%AE%BA%E7%9A%84%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1&#43;%28%E4%B8%89%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Chinese Open Science Network. Content licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

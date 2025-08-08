@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COSN_Terry | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/cosn_terry/</link>
+      <atom:link href="https://terryzang.github.io/author/cosn_terry/index.xml" rel="self" type="application/rss+xml" />
+    <description>COSN_Terry</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>COSN_Terry</title>
+      <link>https://terryzang.github.io/author/cosn_terry/</link>
+    </image>
+    
+    <item>
+      <title>专访eLife主编：失去影响因子，中国来稿减少了80%</title>
+      <link>https://terryzang.github.io/news/2025-5-elife/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-5-elife/</guid>
+      <description>&lt;p&gt;&lt;b&gt;编者荐语:&lt;/b&gt;Elife作为科学出版的先行者，正在积极探索不同于当前“发表 vs 拒稿”的模式，而是公开审稿意见和质性评分对稿件进行评估。可以从elife新主编的访谈中看到这个新模式是研究者，而不是出版商，所做出的努力。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

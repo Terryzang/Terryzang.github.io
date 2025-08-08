@@ -1,0 +1,1643 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: August 8, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1abdbb84e0d01f97450b6e724b0f513f.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="区间估计是一种对包含抽样不确定性的参数进行估计的方法，它长期以来被认为是统计分析的关键组成部分。区间估计的方法多种多样，但最流行的是置信区间（confidence intervals, CIs），即在重复抽样中以某个已知比率包含参数真值的区间。研究者通常认为，置信区间的宽度反映估计的精确度；置信区间指明哪些参数值更可能是真值或更加合理；区间的置信水平（例如，95%）表示真值在该区间内的可能性。然而，本文借助多个实例展示了置信区间并不一定具备这些属性中的任何一个，且这些误解会导致不合理或随意的推断。因此，我们敬告不要依赖于置信区间理论来说明区间估计的合理性，并建议使用其他区间估计的理论。" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/" />
+<link rel="canonical" href="https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_276167d0fdd13cd7.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_bc6479ba188df54b.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Chinese Open Science Network" />
+<meta property="og:url" content="https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/" />
+<meta property="og:title" content="翻译 | 将信心放在置信区间的谬误 | Chinese Open Science Network" />
+<meta property="og:description" content="区间估计是一种对包含抽样不确定性的参数进行估计的方法，它长期以来被认为是统计分析的关键组成部分。区间估计的方法多种多样，但最流行的是置信区间（confidence intervals, CIs），即在重复抽样中以某个已知比率包含参数真值的区间。研究者通常认为，置信区间的宽度反映估计的精确度；置信区间指明哪些参数值更可能是真值或更加合理；区间的置信水平（例如，95%）表示真值在该区间内的可能性。然而，本文借助多个实例展示了置信区间并不一定具备这些属性中的任何一个，且这些误解会导致不合理或随意的推断。因此，我们敬告不要依赖于置信区间理论来说明区间估计的合理性，并建议使用其他区间估计的理论。" /><meta property="og:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-08-07T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-08-07T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/"
+  },
+  "name": "翻译 | 将信心放在置信区间的谬误",
+  
+  
+  "startDate": "2024-08-07T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "OpenTransfer Team"
+  },
+  
+  "description": "区间估计是一种对包含抽样不确定性的参数进行估计的方法，它长期以来被认为是统计分析的关键组成部分。区间估计的方法多种多样，但最流行的是置信区间（confidence intervals, CIs），即在重复抽样中以某个已知比率包含参数真值的区间。研究者通常认为，置信区间的宽度反映估计的精确度；置信区间指明哪些参数值更可能是真值或更加合理；区间的置信水平（例如，95%）表示真值在该区间内的可能性。然而，本文借助多个实例展示了置信区间并不一定具备这些属性中的任何一个，且这些误解会导致不合理或随意的推断。因此，我们敬告不要依赖于置信区间理论来说明区间估计的合理性，并建议使用其他区间估计的理论。"
+}
+</script>
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>翻译 | 将信心放在置信区间的谬误 | Chinese Open Science Network</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="cb98ad5d4d10db18d45521c70f513b98" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.a34d644821f8082b8ecf344df0738d37.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>HOME</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ABOUT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/about/cosn/"><span>ABOUT COSN</span></a>
+              
+                <a class="dropdown-item" href="/about/people/"><span>PEOPLE</span></a>
+              
+                <a class="dropdown-item" href="/about/duty/"><span>COMMITTEE DUTY</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/news/"><span>NEWS</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>EVENT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/event/opentalk"><span>OpenTalks</span></a>
+              
+                <a class="dropdown-item" href="/event/openmind"><span>OpenMinds</span></a>
+              
+                <a class="dropdown-item" href="/event/opentransfer"><span>OpenTransfer</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>CONTACT</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>翻译 | 将信心放在置信区间的谬误</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/opentransfer-team/">OpenTransfer Team</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Aug 7, 2024
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <!-- <label for="colorPicker">选择颜色：</label>  -->
+<!-- <input type="color" id="colorPicker" value="#00000084"> -->
+<div style="border-left: 6px solid #4A90E2;
+            background-color: #f5f7fa;
+            padding: 10px 16px;
+            font-size: 20px;
+            line-height: 1.8;
+            border-radius: 4px;">
+  <p><b>原文信息</b></p><i>
+<p>Morey, R. D., Hoekstra, R., Rouder, J. N., Lee, M. D., &amp; Wagenmakers, E.-J. (2016). The fallacy of placing confidence in confidence intervals. Psychonomic Bulletin &amp; Review, 23(1), 103–123. <a href="https://doi.org/10.3758/s13423-015-0947-8" target="_blank" rel="noopener">https://doi.org/10.3758/s13423-015-0947-8</a></p>
+<p></i><p><b>译者/校对者列表</b></p><i>
+OpenTransfer 自动翻译工作流程；陈梁杰（北京大学）；温秀娟（广州医科大学）；刘若婷</i></p>
+</div>
+<br>本文word版本请见：https://osf.io/fajrd
+<br>本文约22997字，全部阅读结束大约需要半小时以上，请合理规划阅读时长。
+<h3 style="color:#6607ff73;">摘要</h3>
+区间估计是一种对包含抽样不确定性的参数进行估计的方法，它长期以来被认为是统计分析的关键组成部分。区间估计的方法多种多样，但最流行的是置信区间（confidence intervals, CIs），即在重复抽样中以某个已知比率包含参数真值的区间。研究者通常认为，置信区间的宽度反映估计的精确度；置信区间指明哪些参数值更可能是真值或更加合理；区间的置信水平（例如，95%）表示真值在该区间内的可能性。然而，本文借助多个实例展示了置信区间并不一定具备这些属性中的任何一个，且这些误解会导致不合理或随意的推断。因此，我们敬告不要依赖于置信区间理论来说明区间估计的合理性，并建议使用其他区间估计的理论。
+<br><b><i>关键词：</i></b>贝叶斯推理与参数估计，贝叶斯统计学，统计推断，统计
+<br><h3 style="color:#6607ff73;">正文</h3>
+<p style="margin: 1em 0; font-size: 18px; line-height: 1.6; font-family: 'SimSun';">
+  “你一直在使用那个词。我不认为它意味着你认为它意味着的那样。”
+</p>
+<p style="text-align: right; font-size: 16px; font-style: italic;font-family: 'SimSun';">
+  —— Inigo Montoya，《公主新娘》（1987）
+</p>
+<p style="text-indent:32.4px">在过去的百年里，统计学经历了飞速的发展，数据推断方法激增。这些方法在其哲学基础、解决问题的方式，以及实际应用的频繁程度等方面，呈现出广泛的差异。其中，备受欢迎且广泛应用的一类方法是区间估计方法。尽管这些方法在哲学基础和计算方式上有所不同，但它们共同点在于：能够提供一系列可能的参数值，而非单一值，来反映测量或抽样过程中的不确定性。
+<p style="text-indent:32.4px">在诸多区间估计方法中，置信区间（CI）尤为受到青睐。几乎所有基础统计学教材都会介绍置信区间；众多知名期刊的方法论指南也推荐甚至要求使用置信区间（如，Psychonomics Society, 2012; Wilkinson & the Task Force on Statistical Inference, 1999）；并且它们构成了方法学改革方案的基础（Cumming, 2014; Loftus, 1996）。在当前的方法学改革中，正确理解置信区间理论允许和不允许的推断类型，对于确定未来科学研究的方向至关重要。
+<p style="text-indent:32.4px">本文认为，当前对置信区间的推崇往往基于一种非原则性的“民间理解”。接下来，本文将概述这种民间CI理论中的三大谬论，并在CI理论的哲学和历史背景下进行分析；通过一个改编自统计学文献的简明例子，展示CI理论与民间CI理论之间的差异；最后，在广泛支持与使用CI的方差分析和回归分析中，展示置信的常见谬误，并讨论CI理论与民间CI理论不一致的深层含义。
+<p style="text-indent:32.4px">本文的<b>核心主张</b>是：不应像如今支持者所建议的那样使用置信区间，因为这种方法在置信区间理论中并未得到验证。他们所谓的CI的优势，并非源于置信区间理论；如果按照他们的建议使用CI，可能导致严重的误导性推断。在许多CI应用中，支持者实际上并未探讨其是否支持合理的推断。<b>因此，我们认为，在最佳情况下（推断的合理性可以在CI理论之外证明），诉诸CI理论是不必要的；而在最糟糕的情况下（推断合理性不能被证明），这种使用是不明智的</b>
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+置信区间的民间理解</p>
+</h2>
+<p style="text-indent:32.4px">在科学实践中，经常需要对我们感兴趣的某些数值进行估计，并表达对这些估计的不确定性。例如，当需要估计正态总体的真实均值$μ$，通常会选择样本均值$x̄$作为估计值。一般来说，我们希望$x̄$能接近$μ$，这种接近程度取决于样本大小和样本中观察到的变异性。为了表达估计值的不确定性，通常会使用置信区间。
+<p style="text-indent:32.4px">关于置信区间，所有人都同意的一个基本定义是：某参数（通常称为$\theta$，可能是总体均值、中位数、方差、概率或任何其他未知量）的置信区间是由一个特定的重复抽样过程生成的区间，这个过程有固定概率包含该参数。例如，如果生成一个包含$\theta$的区间的概率为0.5，则代表50%的置信区间；如果这个概率为0.95，则代表95%的置信区间。
+<p style="text-indent:32.4px"><b>定义1（置信区间）：</b>参数$\theta$的X%置信区间是由一个特定过程生成的区间$[L,U]$，在重复抽样中，这个过程有X%的概率包含$\theta$的真值，且对$\theta$的所有可能值都适用（Neyman, 1937）<sup>[1]</sup>。
+<p>置信区间的置信系数来源于生成它的过程。因此，区分置信程序（confidence procedure）和置信区间是有帮助的：X% 置信程序是在重复样本中生成包含$\theta$的区间的过程，而置信区间是由这样的过程生成的特定区间。置信程序是一个随机过程；而置信区间是被观察并固定的。</p>
+<p>如何解释置信程序似乎很清晰：它是生成置信区间的过程，这些区间将在样本的固定比例中包含参数的真值。然而，当我们从数据中计算出一个具体的区间并必须对其进行解释时将是困难的。如何从我们对置信程序属性的了解转移到对某个观察到的置信区间的解释，这并不明显。</p>
+<p>教科书作者和置信区间的拥护者通过三个显著特点，巧妙地填补了理论与实践之间的鸿沟：（1）置信区间的置信系数被视为对区间包含参数的不确定性的衡量；（2）置信区间的宽度反映了对估计不确定性的评估；（3）这个区间被认为涵盖了参数的“可能”或“合理”取值范围。这些观点均涉及基于观测数据进行参数推断，即所谓的“后数据（post-data）”推断。</p>
+<p>例如，Masson和Loftus（2003）针对95%置信区间提出：“在没有其他信息的前提下，我们得到的置信区间有95%的概率包含总体均值。” 而Cumming（2014）则表述：“我们有95%的把握认为，我们的区间涵盖了[参数]，并且可以认为这个区间的上下限分别是[参数]可能的最大和最小值。”</p>
+<p>然而，这些关于置信区间的解释并不准确，它们似乎是对置信区间定义的自然但错误的推断。我们将其称为“基本置信谬误”（Fundamental Confidence Fallacy）。</p>
+<p style="text-indent:32.4px"><b>谬误1（基本置信谬误）：</b>如果一个随机区间以X％的概率包含真值，那么特定观察到的区间包含真值的可能性或概率同样是X％；或者，我们可以对观察到的区间包含真值有X％的信心。
+<p>基本置信谬误的逻辑似乎是合理的：在给定样本的情况下，我们可以得到任意一个可能的置信区间。如果95%的可能的置信区间包含真值，那么在没有其他信息的情况下，似乎有理由说我们有95%的把握认为我们获得了一个包含真值的置信区间。然而，“置信区间”这一术语本身就暗示了这种谬误：在通常的语境中，“置信”这个词与可信性和信念的概念紧密相关。与“覆盖程序（coverage procedure）”这一更精确的术语相比，“置信区间”一词似乎助长了基本置信谬误。</p>
+<p>基本置信谬误的核心混淆在于：它将观察数据之前已知的信息——即置信区间无论如何都有固定的机会包含真值——与观察数据之后所获得的信息混为一谈。频率主义CI理论并未对某一特定观察到的置信区间包含真值的概率做出任何陈述；它要么是0（如果区间不包含参数），要么是1（如果区间确实包含了真值）。</p>
+<p>本文通过几个例子展示了计算区间之前和之后所知信息的不同。目前，我们提供一个简单的例子，称之为“微不足道的区间（trivial interval）”。假设要通过两个独立观测值$y_1$和$y_2$估计连续总体的均值。如果$y_1$大于$y_2$，我们构造一个包含所有实数的置信区间$(-∞,∞)$；如果不是，则构造一个空置信区间。前者保证包含真值，后者则不包含。在观察数据之前，任意一个抽样区间包含真均值的概率显然为50%。然而，在观察数据之后，我们便能确切知道区间是否包含真值。将50%的先验概率应用于我们已确切知道区间是否包含真值的后数据情况，这无疑是一种根本性的推理错误。</p>
+<p>事实上，事后概率评估并非置信区间理论的宣传要点。例如，Neyman （1937, p. 349）指出：“当一个样本已经抽取并给出了[置信区间]时，我们是否能说在这种特定情况下，[参数]的真值落在[限制]内的概率等于[X%]？答案显然是否定的。” 频率主义哲学家Mayo（1981）进一步阐释道：“[这种误解]似乎源于人们对于置信区间的期望——它们能提供某些本质上无法提供的东西，即对未知参数值位于特定区间内的概率、信念或支持程度的度量。”近期研究表明，这种谬误在研究人员中普遍存在，他们可能是习自教科书、教师和置信区间的倡导者（Hoekstra et al., 2014）。</p>
+<p>如果置信区间不能用于评估参数在特定范围内的确定性，那么它们到底有什么用途呢？置信区间的支持者经常声称，置信区间可用于评估参数的估计精度。这被视为使用置信程序而非零假设显著性测试的主要原因之一（如，Cumming &amp; Finch, 2005; Cumming, 2014；Fidler &amp; Loftus, 2009; Loftus, 1993, 1996）。例如，Cumming（2014, p. 10）指出：“长置信区间很快就会告诉我们，我们的实验效果是否不佳且仅能提供不精确的估计。”Young和Lewis（1997, p. 309）指出：“了解点估计如何精确表示两组之间的真实差异非常重要。置信区间的宽度为我们提供了关于点估计精度的信息。”这便是置信区间的第二个谬误，即“精度谬误（precision fallacy）”。</p>
+<p style="text-indent:32.4px"><b>谬误2（精度谬误）：</b>置信区间的宽度反映了我们对参数的了解精度。窄置信区间意味着精确的了解，而宽置信区间则代表不精确的了解。
+<p>然而，估计的精度与置信区间的大小并没有必然联系。设想两位研究人员——一位资深研究员和一位博士生——正在分析一项包含50名参与者的实验数据。为了让博士生有所学习，资深研究员决定随机将参与者分为两组，每组25人，他们分别分析其中一组数据。在随后的会议上，他们分享了各自计算出的均值的Student&rsquo;s $t$置信区间。博士生的95%置信区间是52±2，而资深研究员的是53±4。资深研究员指出，他们的结果基本一致，可以将两个点估计的等权重加权平均值52.5作为真实均值的总估计。</p>
+<p>博士生却提出，她的置信区间更窄，因此应该给予更多的权重。她认为自己的估计更精确，应更为重要。她的导师则指出这是错误的，因为不均等加权两个均值得出的估计会与分析完整数据集得出的估计不同，而后者一定是52.5。博士生的误区在于，她错误地认为置信区间直接反映了后数据的精度。稍后，我们将通过几个例子说明，置信区间的宽度与参数估计的不确定性在某些情况下成反比，而在另一些情况下则没有任何关系。</p>
+<p>我们不能将观察到的置信区间解释为以某种概率包含真值；我们也不能将置信区间解释为它能指示我们估计的精度。置信区间的第三种常见谬误是：如Loftus（1996）所述，置信区间提供了一个“所观察到的均值模式应如何认真地被视为反映总体均值的潜在模式”的指标。当置信区间用于检验理论（Velicer et al., 2008）或支持零假设（即实际上为零）的论证时（Loftus, 1996），便采用了这种逻辑。我们将这种误解称为“似然性谬误（likelihood fallacy）”。</p>
+<p style="text-indent:32.4px"><b>谬误3（似然性谬误）：</b>置信区间包含了参数的可能值。区间内的值比区间外的值更有可能出现。这种谬误以多种形式存在，有时会涉及参数信念的合理性、可信度或可解释性的评估。
+<p>即便一个置信程序可能具有包含真值的固定平均概率，但在任何给定样本中，它是否包含“合理”的值则是另一个问题。正如我们即将展示的，即使是从置信区间理论角度看来“好的”的置信区间，也可能排除几乎所有合理的值，并且可能为空或无限窄，从而排除所有可能的值（Blaker &amp; Spjøtvoll, 2000; Dufour, 1997; Steiger, 2004; Steiger &amp; Fouladi, 1997; Stock &amp; Wright, 2000）。但正如Neyman（1941）所述： “我们不应该‘断定’[区间包含$\theta$]，也不应该‘相信’[区间包含$\theta$]&hellip;我们表现得好像我们真的知道真值[在区间内]一样。这是我们决策的结果，与‘推理’或‘结论’无关。推理在[推导出置信程序]时就结束了。我们在使用置信区间的过程中，并没有关于[$\theta$]值的任何‘信念’。”（Neyman, 1941, pp. 133–134）</p>
+<p>在现代统计学应用中，置信区间的使用有时会引起疑惑。Neyman曾明确指出，置信区间并不能支持任何关于某参数合理性的看法。即便是从频率检测的角度看，人们也会接受或拒绝特定参数值，但Mayo和Spanos（2006）强调，仅因特定值位于置信区间内，并不足以合理地接受它，他们将其称为 &ldquo;接受谬误&rdquo;。这种谬误与经典显著性检验中的一个常见误区相似，即未拒绝的零假设会被轻率接受。</p>
+<p>如果置信区间无法用于评估包含真值的概率和精确度，不能产生对参数值可能性和合理性的评估，那么它们的真正作用是什么呢？</p>
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+置信区间的理论基础</p>
+</h2>
+<p style="text-indent:32.4px">Neyman（1937）在其经典论文中为置信区间理论奠定了基础。Neyman关于置信区间的观点可以通过一个简单的实例来阐述。假设一位研究人员希望估计某个参数。Neyman建议研究人员按照以下三个步骤操作：
+<p>a. 开展实验并收集相关数据。</p>
+<p>b. 计算两个数值（较小的为L，较大的为U），并根据特定方法构建一个区间$[L,U]$。</p>
+<p>c. 声明$L \lt \theta \lt U$，即参数$\theta$落在这个区间内。</p>
+<p style="text-indent:32.4px">这些步骤的合理性在于，通过选择步骤（b），从长远来看，研究者在步骤（c）所做的声明将有X%的时间是正确的。按照这种方法计算出的任何区间都被称为置信区间。
+<p style="text-indent:32.4px">首先，我们探讨步骤（c）中关于落在区间内的声明的意义。根据置信区间理论，这一步骤并非是基于数据的信念、结论或任何形式的推理所得。它也不涉及实际是否在区间内的不确定性。这仅仅是一个二元声明，意味着在长期内具有特定的为真的概率。
+<p style="text-indent:32.4px">频率主义对置信程序的评估基于其“检验力（power）”，即排除错误参数值的频率。理想的区间应较短且能更频繁地排除错误值（Lehmann, 1959; Neyman, 1937, 1941; Welch, 1939）。考虑一个特定的错误值$\theta' \neq \theta$，不同的置信程序会以不同的比率将其排除。如果某个置信程序A平均而言比程序B更频繁地排除，则表明A对该值的处理更为有效。
+<p style="text-indent:32.4px">有时，我们会发现一个置信程序排除每个错误值的比率都超过另一个程序；在这种情况下，第一个程序的检验力总是优于第二个。甚至可能存在一个“最优”置信程序：它排除所有错误值的比率超过任何其他可能的程序，这类似于最强检验力的测试。虽然最佳置信程序并非总是存在，但我们总能将两个程序进行比较，以决定哪个更优（Neyman, 1952）。因此，置信程序与假设检验紧密相关：置信程序控制了包含真值的比率，更好的置信程序在排除错误值方面更为高效。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+早期质疑</p>
+</h2>
+<p style="text-indent:32.4px">置信区间概念自Jerzy Neyman于1934年提出以来，就伴随着一系列的质疑<sup>[2]</sup>。在对Neyman（1934）的讨论中， Bowley指出了我们所说的“基本置信谬误”，并对置信区间能否回答正确问题表达了怀疑：
+<p style="text-indent:32.4px">“我不确定所谓的‘置信’是否是一种幻觉。它真的能引导我们找到我们所追求的目标吗？即在我们所采样的宇宙中，特定参数落在这一确定范围内的可能性有多大？我认为不能。我们的实际情况是，知道一个不太可能的事件已经发生，或者总体的参数在限制范围内。为了平衡这些因素，我们必须估计和判断参数在整个宇宙中出现的可能性（即先验概率），这正是我们应该避免的东西。”（Neyman, 1934, pp. 609）
+<p style="text-indent:32.4px">在同一讨论中，Fisher批评称，置信区间理论可能导致相互矛盾的推断：“置信区间理论是一个广泛且漂亮的体系，但其建立付出了相当大的代。Fisher首先指出的是结果独特性的丧失，以及由此可能导致的矛盾推断的风险。”（Neyman, 1934, p. 618; Fisher, 1935）。尽管如我们所见，这些批评是准确的，但从更广泛的角度来看，它们并未触及核心问题。与现代置信区间的支持者一样，这些批评者未能完全理解Neyman的目标与他们的目标之间的差异：Neyman开发的是一个旨在控制错误率的行为理论，而非一种基于数据进行推理的理论（Neyman, 1941）。
+<p style="text-indent:32.4px">尽管面临这些批评，置信区间的概念越来越流行，成为最广泛使用的区间估计方法。而其它替代方法，例如贝叶斯可信区间和Fisher基准区间，并未得到普遍应用。我们认为，这在很大程度上是因为人们没有完全理解置信区间、贝叶斯理论和基准理论之间的差异，以及由此产生的各种区间的解释方式。在接下来的章节中，我们将通过构建和比较不同的置信程序来演示置信区间理论的逻辑，并展示这三种谬误如何影响对这些区间的推断。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+案例一：迷失的潜水艇</p>
+</h2>
+<p style="text-indent:32.4px">如图1a所示，假设救援舱口位置为未知的$\theta$点，气泡可能从$\theta - 5$米（潜艇头部）到 $\theta + 5$（潜艇尾部）以均匀的概率上浮。救援人员需要利用这些气泡来推断舱口的准确位置。我们将观察到的两个气泡分别标记为$y_1$和$y_2$，为了方便，通常将它们按位置排序，记作$x_1$和$x_2$，其中总是较小的一个。值得注意的是， y的平均值等于x的平均值，因为在计算均值时顺序不影响结果，并且两个气泡间的距离$|y_1 - y_2| = x_1 - x_2$。我们用$d$来表示这个差异。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图1--潜水艇救援尝试图中从下至上依次展示了似然性和置信区间交互图-httplearnbayesorgredirectscishiny1html">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b41.png" alt="图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： http://learnbayes.org/redirects/CIshiny1.html。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： <a href="http://learnbayes.org/redirects/CIshiny1.html" target="_blank" rel="noopener">http://learnbayes.org/redirects/CIshiny1.html</a>。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">救援人员首先注意到，通过观察这两个气泡，可以轻松排除除了这两个气泡五米范围内的其他所有可能位置，因为任何气泡都不可能距离舱口超过五米。例如，如果两个气泡的位置分别是$y_1 = 4$和$y_2 = 6$，则潜艇舱口可能的位置仅在1到9之间，因为只有这些位置在两个气泡的五米范围之内。这个逻辑在似然性中得到正式表达，它描述了对于所有可能的值，观测数据的联合概率密度。在此案例中，由于观测是独立的，联合概率密度为：
+$$
+p (y_1 , y_2 ; \theta) = p_y (y_1; \theta) × p_y (y_2; \theta)
+$$
+<p style="text-indent:32.4px">每个气泡的概率密度$p_y$在潜艇的10米长度内均匀分布，这意味着联合密度为$\frac{1}{10} × \frac{1}{10} = \frac{1}{100}$。当$y_1$和$y_2$中较小的一个（我们记作 ）大于$\theta - 5$时，显然$y_1$和$y_2$都必须大于$\theta - 5$。因此，在$x_1$和$x_2$的约束条件下，联合概率密度为：
+$$
+p (y_1 , y_2 ; \theta) = \frac{1}{100}, 若x_1>\theta-5且x_2<\theta+5\text{(公式1)}
+$$
+如果我们将公式1重写为未知参数为的固定观测数据的函数，我们便得到了似然，它标记了数据中关于参数$\theta$的信息。在这种情况下，只有当观察到的气泡可能存在$\theta$时，它才为正（如图1和5）：
+$$
+p (\theta ; y_1 , y_2 ) = 1, 若x-(5-d/2)\lt\theta\le x+(5-d/2)\text{(公式2)}
+$$
+<p style="text-indent:32.4px">如果似然性为正，则值$\theta$是可能的；如果为0，则$\theta$是不可能的。通过公式2表达似然性，我们可以观察到几个关键点。首先，似然性围绕着一个合理的$\theta$点估计，即 的平均值。其次，似然性的宽度为 ，这在此处是估计不确定性的指标，气泡之间的差异 越小，似然性的宽度越大。与气泡距离较远时相比，当气泡彼此靠近时我们对$\theta$的了解较少。记住似然性是数据中的信息，接下来我们可以定义置信程序。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+五类置信程序</p>
+</h2>
+<p style="text-indent:32.4px">在这一场景中，恰好有四名统计学家 在船上<sup>[3]</sup>并被救援人员邀请，用统计学方法提升他们的决策能力。这些统计学家提出了四种不同的50%置信程序。在此，我们将概述这四种程序。首先，介绍一种较为简单、通常不会被专业人士采用的程序（读者可以通过图1说明的链接中找到一个小型应用程序，该程序允许从这些置信程序中进行抽样）。
+<ol start="0">
+<li>
+<p>微不足道的程序：通过观察气泡的顺序，我们可以构建一个50%置信程序。如果$y_1 &gt; y_2$，则构造一个包含整个海洋的区间（-∞，∞）；如果$y_2 &gt; y_1$，则仅构造一个只包含救生艇中央正下方单一确切点的区间。这个程序显然是50%置信程序；只有一半时间，即当$y_1 &gt; y_2$时，救援舱口将恰好位于区间内。我们提出这个简单区间是为了阐明，包含真值X%时间的程序本身没有任何意义（也可参考Basu, 1981）。很明显，我们必须考虑的不仅是置信性质，下文将进一步讨论。</p>
+</li>
+<li>
+<p>基于均值抽样分布的程序：第一位统计学家建议使用均值$x̄$的抽样分布来构建置信程序。$x̄$的抽样分布具有已知的三角形分布，其均值为$\theta$。利用这个分布，$x̄$与$\theta$的差距小于5-52（约1.46米）的概率为50%。因此，我们可以将$x̄-\theta$作为所谓的“关键量”（Casella &amp; Berger, 2002；详见补充材料），指出有50%的概率落在的这个距离内。这导致了以下置信程序：
+$$
+x̄ ± (5-5/\sqrt 2)
+$$
+我们称之为“抽样分布”程序。这个程序还具有形式$x̄ ± C × SE$，其中标准误差（即估计的标准差）已知为2.04。</p>
+</li>
+<li>
+<p>非参数程序：第二位统计学家指出，\theta既是气泡位置的均值也是中值。Olive（2008）以及Rusu和Dobra（2008）为中值提出了一个简单的非参数置信程序，它在这种情况下就是两个观察值之间的区间：
+$$
+x̄ ± \frac{d }{ 2}
+$$
+很容易看出这是一个50%置信程序；两个观察值都低于的概率是0.25，两个观察值都高于的概率也如此。因此，这两个观察值包围的概率是50%。巧合的是，这与$n=2$的50% Student’s 程序相同。</p>
+</li>
+<li>
+<p>统一的功效最强（uniformly most-powerful, UMP）程序：第三位统计学家，引用Welch（1939），描述了一种可以看作是对非参数程序的轻微修改。假设我们使用非参数程序得到特定的置信区间。如果该区间超过5米宽，则一定包含救援舱口，因为唯一可能的值相距两个气泡都不到5米。此外，在这种情况下，该区间也将包含不可能值，因为它比似然性更宽。我们可以通过将区间限制在5米以内，排除这些不可能的值，即：
+$$
+x̄ ± \frac{d }{ 2}，如果d&lt;5 (非参数程序)
+$$
+$$
+5 - \frac{d }{ 2}，如果d \ge 5 (可能性)
+$$
+这种调整不会改变区间包含救援舱口的概率，因为它仅仅是用另一个肯定包含救援舱口的区间替换了一个区间。Pratt（1961）指出，这个区间可以被证明是统一最强功效（UMP）的反演。</p>
+</li>
+<li>
+<p>客观的贝叶斯程序：第四位统计学家提出了一种客观的贝叶斯程序。使用这个程序，我们简单地将可能性的中间50%作为我们的区间：
+$$
+x̄ ± \frac{1 }{ 2} (5 - d/2)
+$$
+从客观的贝叶斯的角度来看，这可以通过假设一个为每个可能的舱口位置分配等概率的先验分布来证明。在贝叶斯术语中，该程序为这个先验生成“可信区间（credible intervals）”。它也可以用Fisher的基准理论证明（Welch, 1939）。</p>
+</li>
+</ol>
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+置信程序的特性</p>
+</h2>
+<p style="text-indent:32.4px">救援队在听完四位统计学家关于他们各自的置信程序后感到困惑，这是可以理解的。因为似乎从两个气泡的位置推断出潜艇舱口位置存在至少四种不同的方法。当统计学家们向救援人员展示了他们的置信程序后，两个气泡在$x_1=1$和$x_2=1.5$的位置出现了。图1A展示了由此产生的可能性和四个不同的置信区间。
+<p style="text-indent:32.4px">在计算出这四个置信区间后，救援人员想知道如何解释它们。首先，为什么基本置信谬误是一个谬误很容易理解。正如Fisher在之前关于置信区间理论的讨论中指出的，对于任何给定的问题，例如这个潜艇救援问题，都存在多种可能的置信程序。这些程序将导致不同的置信区间。对于我们的潜艇例子中的置信程序，所有的置信区间都围绕着..，因此这些区间将相互嵌套。
+<p style="text-indent:32.4px">如果我们错误地解释这些观察到的区间具有50%概率包含真值，就会出现逻辑上的问题。首先，基于基础概率论，最短的区间必然也有50%的概率包含参数：最窄的区间有50%的概率包含真值，而最宽的区间有50%的概率排除真值。根据这种推理，必须有0%的概率真值在较窄的嵌套区间之外却在较宽的区间之内。如果我们相信基本置信谬误，我们将得出这样的结论：即使是最短的嵌套的X%置信区间也有X%概率包含真值。显然，“始终选择最短的嵌套区间“这种置信程序会导致含真值的概率低于X%。如果我们坚信基本置信谬误，我们就会陷入这样的矛盾之中，即最短的区间同时具有X%的概率和低于X%的概率包含真值。基本置信谬误信念将导致逻辑上的矛盾。
+<p style="text-indent:32.4px">关于如何解释嵌套CI的问题，这本身并不是对置信区间理论的批评，而是对置信区间的民间理论的批评。Neyman本人非常清楚这种解释是不被允许的，并使用类似嵌套的置信区间来证明这一谬误（Neyman, 1941, pp. 213-215页）。正如Fisher所警告的那样，科学文献中对置信区间的不恰当解释导致饿了相互矛盾的推论。
+<p style="text-indent:32.4px">即使没有嵌套的置信程序，我们也可以看出基本置信谬误必然是错误的。参考图1B，它展示了当$x_1=0.5$和$x_2=9.5$时产生的可能性和置信区间。如图1B所示，当气泡彼此相距很远，可以非常精确地确定舱口位置（气泡足够远，必然是从潜艇的船首和船尾发出的）。抽样分布、非参数和UMP置信区间都将可能性圈在其中，这意味着这些50%的置信区间肯定包含了舱口。因此，在报告50%的确定性、50%的概率或50%的置信度时，声称某个特定区间肯定包含参数显然是错误的。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+font-style: italic;
+">
+相关的子集群</p>
+</h2>
+<p style="text-indent:32.4px">事实上，我们可以确信一个50%置信区间包含真值的情况，是基于基本置信谬误产生的一个更一般问题的具体实例。图2左列的阴影区域展示了在所有可能的观测对的各种置信程序中的真值包含情况。顶部、中部和底部行分别对应抽样分布、非参数/UMP和贝叶斯程序。由于每个程序都是50%置信程序，所以在每张图中，阴影区域面积都是限定可能观测的较大正方形的50%。图中的点‘a’和‘b’分别代表图1A和1B中的气泡位置；点‘b’位于每个区间的阴影区域内，因为如图1B所示，真值在每种区间中都被包含，；而‘a’点则位于每个阴影区域之外，因为所有置信区间都排除了这对观测到的气泡。
+<p style="text-indent:32.4px">我们可以将气泡的位置转化为平均位置a和它们之间的差异$b=y_2-y_1$，这将不会丢失任何信息：‘a’提供了关于舱口位置的点估计，而‘b’提供了有关该估计精度的信息。图2右列所显示的与左列相同的信息，只是以a和b为函数展现。右列的图与左列的图相比，相当于顺时针旋转了45°。虽然两列显示了相同的信息，但旋转后的右列揭示了一个关键事实：当气泡之间的距离变化时，各种置信程序包含真值的概率也会发生变化。
+<p style="text-indent:32.4px">为了更清晰地看到这一点，我们可以观察图2B中‘a’点下方的水平线。这条水平线表示所有气泡对的子集，显示气泡对间的差异与图1A中的差异相同，均为0.5米。这条线的大约31%位于阴影区域之下，意味着从长期来看，当气泡相隔0.5米时，大约31%的抽样分布区间将包含真值；对于非参数和UMP区间（中部行）而言，这个比例仅为5%左右；而对于贝叶斯区间（底部行）而言，这个比例正好是50%。
+<p style="text-indent:32.4px">如果我们相信基本置信谬误，就意味着我们可以使用程序包含真值的长期概率作为我们对特定区间包含真值的数据后确定性的指标。但在这种情况下，我们已经为每个区间确定了两个长期概率：不考虑观察到的差异b的平均长期概率，即50%，以及考虑b的长期概率，对于抽样分布区间是31%，对于非参数/UMP区间是5%。这两者都是有效的长期概率，那么我们应该用哪一个来推理呢？在基本置信谬误中下，两者都是有效的，因此导致了推理上的矛盾。
+<p style="text-indent:32.4px">存在多个矛盾的长期概率再次引起了我们对实验前所知与实验后所知之间混淆的关注。对于这些置信程序的任何一个，在实验之前我们都知道未来的CI中将有50%的概率包含真值。在观察结果后，对数据的已知属性进行条件处理（例如，当前情况下气泡的方差等）可能会从根本上改变我们对概率的评估。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图2-左侧为两个气泡y_1和y_2可能出现的位置右侧为y_2与y_1的均值相对于y_1和y_1的图示图中阴影为各自50置信区间中真值所在的可能区域顶部图a和b为抽样分布区间中间图c和d为非参数ump区间底部图e和f为贝叶斯区间图中的a和b分别对应图1a和b中的气泡对交互图-httplearnbayesorgredirectscishiny1html">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b42.png" alt="图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： http://learnbayes.org/redirects/CIshiny1.html。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： <a href="http://learnbayes.org/redirects/CIshiny1.html" target="_blank" rel="noopener">http://learnbayes.org/redirects/CIshiny1.html</a>。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">由多个适用的长期概率引起的矛盾推理问题是“参考类（reference class）”问题的一个示例（Venn, 1888; Reichenbach, 1949），其中单个观察事件（例如，CI）可以被看作是几个长期序列的一部分，每个序列都有不同的长期概率。Fisher发现，当数据有多个具有不同概率包含真值的可识别子集时（例如在我们的置信区间示例中具有特定值b的子集时）这些子集与推断是相关的（Fisher, 1959）。相关子集的存在意味着可以为一个区间分配多个概率。相关子集在许多置信程序中都是可识别的，例如在常见的经典Student 's t区间中，CI越宽包含真值的概率越大(Buehler, 1959; Buehler & Feddersen, 1963; Casella, 1992; Robinson, 1979)。据我们所知，只有两种消除相关子集矛盾威胁的一般策略：Neyman策略（避免将概率分配给特定区间），以及贝叶斯策略（始终对观测数据进行条件处理）。我们将在后续讨论中对此进行进一步阐释。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+font-style: italic;
+">
+准确性与可能性的误区</p>
+</h2>
+<p style="text-indent:32.4px">这组置信程序清楚地展示了所谓的“精度谬误”。图3展示了这四种置信程序产生的区间宽度如何随似然性宽度的变化而变化。贝叶斯程序紧密跟随数据的不确定性变化：当似然性宽度增加时，贝叶斯置信区间也变得更加宽松。稍后我们将讨论为何似然性与贝叶斯区间之间存在这种必然的对应关系。相比之下，抽样分布程序产生的区间宽度是固定的，因此无法反映出有关估计精度的任何信息。这与常见的置信区间公式类似，即抽样分布区间遵循公式：
+$$
+x̄ ± C×SE ，
+$$
+<p style="text-indent:32.4px">与已知总体方差的正态总体均值的置信区间相似，标准误差——即的抽样分布的标准差——是已知且固定的，这里大约为2.04（详见补充材料）。这表明，长期标准误差以及基于标准误差的置信区间并不能始终作为我们评估参数估计不确定性的可靠指南。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图3-四种置信程序的ci宽度与舱口位置估计不确定性之间的关系sd抽样分布程序np非参数程序umpump程序b贝叶斯程序当似然性宽度超过5时np和ump程序的表现会出现重叠交互图-httplearnbayesorgredirectscishiny1html">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b43.png" alt="图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： http://learnbayes.org/redirects/CIshiny1.html。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： <a href="http://learnbayes.org/redirects/CIshiny1.html" target="_blank" rel="noopener">http://learnbayes.org/redirects/CIshiny1.html</a>。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">奇怪的是，非参数程序生成的区间宽度与参数估计的不确定性成反比。更加令人困惑的是，最初UMP程序的区间宽度随数据不确定性增加而增加，但当似然性宽度超过5米时，UMP程序生成的区间宽度也与数据的不确定性成反比。这可能导致一些奇怪的情况。假设观察到的UMP 50%区间为[1, 1.5]，这与两组可能的观测数据相一致：（1, 1.5）和（-3.5, 6）。这两组气泡具有相同的置信区间，然而第二组数据集显示出较高的精度，而第一组则显示出极低的精度！UMP和抽样分布程序具有同一个问题，即它们的置信区间不能被用来反推观测数据的可靠性。即使UMP是效力最强的程序，但它明显丢失了重要的信息。
+<p style="text-indent:32.4px">要了解可能性谬论在这个例子中是如何表现出来的，请再次参见图3。不确定性高时，似然性宽；然而，非参数和UMP区间非常窄，这意味着精度不高且几乎排除了所有可能的值。此外，抽样分布程序和非参数程序均可能包含不可能值<sup>[4]</sup>。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+对置信机制的评价</p>
+</h2>
+<p style="text-indent:32.4px">对四个不同的置信程序，救援队员需要决定采用哪一种。我们已经指出某些置信程序具有违背直觉的特点，但直到现在，我们还没有明确指出应该更倾向于哪种程序。为了帮助救援团队在这些区间中做出选择，我们将直接对比这四种程序。首先，我们从置信区间理论的角度来评估这些程序，然后根据贝叶斯理论进行分析。
+<p style="text-indent:32.4px">如前所述，根据置信区间理论，更好的区间应该更少地包含错误值。图4显示了每个程序在离舱口一定距离处包含了$.$的概率。所有程序都是50%的置信程序，因此它们有50%的时间包含真值。然而，重要的是，这些程序以不同的速率包含特定的错误值$\theta' \neq \theta$。图1和图4的互动版本提供了对这些程序的直观展示。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图4-各置信程序中包含错误值的概率其中t微不足道的程序sd抽样分布程序np非参数程序umpump程序b贝叶斯程序抽样分布程序的线虚线位于贝叶斯程序和ump程序之间交互图-httplearnbayesorgredirectscishiny1html-">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b44.png" alt="图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 http://learnbayes.org/redirects/CIshiny1.html 。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 <a href="http://learnbayes.org/redirects/CIshiny1.html" target="_blank" rel="noopener">http://learnbayes.org/redirects/CIshiny1.html</a> 。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">显然，微不足道的程序（标记为T，灰色水平线）是一个糟糕的选择，因为它包含真值的频率与包含每个错误值的频率相同。这类似于假设检验中，功率等于其第一类错误率。除非该程序是特意设计的，否则它将比其他任何其他表现得都更差。另一方面，UMP程序（标记为UMP）在包含$.$的每个值方面都比其他任何程序都更优，这是因为它是通过反演最强功效测试而创建的。 通过比较这些程序的曲线，我们可以看出其余三个程序之间的排序。抽样分布程序始终优于贝叶斯程序，但不优于非参数程序。非参数程序和贝叶斯程序的曲线重叠，因此二者并不存在优劣之分。Welch（1939）通过使用如图4所示的频率法与UMP区间频率进行比较后指出，贝叶斯程序 “不是构建置信边界的最佳方法”<sup>[5]</sup>。
+<p style="text-indent:32.4px">程序之间的频率比较是有启发性的，因为我们已经根据Neyman提出的标准，以及新置信程序的现代开发者使用的标准，覆盖率和功率，得出了程序的排序：UMP程序是最好的，其次是抽样分布程序，再次为贝叶斯程序，而非参数程序虽然不是最佳选择，但也不是最差的。
+<p style="text-indent:32.4px">我们还可以从贝叶斯的角度审查这些程序，贝叶斯理论主要关注的是基于数据以及在观察数据之前已知的信息，判断推断是否合理（Howson & Urbach, 2006）。我们已经看到，以这种方式解释非贝叶斯程序会产生问题，而贝叶斯程序在这方面则具有更好的性质。我们将展示如何推导出贝叶斯区间，以更深入了解其具有良好性质的原因。图5的左列显示了从先验和似然性到后验和所谓可信区间的贝叶斯推理过程。顶部的先验分布显示，在观察数据之前，该区域中的所有位置被认为是等概率的。在观察到图1A所示的气泡后，似然性成为一个对于舱口所有可能位置都为1的函数，其他位置则为0。为了将先验经验与来自两个气泡的新信息相结合，我们将数据中的信息与似然性相乘（或等效地，排除我们知道不可能的值）来限制我们之前知道的信息，从而得到底部行中的后验分布。如阴影区所示，中心50%的可信区间包含后验的面积中央50%的所有值。图5的右列显示了使用不假定所有位置同等可能的有信息先验分布进行类似计算的情况。如果有关于潜水艇位置的其他信息，这种情况就可能会出现。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图5-形成贝叶斯可信区间先验信息顶部图与来自数据的似然性信息中部相结合共同构成了后验分布底部在似然性图中阴影区域标示了每个气泡周围5米范围内的可能位置深色阴影区域则为它们重叠的地方暗示了舱口theta的潜在位置在后验图中中央50区域即后验的阴影区域展示了一个可能的50可信区间也就是中央可信区间交互图-httplearnbayesorgredirectscishiny1html">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b45.png" alt="图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 http://learnbayes.org/redirects/CIshiny1.html。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 <a href="http://learnbayes.org/redirects/CIshiny1.html" target="_blank" rel="noopener">http://learnbayes.org/redirects/CIshiny1.html</a>。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">现在很明显为什么贝叶斯可信区间具有通常归因于置信区间的属性。可信区间可以被解释为包含真值的概率为50%，因为其中的值占后验概率的50%。它通过与后验和似然性的关系，根据数据和先验知识揭示了参数估计的精确性。
+<p style="text-indent:32.4px">在五种程序中，只有贝叶斯程序的区间可以说在观察后数据有50%的概率包含真值。重要的是，这种区间解释的能力来自于贝叶斯理论而不是置信区间理论。同样重要的是，为了获得所需的区间，需要规定一个先验，并根据规定的先验解释区间。在其他四个区间中，由于其奇怪的特性且不存在可能导致这些程序的先验分布，无法证明它们可以从数据中得出“合理的”推断或结论。从这个角度来看，Neyman拒绝从数据中“得出结论”和“推理”的原因是很清楚的，因为他的理论本身并不支持这样的观点。很明显，如果科学家关心从数据中得出合理的推断，他们可能希望拒绝以置信区间理论为基础来评估程序。
+<p style="text-indent:32.4px">现在我们可以回顾一下我们对这四个程序的了解。只有贝叶斯程序（当其区间被解释为可信区间时）允许解释为舱口存在50%的概率会位于区间内。只有贝叶斯程序能够正确地跟踪估计的精度，并且以期望的方式覆盖合理值：其他程序生成的区间，根据简单逻辑，可以确定包含真值，但概率仍然为“50%”。非贝叶斯区间具有不受欢迎的，甚至奇怪的特性，这会导致任何理性的分析师都拒绝将它们作为进行推论的手段。然而，频率CI理论却认为贝叶斯程序不如其他程序。
+<p style="text-indent:32.4px">频率理论和贝叶斯理论之间的脱节来自这两个理论的不同目标。频率理论是一种“先验信息”理论。它展望未来，设计将在未来重复采样中具有特定平均性质的程序。这种思考在Neyman（1937, p. 349）中可以清楚地看到：一旦推导出程序，推理就结束了。置信区间理论归属于包含或排除真实和错误参数值的平均频率。基于观察到的数据，任何给定的推断都可能是合理的，也可能是不合理的，但这不是Neyman的关注点；他否认基于数据的任何结论或信念。另一方面，贝叶斯理论是一种“后数据”理论：贝叶斯分析者根据模型假设和先验信息，使用数据中的信息来确定什么是合理的。
+<p style="text-indent:32.4px">使用由数据前理论证明的区间来进行后数据推断可能导致不合理且可能是轻率的推断。这个问题不仅限于潜水艇的例子（Berger & Wolpert, 1988；Wagenmakers et al., 2014），尽管这个简单的例子有助于识别这些问题。在下一节中，我们将展示一个常用的置信区间如何导致类似的有缺陷的后数据推断。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+案例二：野外的置信区间</p>
+</h2>
+<p style="text-indent:32.4px">前述示例旨在用一个简单的例子来阐明置信区间理论的逻辑。此外，它也展示了置信区间程序可能不具备分析人员所期望的特性。
+<p style="text-indent:32.4px">在介绍置信区间时，其倡导者通常专注于对正态分布均值的估计。在这种简单的情形下，频率主义者和贝叶斯主义者（使用“非信息”先验）的结果在数值上是一致的。<sup>[6]</sup>然而，置信区间的倡导者建议将其应用于许多其他类型的量度，如标准化效应大小Cohen's d（Cumming & Finch, 2001）、中位数（Bonett & Price, 2002; Olive, 2008）、相关性（Zou, 2007）和有序关联（Woods, 2007）等。这些研究的作者通常未对他们提出的置信区间程序的特性进行深入分析，仅仅展示了这些程序在正确的样本比例中包含真值：即，它们是置信区间。有时，作者会提供程序的频率特性分析，例如平均宽度。新置信区间程序的开发往往不会检查其是否支持基于数据的有效推理，而这作为一种规则。
+<p style="text-indent:32.4px">正如第一个示例所展示的，仅关注程序的频率特性可能会对这些置信程序的使用者造成潜在的灾难，因为置信程序不能保证支持对感兴趣参数的合理推断。Casella（1992）在置信区间方面强调了这一点，他指出：“我们必须记住，从业者将进行基于数据（conditional post-data）的推断。因此，我们必须能够向用户保证，无论是先数据（pre-data）还是后数据，任何推断都具有一定的有效性”（p. 10）。任何区间程序的发展，如果不至少部分地关注其后数据属性，便是不完整的，甚至是极其具有误导性的“不负责任”。
+<p style="text-indent:32.4px">置信区间的倡导者所建议的程序，以及研究人员所使用的程序，可能会导致这种误导性的推断。我们将通过检验 的置信区间来展示这一点， $ \omega^2 $是ANOVA设计中误差的占比。在单因子设计具有两个以上水平时，该参数是效应量大小的衡量指标。这个区间是由Steiger（2004，另请参见Steiger & Fouladi, 1997）建议的，被Cumming（2014）引用，在社会科学软件中应用（implemented）（如，Kelley, 2007a, b），并由Finch和French（2012）仅对其频率特性进行评估。我们在这里讨论的问题也适用于Steiger（2004）讨论的其他相关置信区间，如$η^2$，偏$η^2$，F分布的非中心参数，信噪比f，RMSSE Ψ等。
+<p style="text-indent:32.4px">Steiger（2004）强调了应该避免仅依赖显著性检验，而更加重视估计的精度，并提出了置信区间的概念。他指出，科学家更关注的是明确量化两组间的差异程度，而非仅判断这些差异是否存在（pp. 164-165）。Steiger与Fouladi（1997）进一步阐述，置信区间的宽度直观地反映了测量的精准度（p. 231）。然而，考虑到我们对精度误差的认识，这些论断应当引起我们的警觉。 接着，Steiger利用反演（inverting）显著性检验的方法，提出了一种计算$η^2$置信区间的新途径。鉴于UMP程序在潜水艇案例中表现出的异常，这一提议同样值得我们警惕。即便是基于高效能检验的置信程序，也未必能产生合理的推断结果。在展示Steiger的置信区间在数据中的表现之前，我们将先简述通过倒置显著性检验构建置信区间的基本原理。
+<p style="text-indent:32.4px">为深入理解倒置显著性检验构建置信区间的过程，可以将 水平的双侧显著性检验视作两个 水平的单侧检验的结合，分别对应于分布的两个尾部。当任一单侧检验被拒绝时，双侧检验亦被拒绝。例如，为构建68%的置信区间（与标准正态均值误差覆盖真值的频率相同），我们可以使用两个（1−0.68）/2 = 0.16水平的单侧检验。设想一个包含三组、每组10个参与者的单因素设计实验，其中 的效应大小决定了F值的大小：$\omega^2$越大，F值越大。给定$\omega^2$的F分布被称为非中心F分布。当 $\omega^2=0$，即无效应存在时，我们得到熟知的中心F分布。
+<p style="text-indent:32.4px">首先考虑单侧检验拒绝较大F值的情形。以图6A为例，当F（2，27）= 5时，检验 $\omega^2=.1$的零假设得出的p值为.16。测试更大的$\omega^2$值不会导致拒绝，而更小的$\omega^2$值则会，因为它们的p值低于.16。图6a中灰色虚线展示了 $\omega^2=.2$的非中心F（2，27）分布，显然此时的p值高于.16，所以 $\omega^2=.2$不会被上侧检验（upper-tailed test）拒绝。再考虑单侧检验拒绝较小F值的情况。图6B显示，检验 $\omega^2 = .36$的零假设得到的p值为.16；大于.36的$\omega^2$值将被拒绝，而小于.36的则不会。
+<p style="text-indent:32.4px">综合两个单侧检验，对于[.1，.36]范围内的任何$\omega^2$值，两个检验的p值都会大于.16，因此不会被拒绝。这样，当F（2，27）= 5时，我们可以定义68%置信区间为所有不被这两个双侧检验拒绝的$\omega^2$值，即[.1，.36]区间。然而，复杂性出现在ANOVA中 F检验的p值超过$\alpha /2$时，因为根据定义，这样的p值是在 = 0，即无效应的假设下计算的。$\omega^2$值不能低于0，所以上侧检验不可能拒绝任何$\omega^2$值。这种情况下，置信区间的下限不存在。当p值超过$1-\alpha/2$时，所有下侧检验都会被拒绝，导致置信区间的上限不存在。若边界不存在，Steiger（2004）会将其默认设为0。
+<p style="text-indent:32.4px">为了探索这种置信区间在实际应用中的表现，设想一个三组、每组10名参与者的被试者间实验，其结果为F（2，27）= 0.18，p = 0.84。根据诸如Psychonomics society 2012和Wilkinson & the Task Force on Statistical Inference（1999）等机构提出的良好分析实践指南，我们希望计算标准化效应大小$\omega^2$的置信区间。使用软件计算出Steiger的置信区间后，我们得到了68%置信区间为[0, 0.01]。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图6-通过倒置显著性检验的方式构建置信区间a部分展示了两个非中心f分布真实-omega2-1蓝色实线和真实-omega2-2灰色虚线当-f2-27-5时这些检验的上尾p值分别为-16-和-42b部分展示了两个非中心f分布真实-omega2-36红色实线和真实-omega2-2灰色虚线当-f2-27-5-时这些检验的下尾p值分别为-16-和-58">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b46.png" alt="图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">图7A（顶部区间）展示了68%置信区间的结果。若对置信区间的误区缺乏了解，我们可能就会将这一区间作为 $\omega^2$ 估计精度的有效衡量标准而予以发布。值得注意的是，置信区间的下限正好为0，这是因为其下限实际上并不存在。在讨论这类情况时，Steiger和Fouladi（1997）提到，
+<p style="text-indent:32.4px">“[在零点处任意设定置信边界]虽然保持了置信区间的正确覆盖概率，但当置信区间的两端都位于零点时，其宽度作为衡量估计精度的指标就可能受到质疑。在这种情况下，获取其他关于测量精度的指示，比如统计量标准误差的估计，便显得尤为重要。”（Steiger & Fouladi, 1997, p. 255）
+<p style="text-indent:32.4px">Steiger（2004）进一步指出，“[置信区间的宽度与精度之间的关系]并非完美，并在某些情况下极度受损”（p. 177）。这是一个相当惊人的承认：置信区间的主要优势被认为是能够评估参数估计的精度。然而，置信区间未能实现其最初被提倡的目标。遗憾的是，Steiger没有具体阐释导致这一结果的原因，也未解释在何种条件下置信区间能有效追踪精度。
+<p style="text-indent:32.4px">我们可以通过考察似然性来验证Steiger的警告的必要性——实际上，这是对精度误区的一种警示。似然性指的是观察到的F统计量在所有可能的真实$\omega^2$值下的概率密度。值得注意的是，与$\omega^2$的似然性相比，置信区间是多么的狭窄。如果我们相信精度谬误，那么随着$\omega^2$变大，似然性下降的速度要比置信区间所暗示的要慢得多。此外，我们还可以将置信区间与在假定均值和误差方差具有标准“非信息性”先验的情况下计算得出的68%贝叶斯可信区间进行比较。 <sup>[7]</sup>相比之下，贝叶斯可信区间更为宽泛，显示出对$\omega^2$估计的更大不确定性。
+<p style="text-indent:32.4px">图7B展示了相同情况下的变化，但F值略有下降。 估计的精度基本未发生实质性变化；然而，此时的置信区间仅包含 $ \omega^2 = 0 $的值：更准确地说，由于此F值始终会被用于构建置信区间的两个单侧检验中的至少一个拒绝，因此置信区间为空。正如Steiger所指出的，“零宽度的置信区间显然无法说明效应大小是以完美精度确定的”（p. 177），也不能表明$\omega^2$恰好为0的概率有68%。通过观察似然性和贝叶斯可信区间，这一点变得更加明显。
+<p style="text-indent:32.4px">一些学者（如，Dufour, 1997）将空置信区间解读为模型不当拟合的迹象。在这种单样本设计情况下，如果置信区间为空，意味着均值之间的相似性超过了在模拟假设下预期的$\alpha / 2$的频率；也就是说，p值大于$1-\alpha/2$，因此F值较小。如果按照这种模型来拒绝显著性检验的逻辑，那么置信区间本身就变得难以解释，因为它似乎指向了错误的精度（Gelman, 2011）。此外，在这种情况下，p值无疑比置信区间提供了更多信息；p值提供的是不依赖于任意选择$\alpha$的分级信息（arbitrary choice），而对于所有p值大于$1-\alpha/2$的情况，置信区间均为空。
+<p style="text-indent:32.4px">图7C展示了当我们将置信系数微调至70%时发生的变化。再次强调，参数估计的精度并未改变，但置信区间现在又呈现出非零的宽度。
+<p style="text-indent:32.4px">图7D展示了一项分析结果，其中F（2, 27）= 4.24，p值为0.03，并使用了95%的置信区间。此时，Steiger的区间已覆盖了大部分可能性，但下限仍然“卡在”0处。在这种情况下，Steiger和Fouladi建议我们，将置信区间宽度作为精度指标是“有疑问的”，我们应该“寻找其他测量精度的指标”。事实上，在这里，置信区间与贝叶斯可信区间相比并没有太大差异，尽管置信区间更长且不平衡。然而，如果我们不检查似然性和贝叶斯可信区间，我们就不会知道这一点；置信区间在这个特定情况下具有合理宽度的唯一原因是它与似然性和可信区间提供的实际精度度量是一致的。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-图7-四种假设实验结果的似然性置信区间和贝叶斯可信区间最高后验密度或hpd区间在每张图中顶部区间是steiger2004对-的置信区间底部区间则是贝叶斯hpd区间更多细节见正文">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b47.png" alt="图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。" loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。
+    </figcaption></figure>
+
+<p style="text-indent:32.4px">Steiger的置信程序在什么情况下会产生“可疑”的置信区间呢？这通常发生在相应的F检验p值大于 的情况下；对于95%的置信区间而言，这意味着每当p > 0.025时。Steiger和Fouladi建议在这种情况下不使用置信区间，这与他们和其他支持者推崇置信区间的初衷正相悖。这不只是理论上的问题；中等大小的p值在实际研究中经常出现。在我们对引用Steiger（2004）论文的粗略审查中发现，很多研究报告了下限为0的置信区间，而未加以注释（如，Cumming et al., 2012; Gilroy & Pearce, 2014, Hamerman & Morewedge, 2015; Lahiri et al., 2013; Todd et al., 2014; Winter et al., 2014）。还有其他一些研究未使用置信区间，而是依赖效应大小的点估计和p值（如，Hollingdale & Greitemeyer, 2014）；但从p值推断，若他们按照“良好做法（good practice）”计算置信区间，很可能得到Steiger所谓的倒置F检验的区间。
+<p style="text-indent:32.4px">然而，使用置信区间的作者往往不会指出其解释存在问题，这是合理的。如果置信区间真的包含了最可能的值，或者如果它是精度的指标，或者如果置信系数代表了我们对参数在该区间内的不确定性，那么从一个置信区间中得到的信息就应与另一个区间相同。考虑到置信区间通常的呈现方式，仅凭p值判断置信区间的解释可能性并不直观。
+<p style="text-indent:32.4px">我们认为，对区间的解释能力不应仅因获得的p值不够低而受限。当然，置信系数是任意的；如果一个置信系数下的区间宽度被质疑，那么仅仅改变置信系数以排除0值，从而使区间宽度变得可接受似乎毫无意义。此外，如果在中等p值情况下区间过窄，从而不足以作为精度的指标，那么在其他情况下其宽度可能过宽，同样会威胁到其解释力。这一点在潜水艇示例中的UMP程序中表现得非常明显：当数据提供的信息少时，UMP区间过窄；而当数据提供充足信息时，区间又过宽。
+<p style="text-indent:32.4px">Steiger和Fouladi（1997）总结了置信区间的核心问题：为了保持正确的覆盖概率（这是一种频率主义者的先验关注点），他们牺牲了研究人员所期望的置信区间，即后数据的精确度指标。如果我们的目标是摆脱显著性测试，那么我们不应采用除了可以解释为显著性测试的反演（inversions）之外的方法。我们赞同Steiger和Fouladi的看法，研究人员应考虑采用其他测量精度的指标；幸运的是，贝叶斯可信区间在这方面表现出色，使得置信区间变得多余。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+讨论</p>
+</h2>
+<p style="text-indent:32.4px">在运用置信区间理论及两个具体案例的分析基础上，我们揭示了一个事实：置信区间并非如通常所声称的那样具有特定性质。置信区间理论的发展，原本是为了解答一个极为限定的问题——如何设计一个程序，使其能以固定的比例频率产生包含真实参数值的区间。然而，有关置信区间能提供精确度的指标、区间内的数值是合理的、以及置信系数能被视作区间包含真实值的可靠性度量的观点，均是不成立的，在置信区间理论中找不到这些观点的支持。
+<p style="text-indent:32.4px">支持置信区间的背后，的确有着良好的初衷：希望拥有具备所宣称属性的统计程序，这本是值得追求的。基本置信谬误的推动力源于希望评估区间包含真实值的可能性；似然性谬误的动机在于确定哪些参数值是值得重视的；而精度谬误则在于期望对估计值的精确度进行量化。我们赞同这些目标（Morey et al., 2014），但指出，置信区间理论并不是实现这些目标的正确方法。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+解释与报告区间的建议准则</p>
+</h2>
+<p style="text-indent:32.4px">频率主义理论有时可能显得难以理解。正如Fisher（1955）指出的，频率主义理论家们经常开发出与科学家需求不符的方法，这似乎与科学家的关切脱节。这种情况造成了一种误解，即实践者可能错误地假设某种方法是为他们的目的而设计的，而实际上它是为了另一个目的。为了解决这种误解，我们提供了一份清晰的指南，帮助读者理解和报告置信区间。 当数据收集完毕且计算出置信区间后，应如何解释这个区间呢？答案其实非常简单：在置信区间理论本身，这个区间是不被解释的。  [8]如Neyman及其他人反复强调，并且我们也展示了，置信区间不能被解释为任何超出其为某过程结果的含义，这个过程仅确保在固定比例的样本中包含真实值。除非区间的解释可以通过其他推理理论得到明确证明，否则应避免对置信区间进行任意解释，以防产生与数据矛盾的推断。即便是“良好”的置信区间，通常因倒置显著性测试而构建，也可能具有一些奇特的特性（Steiger, 2004）。
+<p style="text-indent:32.4px">为减少科学文献中的混淆，我们根据本文的讨论提出以下关于区间报告的指导方针。
+<p style="text-indent:32.4px"><b>我们建议报告可信区间而非置信区间。</b>任何选择使用置信区间的作者都应确保这些区间在合理的先验条件下与可信区间在数值上相符。许多置信区间可能无法这样解释，但如果作者知道它们可以这样解释，应将其称为“可信区间”。这表明读者可以像解释置信区间那样解释这些区间，尽管这种解释通常是错误的。当然，相应的先验也必须报告。这并不是说不能将可信区间称为置信区间，但读者可能更感兴趣的是该程序允许有效的后数据推断，而非先验数据推断，尤其当他们希望从计算出的区间中得出实质性的结论时。
+<p style="text-indent:32.4px"><b>不应使用其贝叶斯属性未知的置信程序。</b>正如Casella在1992年指出的那样，了解程序的后数据属性对于理解区间能推断出什么是必要的。未经探讨其贝叶斯属性的程序可能具有不适合后数据推断的特性。那些未经充分研究属性的程序并不适用于一般情况。
+<p style="text-indent:32.4px"><b>如果置信程序不对应于贝叶斯程序，请向读者说明。</b>已知的不对应于贝叶斯程序的置信区间，应提醒读者无法将其解释为具有X%概率包含参数，也无法用精确度的术语进行解释，更不能认为区间内的值值得重视：这样的区间只是在抽样前具有X%概率包含真实值的区间。报告置信区间的作者有责任防止读者进行无效的推断，因为如果不加以警示，读者几乎肯定会错误地解释它们（Hoekstra et al., 2014）。
+<p style="text-indent:32.4px"><b>绝不应在没有说明过程和相应统计数据的情况下报告置信区间。</b>如我们所述，构建置信区间的方式多种多样，且它们各有不同属性。有些区间可能比其他区间具有更好的频率特性；有些可能对应于可信区间，而另一些则不会。不幸的是，作者们通常在没有说明如何构建置信区间甚至不引用来源的情况下进行报告，这是一种不佳的做法。如我们的示例所示，如果不清楚所使用的置信过程，就无法确定能从中推断出什么。例如，在潜水艇的案例中，考虑一个宽度为0.5米的50%置信区间。这可能对应于非常精确的信息（贝叶斯区间）或非常不精确的信息（UMP和非参数区间）。不明确所使用的过程可能导致荒谬的推断。此外，应提供足够信息，使任何读者都能计算不同的置信区间或可信区间。在许多情况下，这已包含在标准报告规范中，但在其他情况下可能需要提供更多信息。
+<p style="text-indent:32.4px"><b>考虑报告似然性或后验概率，而非区间。</b>区间提供的信息相对较少。正如置信区间的支持者所辩称，置信区间提供的信息比显著性检验更多，尽管对于许多置信区间来说这是值得怀疑的。然而，似然性或后验概率比区间提供更多的信息。最近，Cumming（2014）提出了所谓的“猫眼（cat’s eye）”区间，其对应于正态分布数据的“非信息”先验下的贝叶斯后验。鉴于现代科学图形如此容易创建，我们认为在大多数情况下似然性或后验都可以在一定程度上甚至完全取代区间（如，Kruschke, 2010）。似然性或后验概率可以完全避免置信或可信系数的武断性。
+<p style="text-indent:32.4px">贝叶斯统计学的完整介绍超出了本文的范围。事实上，它可以填满整个课程。近年来，为希望了解更多关于应用贝叶斯统计学的读者开发了许多良好资源，包括后验分布和可信区间的估计。在技术较低的领域有Bolstad（2007），Lee和Wagenmakers（2013）以及Lynch（2007）的著作；在技术更高的领域有Jackman（2009），Ntzoufras（2009）和Gelman等人（2004）的著作。对于希望尝试一些简单示例的读者，本文的补充材料中包含了用于估计本文示例的后验分布和可信区间的R代码。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+置信区间与可信区间的比较</p>
+</h2>
+<p style="text-indent:32.4px">关于贝叶斯推断和频率推断之间的关系，存在一个常见的误解：认为它们会导致相同的推断结论，因而所有置信区间都可以简单地以贝叶斯方式解释。例如，在数据呈正态分布的情形下，某些特定的先验设定会使得置信区间在数值上与贝叶斯后验得出的可信区间相等（Jeffreys, 1961; Lindley, 1965）。这可能让人误以为使用置信程序或贝叶斯程序并无差别。然而，我们的研究表明，置信区间与可信区间之间可能存在显著差异。确定某个置信区间在数值上等同于某个可信区间的唯一方法是证明它。我们不能也不应该假设这种对应关系是成立的。
+<p style="text-indent:32.4px">更广泛地说，通过指出在某些特定条件下置信程序在数值上与贝叶斯程序一致，来为置信程序辩护，实际上并不是真正的辩护。首先，需要选择要使用的置信程序，而这些程序种类繁多。如果承诺使用能够被贝叶斯方法解释的程序，那么直接应用贝叶斯理论无疑更为高效。若确实需要贝叶斯理论的优势——这对置信区间的支持者来说显然是必要的——那么就可以广泛地采用贝叶斯推断，而不是仅仅在它偶尔与可信区间保持一致时才使用。
+<p style="text-indent:32.4px">然而，需要强调的是，在应用统计学文献中介绍的许多置信区间方法中，并没有人试图证明这些区间具有置信区间支持者所期望的性质。新开发的置信区间应首先展现其期望的推断特性，而不仅仅是真值的名义覆盖率和“短”宽度。因为许多置信区间的开发者并未这样做，所以对置信区间的推广建立在不稳固的基础之上。采用贝叶斯推断，所有推断都在一个逻辑统一的框架内产生，使得评估这些置信程序的属性变得不那么重要。如果需要，还可以评估贝叶斯程序的覆盖范围；但如果主要关注合理的后数据推断，那么贝叶斯属性应是首要考虑的，而不是频率覆盖（Gelman, 2008; Wasserman, 2008）。
+<p style="text-indent:32.4px">对于那些通过区间推理的拥护者来说，采用贝叶斯推断还有其他好处。置信区间的端点始终由数据确定。然而，假如我们对确定参数是否位于特定区间内的可能性感兴趣，例如，在美国，对智力障碍的罪犯执行死刑是非法的。佛罗里达州规定智力障碍的标准是真实智商低于70。由于智商测试存在误差，人们可能会问，对于某个罪犯，其真实智商低于70的概率有多大（Anastasi & Urbina, 1997; Cronbach, 1990）。在这种情况下，我们关注的区间不再是样本数据的函数。真实值在固定区间内的长期概率是未知的，可能是0或1，因此无法构造任何置信程序，尽管这样的信息对研究者、政策制定者或辩护律师可能非常重要（Pratt et al., 1995）。
+<p style="text-indent:32.4px">即使在表面上看起来简单的情况下，固定区间嵌套在置信区间内，或反之，也不能对固定区间的合理性得出结论。例如，人们可能会假设嵌套在置信区间内的较短区间具有较低的置信度，但正如图1B所示，某些50%的置信区间内部可能嵌套着100%的置信区间（似然性）。同样，如果置信区间嵌套在固定区间内，人们可能会认为固定区间的概率必须高于该置信区间。但在图1A中，可以设想一个略大于50% UMP区间的固定区间；由于它仅占据似然性的一小部分，它的真实值包含概率可能远低于50%。了解基本置信谬误是一种谬误就不能再使用置信区间来评估固定区间的概率。另一方面，贝叶斯程序提供了计算任何给定数值范围合理性的能力。由于所有这些推断都必须从后验分布中进行，推断结果必须保持一致（Lindley, 1985; Fisher, 1935）。
+<p style="text-indent:32.4px">然而，从置信区间转向可信区间需要一种思维方式的转变，即摆脱与区间相关的测试中心观点（例如，区间中是否包含0）。尽管每个置信区间都可以解释为一种测试，但不应将可信区间以此方式解释。如Berger在2006年所述，通过检查某个可信区间是否包含感兴趣的特定参数值来评估贝叶斯可信度是错误的。当感兴趣的是测试特定值（例如，零假设）时，必须为该特定值分配先验非零概率（这超出了本文的范围，详请参阅Rouder et al., 2009; Wagenmakers et al., 2008; Dienes, 2011）。
+<p style="text-indent:32.4px">最终，我们认为在科学推断中，含义的理解至关重要。贝叶斯可信区间通过显著地使用先验信息，支持了一种基于合理性的概率解释。相反，置信区间所依据的哲学观点并不包含对推断合理性的考量，且不采用先验信息。将置信区间视为可信区间的做法，实际上是试图将贝叶斯含义引入频率统计学，却未充分考虑先验信息。如常言所述，“天下没有免费的午餐”，我们必须作出选择。我们怀疑，当面临选择时，研究人员可能更倾向于指定先验，并从贝叶斯理论中获得好处。然而，我们不应该假装选择是不必要的。置信区间理论和贝叶斯理论在本质上不同，因此不应该混为一谈。
+<p><br><h2 style="
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+">
+结论</p>
+</h2>
+<p style="text-indent:32.4px">我们的观点是，置信区间并不支持其倡导者所声称的推论。一个引人深思的问题是，置信区间理论是如何从Neyman开始，作为一种通过二元陈述来避免从数据种推理问题的方式（Neyman, 1937, 1941），到最终被许多学者认为是数据推理的最佳方法（如，Cumming & Finch, 2005; Cumming & Fidler, 2009）（如，Cumming, 2014; Hoekstra et al., 2006; Wilkinson & Statistical Inference, 1999）。无论这种混淆如何形成，我们都应该意识到，置信区间理论仅提供了非常表面的解释，并不符合科学家的实际需求。
+<p style="text-indent:32.4px">我们并不认为置信区间理论为心理学方法论的未来提供了可靠的基础。没有贝叶斯特性的置信程序存在许多不足之处；而那些具有贝叶斯特性的置信程序，其有效性可以通过贝叶斯理论得到证实。如果我们放弃使用置信程序，我们又会失去什么呢？放弃使用置信程序，意味着放弃一种仅能创建具有固定长期真值包含概率区间的方法。我们怀疑，如果研究人员意识到这是他们唯一的损失，他们不会感到太大遗憾。相反，通过采用贝叶斯推断，他们将获得一种能够对精度和合理性进行原则性陈述的方法。归根结底，这正是置信区间的支持者所期望的。
+<h3>参考文献</h3>
+（略，见原文）
+<hr style="border: none; height: 2px; background-color: #ccc; margin: 20px 0;">
+<h3>脚注</h3>
+<p>[1] 现代置信区间的定义不再局限于恰好X%的概率，而是至少为X%。这一细微的变化并不会影响我们后续讨论的观点。提及这一点，是为了确保论述的完整性。</p>
+<p>[2] 在其1937年发表的重要理论论文之前，Neyman最初在另一篇论文中首次提出了这一理论。</p>
+<p>[3] John Tukey曾指出，一群统计学家的集体名词是“争吵”(McGrayne, 2011)。</p>
+<p>[4] 为了构造一个更好的区间，频率学家通常会截断区间，只保留可能的值，正如从非参数程序生成UMP程序所做的那样(例如，Spanos, 2011)。这保证会导致一个更好的程序。我们这里要强调是，单纯地假定一个程序具有良好的性质是错误的，因为它是一个置信程序。然而，参见Velicer等人(2008)中CI支持者在置信区间中包含不可能的值的例子，以及Fidler和Thompson(2001)对这种做法的辩护。</p>
+<p>[5] 在本文的早期草稿中，有读者提出频率派统计学家同样会使用似然函数，因此他们可能更倾向于贝叶斯方法。但正如Neyman在1977年所强调的，对于频率派统计学家而言，似然函数并不具有特别的重要性；关键在于统计方法的频率派特性，而非其构建过程。</p>
+<p>[6]  这并不意味着即使在这种简单的情况下，通过置信区间进行推理也不会产生问题（如，Brown, 1967; Buehler &amp; Feddersen, 1963)。</p>
+<p>[7] 详见补充资料。我们通常不主张对感兴趣的参数采用非信息性先验（Rouder et al., 2012; Wetzels et al., 2012）；在本例中，我们将其用作比较，因为许多人错误地认为置信区间在数值上对应于采用非信息性先验的贝叶斯可信区间。</p>
+<p>[8] 最近，一些学者建议用注重不同“严格程度”测试的频率主义观点来取代Neyman关于置信区间的行为观点（如，Mayo &amp; Cox, 2006; Mayo &amp; Spanos, 2006）。喜欢频率主义范式的读者可能希望探索这种方法；然而，我们并不知道在这种范式下有任何关于CI的全面论述，更不用说，它并没有提供CI支持者所期望的特性。这并不意味着我们反对这种方法，而是警告我们必须做出选择。</p>
+<!-- <span style="color:#d23;">改变颜色院</span>。 -->
+<!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ -->
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/of/">OF</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F&amp;text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F&amp;t=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E7%BF%BB%E8%AF%91%20%7C%20%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF&amp;body=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF%20https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024%25E7%25BD%25AE%25E4%25BF%25A1%25E5%258C%25BA%25E9%2597%25B4%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%B0%86%E4%BF%A1%E5%BF%83%E6%94%BE%E5%9C%A8%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4%E7%9A%84%E8%B0%AC%E8%AF%AF" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Chinese Open Science Network. Content licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

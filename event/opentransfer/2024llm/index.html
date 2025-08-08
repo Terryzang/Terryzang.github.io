@@ -1,0 +1,1353 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: August 8, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.1abdbb84e0d01f97450b6e724b0f513f.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<meta name="description" content="随着大型语言模型在研究领域的广泛应用，有效使用大型语言模型正变得越来越重要。本文提供了一份实用指南，旨在帮助读者了解大型语言模型的能力和局限性，并提供编写结构合理的提示词的策略，从这些人工智能工具中获取最大效用。" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://terryzang.github.io/event/opentransfer/2024llm/" />
+<link rel="canonical" href="https://terryzang.github.io/event/opentransfer/2024llm/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_276167d0fdd13cd7.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_bc6479ba188df54b.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Chinese Open Science Network" />
+<meta property="og:url" content="https://terryzang.github.io/event/opentransfer/2024llm/" />
+<meta property="og:title" content="翻译 | 如何编写有效的大型语言模型提示词 | Chinese Open Science Network" />
+<meta property="og:description" content="随着大型语言模型在研究领域的广泛应用，有效使用大型语言模型正变得越来越重要。本文提供了一份实用指南，旨在帮助读者了解大型语言模型的能力和局限性，并提供编写结构合理的提示词的策略，从这些人工智能工具中获取最大效用。" /><meta property="og:image" content="https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-09-18T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-09-18T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://terryzang.github.io/event/opentransfer/2024llm/"
+  },
+  "name": "翻译 | 如何编写有效的大型语言模型提示词",
+  
+  
+  "startDate": "2024-09-18T00:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "OpenTransfer Team"
+  },
+  
+  "description": "随着大型语言模型在研究领域的广泛应用，有效使用大型语言模型正变得越来越重要。本文提供了一份实用指南，旨在帮助读者了解大型语言模型的能力和局限性，并提供编写结构合理的提示词的策略，从这些人工智能工具中获取最大效用。"
+}
+</script>
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>翻译 | 如何编写有效的大型语言模型提示词 | Chinese Open Science Network</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="fb1462306099ccd1e529b1e0076571f7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.a34d644821f8082b8ecf344df0738d37.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Chinese Open Science Network</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span>HOME</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ABOUT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/about/cosn/"><span>ABOUT COSN</span></a>
+              
+                <a class="dropdown-item" href="/about/people/"><span>PEOPLE</span></a>
+              
+                <a class="dropdown-item" href="/about/duty/"><span>COMMITTEE DUTY</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/news/"><span>NEWS</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>EVENT</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/event/opentalk"><span>OpenTalks</span></a>
+              
+                <a class="dropdown-item" href="/event/openmind"><span>OpenMinds</span></a>
+              
+                <a class="dropdown-item" href="/event/opentransfer"><span>OpenTransfer</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>CONTACT</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>翻译 | 如何编写有效的大型语言模型提示词</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/opentransfer-team/">OpenTransfer Team</a></span>
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <br>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Sep 18, 2024
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      <!-- <label for="colorPicker">选择颜色：</label>  -->
+<!-- <input type="color" id="colorPicker" value="#6607ff73"> -->
+<p><i><h5>原文信息</h5>Lin, Z. (2024). How to write effective prompts for large language models. Nature Human Behaviour, 8(4), 611-615. <a href="https://doi.org/10.1038/s41562-024-01847-2" target="_blank" rel="noopener">https://doi.org/10.1038/s41562-024-01847-2</a><br></p>
+<h5>译者/校对者列表</h5>OpenTransfer 自动翻译工作流程；刘若婷<br></i>
+<h3 style="color:#6607ff73;">摘要</h3>随着大型语言模型在研究领域的广泛应用，有效使用大型语言模型正变得越来越重要。本文提供了一份实用指南，旨在帮助读者了解<span style="color:#6607ff73;"> <b>大型语言模型的能力和局限性</span></b>，并提供<span style="color:#6607ff73;"><b> 编写结构合理的提示词的策略</span></b>，从这些人工智能工具中获取最大效用。
+<h3 style="color:#6607ff73;">正文</h3>
+<p style="text-indent:32.4px"><b>大型语言模型（LLMs）</b>使用深度学习，来生成类似人类的文本以回应用户的查询，即“提示”（方框 1 提供了术语表，方框 2 提供了大型语言模型的入门知识）。深度学习是人工智能（AI）的一个分支，模仿人脑的神经网络。与依赖预定算法的传统软件不同，<span style="color:#6607ff73;"><b> 大型语言模型能够解释自然语言命令，擅长从简单的句子补全到复杂的问题解决等各种任务，因此具有用户友好性和多功能性。</span></b>在很短的时间内，大型语言模型已成为技术领域无处不在的存在，并且现已渗透到各个学科。它们迅速成为专业人士和学术研究人员在写作、编码和可视化方面不可或缺的工具。表 1 对主要的大型语言模型进行了比较。</p>
+<div style="border-left: 6px solid #6A5ACD; padding: 10px 15px; background-color: #F7F7FF;">
+  <p style="color: #6A5ACD; font-weight: bold; font-size: 20px;">方框 1：术语表</p>
+  <p><b>应用程序编程接口（application programming interface, API）</b>：软件实体相互通信的一套规则。</p>
+  <p><b>人工智能（artificial intelligence, AI）</b>：在机器中模拟人类智能。</p>
+  <p><b>偏差（biases）</b>：机器学习模型中的偏见，源自训练数据。</p>
+  <p><b>思维链提示（chain of thought prompting）</b>：通过添加“让我们一步一步思考”等特定指令来提高模型推理能力的一种技术。</p>
+  <p><b>上下文窗口或长度（context window or length）</b>：模型可从对话历史中考虑的最大标记数。</p>
+  <p><b>深度学习（deep learning）</b>：人工智能的一个子领域，模仿人脑的神经网络来分析数据。</p>
+  <p><b>分隔符（delimiters）</b>：用于指示大型语言模型应该处理的某些数据或文本的开始或结束的符号或字符。</p>
+  <p><b>幻觉（hallucination）</b>：由大型语言模型生成的不正确或误导性语句。</p>
+  <p><b>大型语言模型（large language models, LLMs）</b>：在大量数据集上训练的机器学习模型，用于执行基于语言的任务。</p>
+  <p><b>神经网络（neural networks）</b>：受人脑启发的计算模型，用于机器学习算法解决复杂问题。</p>
+  <p><b>参数（parameter）</b>：可调整的权重，代表神经网络中人工神经元之间的连接强度。</p>
+  <p><b>提示（prompt）</b>：触发大型语言模型响应的用户查询或指令。</p>
+  <p><b>提示工程（prompt engineering）</b>：制作与大型语言模型交互的有效提示的艺术和科学。</p>
+  <p><b>提示注入（prompt injection）</b>：在提示中嵌入恶意指令，使模型执行非预期操作。</p>
+  <p><b>人类反馈强化学习（reinforcement learning from human feedback, RLHF）</b>：一种机器学习类型，其中模型根据人类评估者提供的实时反馈来学习决策。</p>
+  <p><b>自注意力（self-attention）</b>：转换器中的一种机制，用于评估输入文本不同片段的相关性。</p>
+  <p><b>标记（token）</b>：由大型语言模型处理的文本单位。</p>
+  <p><b>转换器（transformers）</b>：一种深度学习架构，旨在处理顺序数 据。</p>
+</div>
+<p><br><br></p>
+<div style="border-left: 6px solid #4A90E2;
+            background-color: #f5f7fa;
+            padding: 10px 16px;
+            font-size: 20px;
+            line-height: 1.8;
+            border-radius: 4px;">
+  <p style="color: #6A5ACD; font-weight: bold; font-size: 20px;">方框 2：理解和使用大型语言模型</p>
+<p>开发人员首先使用深度学习训练大型语言模型。他们使用一种称为<span style="color:#6607ff73;"> <b>转换器（transformers）</span></b>的深度学习架构，该架构专门用于处理顺序数据。转换器的一个主要特点是<span style="color:#6607ff73;"> <b>自注意力（self-attention）</span></b>，这种机制使模型能够评估输入文本中不同片段的相关性。通过这一过程，模型可以从包括网页、学术文章和书籍在内的大量数据集中“学习”。</p>
+<p>转换器将文本分解成更小的单位，称为<span style="color:#6607ff73;"> <b>标记（token）</span></b>，这些标记可以小到一个字符，也可以大到一个单词。它们将这些标记转换成数值，作为模型的输入。在模型内部，有大量可调整的权重（通常称为<span style="color:#6607ff73;"> <b>参数</span></b>）。这些参数代表模型神经网络架构中人工神经元之间的连接强度。初始训练会对这些参数进行微调，以捕捉复杂的语言模式。由于在训练中使用了大量语言数据集，这些模型生成的文本与人类语言非常相似。最近，大型语言模型的训练已扩展到图像、视频和音频（这些模型有时被称为<span style="color:#6607ff73;"> <b>大型多模态模型</span></b>或<span style="color:#6607ff73;"> <b>多模态语言模型</span></b>）。</p>
+<p>经过初步训练后，大型语言模型会通过<span style="color:#6607ff73;"> <b>人工反馈</span></b>进一步完善。评估人员根据模型输出的准确性和相关性，对模型的反应提供实时反馈。这被称为<span style="color:#6607ff73;"> <b>强化学习</span></b>，因为大型语言模型会根据正面或负面反馈调整其参数。这意味着该模型将更加符合人类的价值观和期望。</p>
+<p>自 2017 年发布转换器架构以来，一些领先的大型语言模型已经可以通过基于网络的对话界面进行访问：表 1 对四种领先的大型语言模型进行了比较。对于那些寻求更灵活集成的人来说，应用编程接口（API）访问通常是可用的，这使用户能够向大型语言模型提供商的服务器发送 HTTP 请求，将模型纳入各种应用程序和服务（如创意写作平台或翻译服务）。使用 API 还可以对模型进行更多配置，例如通过设置温度参数来调整响应的随机性。有些提供商需要订阅或采用按使用付费的模式。</p>
+<p>在选择大型语言模型时，请考虑你需要模型完成的具体任务、模型在你所在地区的可用性以及你的个人偏好（表 1）。通过在不同任务中尝试使用不同的大型语言模型并比较其输出结果来建立直觉。由于大型语言模型在不断改进，因此需要随时关注发布说明和新功能。</p>
+</div>
+<p><br>表 1  截至2024年2月17日的主要大型语言模型比较
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024LLM_1.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 style="
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+为什么需要提示词？
+</h2>
+<p style="text-indent:32.4px">与大型语言模型的互动看似简单：只需输入问题，就能立即得到答案！然而，事实证明，有效地使用这些模型比最初看起来更加复杂和细致入微。这极大地限制了大型语言模型的实用性，因为它们的输出质量直接与提供的提示词质量相关——这一点在当前关于大型语言模型的实用性和能力的讨论中经常被忽视。<span style="color:#6607ff73;"> <b>一个精心制作的提示词可以导致精确、准确和相关的回答，从而最大限度地提高模型的性能。</span></b>反之，结构不良的提示词可能会导致模糊、不正确或不相关的回答。</p>
+<p style="text-indent:32.4px">这种局限性在很大程度上源于大型语言模型的固有性质。尽管大型语言模型拥有复杂的算法和大量的训练数据（包括网页、维基百科文章、社交媒体帖子、学术文章、书籍和教学数据等材料），但它们只是数学模型，缺乏对世界的理解。这些工具旨在预测文本的可能性，而不是生成真相。它们通过利用训练数据中的模式识别，<span style="color:#6607ff73;"> <b>使用统计可能性来预测文本。</span></b>生成的文本类型在很大程度上取决于训练数据中的文本模式。此外，由于每个标记预测都会影响后续标记预测，<span style="color:#6607ff73;"> <b>回复初期的失误可能会导致一连串的错误。</span></b>因此，一个结构良好的提示词不仅可以提高每个标记被准确预测的可能性，而且还能将错误的复合效应降至最低。促使提示词变得重要的另一个关键因素是大型语言模型的<span style="color:#6607ff73;"> <b>上下文学习能力。</span></b>这种能力使模型能够临时适应所收到的提示词，从而使这些提示成为<span style="color:#6607ff73;"> <b>传递语境信息</span></b>的关键。</p>
+<p style="text-indent:32.4px">因此，掌握制定有效提示词的艺术和科学（有时也被称为<span style="color:#6607ff73;"> <b>“提示工程”</span></b>），对于充分利用大型语言模型的能力至关重要。要达到最佳效果，需要结合领域特定的知识、对模型的理解和技能，而这些都必须通过学习和经验来磨炼。因此，首要建议是<span style="color:#6607ff73;"> <b>多与模型互动</span></b>。我们与模型的互动越多，就能更好地理解其细微差别，并了解如何更好地利用它们来满足我们的需求。本文概述了<span style="color:#6607ff73;"> <b>可操作的策略和规则及其原理</span></b>，为掌握这一技能奠定基础（见表 2）。</p>
+<p><br>表 2  提示词策略和示例
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="/images/opentransfer/2024LLM_2.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 style="
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+提示词策略和示例
+</h2>
+<h4>1. 引导模型找到解决方案</h4>
+<p style="text-indent:32.4px">大型语言模型缺乏语义理解，这使得它们难以在训练之外进行泛化。然而，它们庞大的参数设置赋予了它们一个巨大的后备数据（“记忆”），这些数据来自于它们的<span style="color:#6607ff73;"> <b>训练数据</span></b>（“长期记忆”）以及<span style="color:#6607ff73;"> <b>提示词和交互历史</span></b>（“工作记忆”）（见表 1 中的“上下文窗口”）。这种有限的泛化能力与强大的记忆能力相结合，使大型语言模型能够在<span style="color:#6607ff73;"> <b>将复杂任务分解为更小的任务和步骤</span></b>时有效地处理这些任务。</p>
+<p style="text-indent:32.4px">例如，与其使用“将文本翻译成中文”这样宽泛的命令，不如将其分解为两个步骤：“首先按字面意思翻译，以保留原意，然后根据中文语言习惯完善译文”。同样，与其直接要求写一篇 1000 字的文章，不如将任务分解为若干子任务，并根据具体指令精心设计引言、结论和中心论点。</p>
+<p style="text-indent:32.4px">清晰的逐步指令可以减少模糊性和不确定性，从而产生更准确的回应。通过<span style="color:#6607ff73;"> <b>将广泛的任务简化为较小的、连续的组件</span></b>，这种策略能够有效利用大型语言模型的强大记忆能力，同时通过结构化的指导弥补其有限的抽象能力。</p>
+<p><br><h4>2. 添加相关背景</h4></p>
+<p style="text-indent:32.4px">大型语言模型拥有比人类大得多的“工作记忆”。因此，为了获得细致入微、上下文准确的回复，<span style="color:#6607ff73;"> <b>提供相关的上下文作为输入</span></b>至关重要。一个框架合理的提示词应该：</p>
+<p>·<span style="color:#6607ff73;"> <b>嵌入具体内容。</span></b>将具体细节作为查询的根基，引导大型语言模型做出更准确、更相关的解释。因此，与其要求它起草一封普通的求职信，不如向它提供具体的招聘广告和你的简历，以增加相关背景。<br></p>
+<p>·<span style="color:#6607ff73;"> <b>优先考虑证据。</span></b>将你的互动建立在相关的事实信息基础上。与其向模型询问获得永恒幸福的最佳方法，不如向它提供经过同行评审的研究报告，并根据这些研究结果向它提问。<br></p>
+<p style="text-indent:32.4px">这样做的目的不是向大型语言模型灌输一般知识，而是让它了解与你的提问相关的一些特性。当提示词充满相关细节时，大型语言模型会生成更有洞察力、更细致入微的回答。</p>
+<p><br><h4>3. 指令要明确</h4></p>
+<p style="text-indent:32.4px">要想得到自己喜欢的饮料，你不会随便走进一家咖啡店，然后说“请给我一杯咖啡！”。也不要指望大型语言模型能读懂你的心思。虽然让大型语言模型猜中你的意图甚至超出你的期望会让你感到高兴，但不准确的请求可能会导致大型语言模型偏离目标的回应。因此，指令清晰是关键。</p>
+<p style="text-indent:32.4px">了减少模型预测的不确定性，<span style="color:#6607ff73;"> <b>请明确说明你想要什么。</span></b>与“修改文本”相比，你可以通过考虑想要的文体方式、目标受众以及是否有特定的侧重点（如清晰或简洁），来使用更明确的指令。因此，更具体的指令可能是“充当顶级期刊的编辑，提高文本的清晰度和流畅性”。</p>
+<p style="text-indent:32.4px">再比如，与其征求对名称的建议，不如通过添加限制条件来更明确：“名称必须以动词开头，隐含的主语/行为者是用户”。尽量明确地说明任务、任务目标、希望强调的重点和任何限制条件。含糊的请求会导致含糊的回应，而明确的指令则有助于：</p>
+<p>·尽量减少指令和要处理文本的模糊性（例如，使用特定标签、字符或符号等分隔符）。</p>
+<p>·使大型语言模型的能力集中于你的特定需求。</p>
+<p>·提供判断模型准确性的明确标准。</p>
+<p style="text-indent:32.4px">虽然大型语言模型是为会话精炼而设计的，但明确的指令可以通过事先声明你的目标来简化流程。你可以通过<span style="color:#6607ff73;"> <b>阐明自己的目的和限制条件</span></b>来引导对话。同时，在目标尚未完全确定的情况下，要避免过度具体化，因为这可能会导致错误的路径，或错过意想不到的、可能更好的回应。</p>
+<p><br><h4>4. 要求提供大量选项</h4></p>
+<p style="text-indent:32.4px">大型语言模型的一个特殊优势在于其巨大的“长期记忆”。为了利用大型语言模型的这一潜力，你可以<span style="color:#6607ff73;"> <b>要求其提供一系列选项</span></b>，而不是单一的建议。例如，你可以要求用三个类比来解释一个概念，用五个想法来开始介绍，用十个替代方案来替换最后一段，或者用二十个名称来命名一个功能——让模型为你提供思考的食粮，然后从中进行选择。除了要求提供多个选项，你还可以<span style="color:#6607ff73;"> <b>多次使用同一提示词重新生成响应。</span></b>通过重新生成响应，你可以增加结果的多样性，并提升其整体质量。以下是要求提供多个选项和重新生成响应的几个优势：</p>
+<p>·鼓励模型探索多种可能性，从而提升输出的创造性和多样性。</p>
+<p>·为你提供更全面的选择，最大限度地减少接受次优或有偏见建议的风险。</p>
+<p>·促进迭代优化。</p>
+<p style="text-indent:32.4px">大型语言模型是多才多艺的创意伙伴：从多个角度提供丰富的备选方案，能够丰富你的决策过程。多样化的选择能释放最大效益。</p>
+<p><br><h4>5. 指定角色</h4></p>
+<p style="text-indent:32.4px">庞大的训练数据集意味着大型语言模型能够<span style="color:#6607ff73;"> <b>模拟各种角色，提供专门的反馈或独特的视角。</span></b>你可以考虑让模型进行角色扮演，而不是要求它提供一般的建议或信息：例如，让它扮演典型的读者，为你的写作提供反馈意见；让它扮演写作教练，帮助修改稿件；让它扮演擅长人体生理学的藏牦牛，解释高海拔的影响；或者让它扮演有意识的芝士蛋糕，用芝士蛋糕的类比来解释——可能性是无穷的。指定角色：
+<p>·将模型的回应情境化，使其更符合你的特定需求。</p>
+<p>·允许与模型进行互动性更强、更有趣的对话。</p>
+<p>·产生更细微、更专业的信息，从而提高输出质量。</p>
+<p>·提供解决问题的创新方法，鼓励跳出框架思考。</p>
+<p><br><h4>6. 举例说明，不要只说不练</h4></p>
+<p style="text-indent:32.4px">大型语言模型善于少量示例学习（从实例中学习）。因此，一个特别有效的方法就是<span style="color:#6607ff73;"> <b>用具体的例子来体现你的意图。</span></b>与其含糊地说“为这些数据绘制图表”，不如举例说明：“为这些数据绘制一个条形图，类似于本文附图 3 中的图表”。就像向发型师展示图片远比描述你想要的发型要好得多一样，提供明确的示例——无论是编程查询的代码片段还是写作任务的例句——都是非常有价值的。
+<p>·澄清上下文，使大型语言模型更好地理解你的请求的细微差别。</p>
+<p>·减少实现预期结果所需的迭代次数。</p>
+<p>·提供评估模型输出的基准。</p>
+<p style="text-indent:32.4px">示例可作为大型语言模型的路线图，引导它生成与你的期望密切相关的响应。
+<p><br><h4>7. 声明首选的响应格式</h4></p>
+<p style="text-indent:32.4px">大型语言模型的回答往往比较啰嗦。指定你所需的格式——<span style="color:#6607ff73;"> <b>要点、阅读水平、语气等</span></b>——有助于限制可能的输出，从而提高相关性。例如，你可以声明响应格式，而不是“概述主要结论”：用要点概括主要发现，并使用高中生能理解的语言。预先声明格式还能为评估大型语言模型的表现提供明确的标准。一些选项包括：
+<p>·简明扼要的要点概述。</p>
+<p>·语气随意，便于理解。</p>
+<p>·用于记录的代码注释。</p>
+<p>·限制响应长度以求简洁，或限制阅读水平以求理解。</p>
+<p style="text-indent:32.4px">声明你喜欢的格式，为提示设定明确的预期。限制可以提高相关性。
+<p><br><h4>8. 试验、试验、再试验</h4></p>
+<p style="text-indent:32.4px">有效的提示词并不是公式化的；小的调整有时会产生显著且令人惊讶的差异。请看下面的例子：
+<p>·在一系列推理任务中，只需在 GPT-3 的提示中添加“<span style="color:#6607ff73;"> <b>让我们一步步思考</span></b>”的指令，就能大大提高表现——这是一种思维链提示（chain of thought prompting）。</p>
+<p>·大型语言模型可以对<span style="color:#6607ff73;"> <b>情感信息</span></b>做出反应。根据一份未经同行评审的预印本，添加诸如“深呼吸——这对我的职业生涯非常重要”或“如果回答得好，我将给予 200 美元的小费”等短语可以提高回答质量。</p>
+<p>·未经同行评审的研究表明，通过在提示词中加入“<span style="color:#6607ff73;"> <b>确定问题中的核心概念并提供指导</span></b>”和“<span style="color:#6607ff73;"> <b>回忆三个相关且不同的问题</span></b>”——一种类比提示形式——可以提高复杂编码任务的表现。</p>
+<p>·尽管大型语言模型在涉及复杂计算的直接查询中可能会遇到困难，但它们在<span style="color:#6607ff73;"> <b>生成</span></b>解决相同问题的计算机功能<span style="color:#6607ff73;"> <b>代码</span></b>（例如“编写 Python 代码来解决它”）时却大放异彩。</p>
+<p style="text-indent:32.4px">这些案例证明了大型语言模型对提示词的敏感程度。因此，你必须不断尝试、尝试、再尝试！要有效地使用大型语言模型，就必须不断进行创造性的实验。你可以考虑：
+<p>·改变措辞、长度、具体性和限制条件。</p>
+<p>·在不同的例子、上下文和指令之间切换。</p>
+<p>·尝试对话式和简洁的陈述式提示词。</p>
+<p>·在不同的大型语言模型上尝试相同的提示词。</p>
+<p style="text-indent:32.4px">因此，我们应将提示词视为可检验的假设，并利用结果来指导迭代。并非所有的尝试都会成功，但每次尝试都会积累证据。只要坚持不懈，最佳结果就会出现。
+<p><br><h3 style="color:#6607ff73;">结论</h3></p>
+<p style="text-indent:32.4px">大型语言模型在自然语言任务领域是无与伦比的合作伙伴。本文提出了一些可行的策略及其原理，用于制作有效的提示词，以充分释放大型语言模型的潜力。
+<p><b>中心主题包括：</b></p>
+<p>·将复杂任务<span style="color:#6607ff73;"> <b>分解</span></b>为子任务和结构化步骤的重要性；</p>
+<p>·通过相关<span style="color:#6607ff73;"> <b>细节</span></b>来构建框架；</p>
+<p>·明确声明<span style="color:#6607ff73;"> <b>目标</span></b>；</p>
+<p>·通过<span style="color:#6607ff73;"> <b>示例</span></b>说明意图。</p>
+<p><b>其他建议包括：</b></p>
+<p>·指定<span style="color:#6607ff73;"> <b>角色</span></b>并要求提供不同的选项，以利用大型语言模型的多功能性；</p>
+<p>·明确<span style="color:#6607ff73;"> <b>格式</span></b>以设定期望值；</p>
+<p>·不断<span style="color:#6607ff73;"> <b>尝试</span></b>以获得最佳结果。</p>
+<p style="text-indent:32.4px">这些策略结合在一起，可以帮助用户创建精心设计的结构化提示词，从而最有效地解决特定任务。虽然编写有效提示词的技能可能不会带来永恒的幸福，但它有望为科研人员带来越来越高的生产力和乐趣。
+<!-- <span style="color:#d23;">改变颜色院</span>。 -->
+<!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ -->
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/of/">OF</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F&amp;text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F&amp;t=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%E7%BF%BB%E8%AF%91%20%7C%20%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D&amp;body=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D%20https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fterryzang.github.io%2Fevent%2Fopentransfer%2F2024llm%2F&amp;title=%E7%BF%BB%E8%AF%91&#43;%7C&#43;%E5%A6%82%E4%BD%95%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Chinese Open Science Network. Content licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenTransfer | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/event/opentransfer/</link>
+      <atom:link href="https://terryzang.github.io/event/opentransfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>OpenTransfer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>OpenTransfer</title>
+      <link>https://terryzang.github.io/event/opentransfer/</link>
+    </image>
+    
+    <item>
+      <title>翻译 | 如何让零结果的研究获得应有的关注</title>
+      <link>https://terryzang.github.io/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2024%E9%9B%B6%E7%BB%93%E6%9E%9C/</guid>
+      <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
+&lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#6607ff73&#34;&gt; --&gt;
+&lt;p&gt;&lt;i&gt;&lt;h5&gt;原文信息&lt;/h5&gt;Kozlov, M. (2024). So you got a null result. Will anyone publish it?. Nature 631, 728-730. &lt;a href=&#34;https://doi.org/10.1038/d41586-024-02383-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/d41586-024-02383-9&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h5&gt;译者/校对者列表&lt;/h5&gt;OpenTransfer 自动翻译工作流程；敬俊林，金淑娴&lt;br&gt;&lt;/i&gt;
+&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;摘要&lt;/h3&gt;研究人员已经尝试了各种策略，以增加文献对&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt;阴性结果&lt;/span&gt;&lt;/b&gt;的收录。《Nature》对此进行了调查，探讨这些策略是否真正奏效。
+&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;正文&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;进化生物学家Natalie Pilakouta提出了一个她认为应当很容易被验证的假设：&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt;生活在冰岛地热温泉中的鱼类，应该比生活在附近较冷湖泊中的同类鱼更倾向于温暖的水。&lt;/span&gt;&lt;/b&gt;然而，经过两年的研究，她却依然没有得到明确的结论——当提供两种水温的选择时，这两个鱼群都显示出对凉水的偏好。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;她感到非常失望，因为她明白，发表这样的研究结果将面临巨大的困难。此外，她迫切希望分享这个反直觉的发现，因为它挑战了一个广为接受的假设：&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt;即水生生物在面对全球变暖时，可能会进化出对高温环境的偏好。&lt;/span&gt;&lt;/b&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Pilakouta目前在英国圣安德鲁斯大学任职，她算是少数的幸运儿之一。她的研究历经了六年的时间，向七家期刊投稿，终于在2023年1月得以发表。然而，她的故事揭示了学术界长期存在的&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt;“文件抽屉问题”（file-drawer problem）&lt;/span&gt;&lt;/b&gt;——那些未能发现变量间关系，或得出与既有假设相悖的零结果和阴性结果的研究，往往被搁置；而具有显著结果的研究更容易被发表。2022年，一项在法国进行的科学家调查显示，75%的受访者愿意发表他们的零结果研究，但只有12.5%的人成功发表。随着时间的推移，这种发表偏倚（publication bias）扭曲了科学记录，对显著结果的过度关注甚至促使研究人员选择性地报告数据或夸大统计显著性。这不仅浪费了时间和资金，还导致研究人员可能重复进行那些已经被研究但未发表的实验。有证据表明，这一问题正变得更加严重，阴性结果的发表数量正在减少。资助方、出版商和研究人员对此并非无所作为。如今，许多期刊鼓励研究团队在实验开始前提交研究计划和方案，期刊则会提前对其进行审查，并承诺无论结果如何，都会发表。至今，已有数百家期刊采用这种“注册报告”（registered report）的模式，自2018年以来，采用这种方式的期刊数量已翻了一倍。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;位于弗吉尼亚州夏洛茨维尔的开放科学中心执行董事Brian Nosek提到：“集中关注阳性结果并不是唯一的科学研究方式”。Nosek与全球各地的研究人员一起，致力于重塑科研的运作方式，挑战研究成功的定义。这不仅包括打击诸如抄袭等恶劣的科研不端行为，还呼吁遏制一些“较轻”的违规行为，比如选择性报告，旨在促使更多阴性结果的发表。这些变化已经开始在出版行业逐渐显现，随着预印本服务器的增多，出版商们采用新的手稿格式，推出专门发表零结果的期刊，并呼吁专题刊物。
+&lt;p&gt;&lt;br&gt;&lt;h3&gt;隐藏的结果&lt;/h3&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;研究人员对“文件抽屉问题”已经关注了数十年。然而，直到2010年代初，这一问题所引发的更大困境才逐渐浮出水面。当时，研究人员尝试重复多个心理学和医学领域的基础实验，却未能取得成功。这促使科学家们开始探讨这一“可重复危机”的范围以及发表偏倚的问题。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;研究人员的研究揭示了阴性结果被埋没的频率。他们对超过30万份科学会议报告的分析显示，科学家们通常会尝试将这些报告转化为论文，但其中只有不到40%被发表在同行评审的期刊上，而阴性或零结果的研究往往比阳性结果更少被公布。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;发表偏倚的程度因学科和国家而异，但这一问题似乎随着时间的推移愈加严重。一项对1990年至2007年间4600篇论文的分析发现，这段时间内发表偏倚增加了22%。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;发表偏倚可能会对现实世界产生影响。例如，在74项评估抗抑郁药物的注册临床试验中，近三分之一的试验结果未被公开，这些试验很可能显示阴性结果而非阳性结果。仅从已发表的结果来看，94%的试验似乎得出了积极的结论，而药物审批委员会认为只有51%的试验结果为阳性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;选择性报告导致了对药物疗效的夸大认识，这种情况在主要包含阳性结果的文献综述中尤为严重。尽管美国的法律要求临床试验的研究人员无论结果如何都必须报告他们的结果，但实际情况仍然受到经济利益和试验参与者的期望影响，Nosek表示，这些结果反映了“我们还有很长的路要走”。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;此外，斯坦福大学医学院的Steven Goodman表示，阴性或零结果的研究通常比阳性结果的研究受到更严格的审查，尤其是在阳性结果“验证了我们认为是正确的东西”时，这种严格审查显得尤为突出。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;印第安纳大学南本德分校的认知神经科学家Jessica Payne指出，人们仍然持有这样的观点：如果研究结果为阴性或零结果，科学家的研究设计必然存在缺陷。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;事实上，根据对480名经济学家的调查，零结果的研究被认为比具有显著结果的研究更难发表，即使样本量等因素保持不变，也会被认为质量较差且重要性较低——这种现象被称为“零结果惩罚”。Goodman表示，得到大效应量的研究应比零结果的研究受到更多的审查。
+&lt;p&gt;&lt;br&gt;&lt;h3&gt;文化偏倚&lt;/h3&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;可重复危机清楚地表明：学术界的激励机制并不总是与研究的诚信和可重复性保持一致。荷兰乌特勒支大学的元科学家Anne Scheel表示，这在很大程度上解释了为什么如此少的阴性结果能够被发表。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Scheel认为，学术不端行为和发表偏倚的根源在于人们对“发表或灭亡”文化的共识和认同，这种文化由学术机构、研究资助方、学术期刊和科学家自身共同维持，奖励那些在著名期刊上发表研究成果的研究人员。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;但一些批评者指出，这些学术守门人存在偏见，他们认为资助方和顶尖期刊往往追求新颖且引人注目的发现。澳大利亚墨尔本大学的心理学家、《Psychological Science》的编辑Simine Vazire表示，期刊编辑们会担心充满零结果的刊物会吸引更少的读者。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Nosek指出，这在研究人员和期刊之间形成了一个紧密的反馈循环。为了用看起来新颖且值得注意的发现吸引期刊，一些科学家可能会在看到结果后更改假设，或只公布部分数据，甚至使用统计手段来美化结果。
+&lt;p&gt;&lt;br&gt;&lt;h3&gt;积极的解决方案&lt;/h3&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为了鼓励更多研究人员报告零结果，期刊和资助方正在尝试几种方案。其中最重要的变化之一是“预注册”（pre-registration）的推广（见图1），即研究人员必须在研究开始时在公共数据库中声明他们的假设和打算测量的结果（这一做法在临床试验中已成为常规）。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Nosek 说，预注册模型促使研究人员忠实于研究的初衷，但它并未解决研究人员在提交研究结果到期刊时的偏倚问题，也未能消除期刊编辑和审稿人在决定是否发表时的偏见。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;相反，Nosek和同事们专注于推广和评估“注册报告”模型——这一模型类似于“预注册”报告，但其初步计划由期刊发布，并承诺进行同行评审和对结果的发表。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;初步数据显现出注册报告的良好前景：Scheel 和她的同事比较了 71 个注册报告与 152 个标准心理学手稿的结果，发现注册报告中有 44% 显示出阳性结果，而标准出版物中则有 96% 显示阳性结果（见图2）。Nosek 和他的团队发现，审稿人对心理学和神经科学领域中的注册报告在研究严谨性和质量指标上的评分普遍高于标准模式下发表的论文。自 2012 年这一格式推出以来，尽管最初只有少数期刊采纳了注册报告，但现在已有超过 300 个期刊提供这种形式，包括 《PLoS ONE》 和由 Springer Nature 出版的《Nature》（Nature 新闻团队与期刊团队的编辑流程相互独立）。虽然 Nature 从 2023 年 2 月起提供注册报告的形式，但尚未发表任何注册报告，其姊妹期刊《Nature Human Behaviour》 已有相关发表。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e9%9b%b6%e7%bb%93%e6%9e%9c2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;尽管这种形式（注册报告）日益受到欢迎，但研究人员表示仍存在一些问题需要解决。今年早些时候，瑞士巴塞尔大学的睡眠研究员Christine Blume发表了她的第一篇注册报告，研究光线如何影响人体生物节律，刊登在《Nature Human Behaviour》 期刊上。她表示，尽管她很喜欢在数据收集之前就能收到关于研究设计的反馈——“这让我觉得，我拥有了最佳的研究设计来回答我想解决的问题”——但她发现反馈过程可能持续数月，特别是当研究经费有时间限制时，这可能让人感到沮丧。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Nosek指出，这些实际问题至关重要。他坦承，自己关于注册报告质量的那篇论文本身，并不是一篇注册报告，这是因为资助资金即将到期，团队没有时间经历冗长的审批程序来完成分析。他说，“我们不能忽视实用性，但可以思考如何降低门槛，以便处理更多此类情况”。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;提供注册报告的期刊在各个学科之间分布不均；大多数期刊集中在心理学领域，最近也开始出现在神经科学领域。很少有物理科学期刊采用这种形式——尽管零结果，如瑞士日内瓦附近的大强子对撞机自希格斯玻色子以来未能发现新的亚原子粒子，依然是科学进展的重要组成部分。来自英国爱丁堡大学的转化医学研究员和元科学家Emily Sena指出，特别是在预临床领域，几乎没有学者愿意尝试这种形式，尤其是在研究人员在开始实验之前就面临诸多繁琐程序时。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Vazire表示，这种形式在研究人员中推广得很慢，“我们并没有收到许多注册报告的提交”。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Sena和她的同事一直在宣传注册报告，并帮助期刊编辑增强审阅提交的信心。她表示，一些资助机构提供现金奖励：在2022年，开放科学中心向愿意为其研究发布注册报告的意识研究人员提供最高50,000美元的资金。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Sena表示，追踪这些干预措施对学术界边缘群体的影响非常重要。她表示，少数族裔学者更有可能签订一份固定的合同，所以他们没有多少回旋余地去接受可能对整体科学更好、但对个别科学家没有多大帮助的形式。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;开放科学中心计划进行试验，随机分配研究人员使用标准出版模型或注册报告，以评估所产生出版物的严谨性、接受率和时间线。预计结果将在2027年公布。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;并非所有减少出版偏见的努力都取得了成效。Nosek表示，其中一个很少奏效的尝试是设立专门发布零结果的期刊。这些努力本是出于良好意图，但往往未能奏效，因为这些期刊可能被视为未能在其他地方发表的研究。“它无法提供研究人员所需的激励，”他说道。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Payne曾是这些期刊之一《Experimental Results》的共同编辑，该期刊由剑桥大学出版社出版。她说，尽管得到了“剑桥的认可”，该期刊在仅三年后于2023年停刊。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;还有一种越来越流行的自助出版零结果的方法：在预印本服务器上发布手稿。发布预印本可以提供在没有期刊提交压力下展示研究的机会。Pilakouta表示，这一选择对早期职业研究人员尤为有利。Goodman说，尽管如此，无论在哪里发布，撰写结果都需要时间，而在预印本服务器上发布不太可能为研究人员提供足够的激励，以证明花费时间的合理性。
+&lt;p&gt;&lt;br&gt;&lt;h3&gt;零结果&lt;/h3&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;倡导者承认，并非所有返回零结果的研究都值得发表。Goodman 表示，他鼓励研究人员发布那些“具有信息性”的零和阴性结果，即那些设计严谨、挑战了先前结果并开辟了新研究方向的研究。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;例如，长期以来有一种观点认为子宫是无菌的——即子宫和胎儿中不存在微生物。然而，自2010年以来，一系列研究发现胎盘中可能存在微生物污染，这一发现挑战了这一假设，并提出一些妊娠并发症可能与细菌有关。直到2019年，一项对537名女性胎盘样本的研究——迄今为止此类分析中样本数量最多的一项——才严格地显示了没有细菌信号的存在。这项研究为调查微生物群体稀少的组织提供了基准，这些组织因此可能导致假阳性结果，并表明细菌感染并不是妊娠问题的常见原因。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Blume 表示，即使数据结果不确定，也应当从中提取有价值的见解。例如，在2022年，她发现尽管人工光抑制了激素褪黑素，但这并不等同于睡眠质量的变化。她指出，褪黑素不一定能作为睡眠质量的替代指标，这一发现可能为该研究的发表提供了重要依据。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Goodman预测，只要研究人员仍然渴望在顶级期刊上发表文章，出版偏倚就不会消失。然而，他对过去十年的进展感到惊讶：即便在五或十年前，顶级期刊承诺接受所有严格的研究，无论结果如何，这在当时都是“闻所未闻”的。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Pilakouta 目前领导一个实验室，致力于为本科生和研究生树立榜样。然而，她也亲眼见证了对阳性结果的渴望是多么根深蒂固。她表示：“这让我担心这种情况从这么早就开始。”她希望下次遇到零结果时，不会再花费七年时间来发表它。
+&lt;p&gt;&lt;br&gt;&lt;h3&gt;参考文献&lt;/h3&gt;
+（略，见原文）&lt;/p&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 如何编写有效的大型语言模型提示词</title>
+      <link>https://terryzang.github.io/event/opentransfer/2024llm/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2024llm/</guid>
+      <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
+&lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#6607ff73&#34;&gt; --&gt;
+&lt;p&gt;&lt;i&gt;&lt;h5&gt;原文信息&lt;/h5&gt;Lin, Z. (2024). How to write effective prompts for large language models. Nature Human Behaviour, 8(4), 611-615. &lt;a href=&#34;https://doi.org/10.1038/s41562-024-01847-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41562-024-01847-2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h5&gt;译者/校对者列表&lt;/h5&gt;OpenTransfer 自动翻译工作流程；刘若婷&lt;br&gt;&lt;/i&gt;
+&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;摘要&lt;/h3&gt;随着大型语言模型在研究领域的广泛应用，有效使用大型语言模型正变得越来越重要。本文提供了一份实用指南，旨在帮助读者了解&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;大型语言模型的能力和局限性&lt;/span&gt;&lt;/b&gt;，并提供&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt; 编写结构合理的提示词的策略&lt;/span&gt;&lt;/b&gt;，从这些人工智能工具中获取最大效用。
+&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;正文&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;大型语言模型（LLMs）&lt;/b&gt;使用深度学习，来生成类似人类的文本以回应用户的查询，即“提示”（方框 1 提供了术语表，方框 2 提供了大型语言模型的入门知识）。深度学习是人工智能（AI）的一个分支，模仿人脑的神经网络。与依赖预定算法的传统软件不同，&lt;span style=&#34;color:#6607ff73;&#34;&gt;&lt;b&gt; 大型语言模型能够解释自然语言命令，擅长从简单的句子补全到复杂的问题解决等各种任务，因此具有用户友好性和多功能性。&lt;/span&gt;&lt;/b&gt;在很短的时间内，大型语言模型已成为技术领域无处不在的存在，并且现已渗透到各个学科。它们迅速成为专业人士和学术研究人员在写作、编码和可视化方面不可或缺的工具。表 1 对主要的大型语言模型进行了比较。&lt;/p&gt;
+&lt;div style=&#34;border-left: 6px solid #6A5ACD; padding: 10px 15px; background-color: #F7F7FF;&#34;&gt;
+  &lt;p style=&#34;color: #6A5ACD; font-weight: bold; font-size: 20px;&#34;&gt;方框 1：术语表&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;应用程序编程接口（application programming interface, API）&lt;/b&gt;：软件实体相互通信的一套规则。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;人工智能（artificial intelligence, AI）&lt;/b&gt;：在机器中模拟人类智能。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;偏差（biases）&lt;/b&gt;：机器学习模型中的偏见，源自训练数据。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;思维链提示（chain of thought prompting）&lt;/b&gt;：通过添加“让我们一步一步思考”等特定指令来提高模型推理能力的一种技术。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;上下文窗口或长度（context window or length）&lt;/b&gt;：模型可从对话历史中考虑的最大标记数。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;深度学习（deep learning）&lt;/b&gt;：人工智能的一个子领域，模仿人脑的神经网络来分析数据。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;分隔符（delimiters）&lt;/b&gt;：用于指示大型语言模型应该处理的某些数据或文本的开始或结束的符号或字符。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;幻觉（hallucination）&lt;/b&gt;：由大型语言模型生成的不正确或误导性语句。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;大型语言模型（large language models, LLMs）&lt;/b&gt;：在大量数据集上训练的机器学习模型，用于执行基于语言的任务。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;神经网络（neural networks）&lt;/b&gt;：受人脑启发的计算模型，用于机器学习算法解决复杂问题。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;参数（parameter）&lt;/b&gt;：可调整的权重，代表神经网络中人工神经元之间的连接强度。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;提示（prompt）&lt;/b&gt;：触发大型语言模型响应的用户查询或指令。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;提示工程（prompt engineering）&lt;/b&gt;：制作与大型语言模型交互的有效提示的艺术和科学。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;提示注入（prompt injection）&lt;/b&gt;：在提示中嵌入恶意指令，使模型执行非预期操作。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;人类反馈强化学习（reinforcement learning from human feedback, RLHF）&lt;/b&gt;：一种机器学习类型，其中模型根据人类评估者提供的实时反馈来学习决策。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;自注意力（self-attention）&lt;/b&gt;：转换器中的一种机制，用于评估输入文本不同片段的相关性。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;标记（token）&lt;/b&gt;：由大型语言模型处理的文本单位。&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;转换器（transformers）&lt;/b&gt;：一种深度学习架构，旨在处理顺序数 据。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div style=&#34;border-left: 6px solid #4A90E2;
+            background-color: #f5f7fa;
+            padding: 10px 16px;
+            font-size: 20px;
+            line-height: 1.8;
+            border-radius: 4px;&#34;&gt;
+  &lt;p style=&#34;color: #6A5ACD; font-weight: bold; font-size: 20px;&#34;&gt;方框 2：理解和使用大型语言模型&lt;/p&gt;
+&lt;p&gt;开发人员首先使用深度学习训练大型语言模型。他们使用一种称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;转换器（transformers）&lt;/span&gt;&lt;/b&gt;的深度学习架构，该架构专门用于处理顺序数据。转换器的一个主要特点是&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;自注意力（self-attention）&lt;/span&gt;&lt;/b&gt;，这种机制使模型能够评估输入文本中不同片段的相关性。通过这一过程，模型可以从包括网页、学术文章和书籍在内的大量数据集中“学习”。&lt;/p&gt;
+&lt;p&gt;转换器将文本分解成更小的单位，称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;标记（token）&lt;/span&gt;&lt;/b&gt;，这些标记可以小到一个字符，也可以大到一个单词。它们将这些标记转换成数值，作为模型的输入。在模型内部，有大量可调整的权重（通常称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;参数&lt;/span&gt;&lt;/b&gt;）。这些参数代表模型神经网络架构中人工神经元之间的连接强度。初始训练会对这些参数进行微调，以捕捉复杂的语言模式。由于在训练中使用了大量语言数据集，这些模型生成的文本与人类语言非常相似。最近，大型语言模型的训练已扩展到图像、视频和音频（这些模型有时被称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;大型多模态模型&lt;/span&gt;&lt;/b&gt;或&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;多模态语言模型&lt;/span&gt;&lt;/b&gt;）。&lt;/p&gt;
+&lt;p&gt;经过初步训练后，大型语言模型会通过&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;人工反馈&lt;/span&gt;&lt;/b&gt;进一步完善。评估人员根据模型输出的准确性和相关性，对模型的反应提供实时反馈。这被称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;强化学习&lt;/span&gt;&lt;/b&gt;，因为大型语言模型会根据正面或负面反馈调整其参数。这意味着该模型将更加符合人类的价值观和期望。&lt;/p&gt;
+&lt;p&gt;自 2017 年发布转换器架构以来，一些领先的大型语言模型已经可以通过基于网络的对话界面进行访问：表 1 对四种领先的大型语言模型进行了比较。对于那些寻求更灵活集成的人来说，应用编程接口（API）访问通常是可用的，这使用户能够向大型语言模型提供商的服务器发送 HTTP 请求，将模型纳入各种应用程序和服务（如创意写作平台或翻译服务）。使用 API 还可以对模型进行更多配置，例如通过设置温度参数来调整响应的随机性。有些提供商需要订阅或采用按使用付费的模式。&lt;/p&gt;
+&lt;p&gt;在选择大型语言模型时，请考虑你需要模型完成的具体任务、模型在你所在地区的可用性以及你的个人偏好（表 1）。通过在不同任务中尝试使用不同的大型语言模型并比较其输出结果来建立直觉。由于大型语言模型在不断改进，因此需要随时关注发布说明和新功能。&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;表 1  截至2024年2月17日的主要大型语言模型比较
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024LLM_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 style=&#34;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+&#34;&gt;
+为什么需要提示词？
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;与大型语言模型的互动看似简单：只需输入问题，就能立即得到答案！然而，事实证明，有效地使用这些模型比最初看起来更加复杂和细致入微。这极大地限制了大型语言模型的实用性，因为它们的输出质量直接与提供的提示词质量相关——这一点在当前关于大型语言模型的实用性和能力的讨论中经常被忽视。&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;一个精心制作的提示词可以导致精确、准确和相关的回答，从而最大限度地提高模型的性能。&lt;/span&gt;&lt;/b&gt;反之，结构不良的提示词可能会导致模糊、不正确或不相关的回答。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这种局限性在很大程度上源于大型语言模型的固有性质。尽管大型语言模型拥有复杂的算法和大量的训练数据（包括网页、维基百科文章、社交媒体帖子、学术文章、书籍和教学数据等材料），但它们只是数学模型，缺乏对世界的理解。这些工具旨在预测文本的可能性，而不是生成真相。它们通过利用训练数据中的模式识别，&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;使用统计可能性来预测文本。&lt;/span&gt;&lt;/b&gt;生成的文本类型在很大程度上取决于训练数据中的文本模式。此外，由于每个标记预测都会影响后续标记预测，&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;回复初期的失误可能会导致一连串的错误。&lt;/span&gt;&lt;/b&gt;因此，一个结构良好的提示词不仅可以提高每个标记被准确预测的可能性，而且还能将错误的复合效应降至最低。促使提示词变得重要的另一个关键因素是大型语言模型的&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;上下文学习能力。&lt;/span&gt;&lt;/b&gt;这种能力使模型能够临时适应所收到的提示词，从而使这些提示成为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;传递语境信息&lt;/span&gt;&lt;/b&gt;的关键。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;因此，掌握制定有效提示词的艺术和科学（有时也被称为&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;“提示工程”&lt;/span&gt;&lt;/b&gt;），对于充分利用大型语言模型的能力至关重要。要达到最佳效果，需要结合领域特定的知识、对模型的理解和技能，而这些都必须通过学习和经验来磨炼。因此，首要建议是&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;多与模型互动&lt;/span&gt;&lt;/b&gt;。我们与模型的互动越多，就能更好地理解其细微差别，并了解如何更好地利用它们来满足我们的需求。本文概述了&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;可操作的策略和规则及其原理&lt;/span&gt;&lt;/b&gt;，为掌握这一技能奠定基础（见表 2）。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;表 2  提示词策略和示例
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024LLM_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 style=&#34;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+&#34;&gt;
+提示词策略和示例
+&lt;/h2&gt;
+&lt;h4&gt;1. 引导模型找到解决方案&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型缺乏语义理解，这使得它们难以在训练之外进行泛化。然而，它们庞大的参数设置赋予了它们一个巨大的后备数据（“记忆”），这些数据来自于它们的&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;训练数据&lt;/span&gt;&lt;/b&gt;（“长期记忆”）以及&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;提示词和交互历史&lt;/span&gt;&lt;/b&gt;（“工作记忆”）（见表 1 中的“上下文窗口”）。这种有限的泛化能力与强大的记忆能力相结合，使大型语言模型能够在&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;将复杂任务分解为更小的任务和步骤&lt;/span&gt;&lt;/b&gt;时有效地处理这些任务。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;例如，与其使用“将文本翻译成中文”这样宽泛的命令，不如将其分解为两个步骤：“首先按字面意思翻译，以保留原意，然后根据中文语言习惯完善译文”。同样，与其直接要求写一篇 1000 字的文章，不如将任务分解为若干子任务，并根据具体指令精心设计引言、结论和中心论点。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;清晰的逐步指令可以减少模糊性和不确定性，从而产生更准确的回应。通过&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;将广泛的任务简化为较小的、连续的组件&lt;/span&gt;&lt;/b&gt;，这种策略能够有效利用大型语言模型的强大记忆能力，同时通过结构化的指导弥补其有限的抽象能力。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;2. 添加相关背景&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型拥有比人类大得多的“工作记忆”。因此，为了获得细致入微、上下文准确的回复，&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;提供相关的上下文作为输入&lt;/span&gt;&lt;/b&gt;至关重要。一个框架合理的提示词应该：&lt;/p&gt;
+&lt;p&gt;·&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;嵌入具体内容。&lt;/span&gt;&lt;/b&gt;将具体细节作为查询的根基，引导大型语言模型做出更准确、更相关的解释。因此，与其要求它起草一封普通的求职信，不如向它提供具体的招聘广告和你的简历，以增加相关背景。&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;·&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;优先考虑证据。&lt;/span&gt;&lt;/b&gt;将你的互动建立在相关的事实信息基础上。与其向模型询问获得永恒幸福的最佳方法，不如向它提供经过同行评审的研究报告，并根据这些研究结果向它提问。&lt;br&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这样做的目的不是向大型语言模型灌输一般知识，而是让它了解与你的提问相关的一些特性。当提示词充满相关细节时，大型语言模型会生成更有洞察力、更细致入微的回答。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;3. 指令要明确&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;要想得到自己喜欢的饮料，你不会随便走进一家咖啡店，然后说“请给我一杯咖啡！”。也不要指望大型语言模型能读懂你的心思。虽然让大型语言模型猜中你的意图甚至超出你的期望会让你感到高兴，但不准确的请求可能会导致大型语言模型偏离目标的回应。因此，指令清晰是关键。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;了减少模型预测的不确定性，&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;请明确说明你想要什么。&lt;/span&gt;&lt;/b&gt;与“修改文本”相比，你可以通过考虑想要的文体方式、目标受众以及是否有特定的侧重点（如清晰或简洁），来使用更明确的指令。因此，更具体的指令可能是“充当顶级期刊的编辑，提高文本的清晰度和流畅性”。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;再比如，与其征求对名称的建议，不如通过添加限制条件来更明确：“名称必须以动词开头，隐含的主语/行为者是用户”。尽量明确地说明任务、任务目标、希望强调的重点和任何限制条件。含糊的请求会导致含糊的回应，而明确的指令则有助于：&lt;/p&gt;
+&lt;p&gt;·尽量减少指令和要处理文本的模糊性（例如，使用特定标签、字符或符号等分隔符）。&lt;/p&gt;
+&lt;p&gt;·使大型语言模型的能力集中于你的特定需求。&lt;/p&gt;
+&lt;p&gt;·提供判断模型准确性的明确标准。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;虽然大型语言模型是为会话精炼而设计的，但明确的指令可以通过事先声明你的目标来简化流程。你可以通过&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;阐明自己的目的和限制条件&lt;/span&gt;&lt;/b&gt;来引导对话。同时，在目标尚未完全确定的情况下，要避免过度具体化，因为这可能会导致错误的路径，或错过意想不到的、可能更好的回应。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;4. 要求提供大量选项&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型的一个特殊优势在于其巨大的“长期记忆”。为了利用大型语言模型的这一潜力，你可以&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;要求其提供一系列选项&lt;/span&gt;&lt;/b&gt;，而不是单一的建议。例如，你可以要求用三个类比来解释一个概念，用五个想法来开始介绍，用十个替代方案来替换最后一段，或者用二十个名称来命名一个功能——让模型为你提供思考的食粮，然后从中进行选择。除了要求提供多个选项，你还可以&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;多次使用同一提示词重新生成响应。&lt;/span&gt;&lt;/b&gt;通过重新生成响应，你可以增加结果的多样性，并提升其整体质量。以下是要求提供多个选项和重新生成响应的几个优势：&lt;/p&gt;
+&lt;p&gt;·鼓励模型探索多种可能性，从而提升输出的创造性和多样性。&lt;/p&gt;
+&lt;p&gt;·为你提供更全面的选择，最大限度地减少接受次优或有偏见建议的风险。&lt;/p&gt;
+&lt;p&gt;·促进迭代优化。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型是多才多艺的创意伙伴：从多个角度提供丰富的备选方案，能够丰富你的决策过程。多样化的选择能释放最大效益。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;5. 指定角色&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;庞大的训练数据集意味着大型语言模型能够&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;模拟各种角色，提供专门的反馈或独特的视角。&lt;/span&gt;&lt;/b&gt;你可以考虑让模型进行角色扮演，而不是要求它提供一般的建议或信息：例如，让它扮演典型的读者，为你的写作提供反馈意见；让它扮演写作教练，帮助修改稿件；让它扮演擅长人体生理学的藏牦牛，解释高海拔的影响；或者让它扮演有意识的芝士蛋糕，用芝士蛋糕的类比来解释——可能性是无穷的。指定角色：
+&lt;p&gt;·将模型的回应情境化，使其更符合你的特定需求。&lt;/p&gt;
+&lt;p&gt;·允许与模型进行互动性更强、更有趣的对话。&lt;/p&gt;
+&lt;p&gt;·产生更细微、更专业的信息，从而提高输出质量。&lt;/p&gt;
+&lt;p&gt;·提供解决问题的创新方法，鼓励跳出框架思考。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;6. 举例说明，不要只说不练&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型善于少量示例学习（从实例中学习）。因此，一个特别有效的方法就是&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;用具体的例子来体现你的意图。&lt;/span&gt;&lt;/b&gt;与其含糊地说“为这些数据绘制图表”，不如举例说明：“为这些数据绘制一个条形图，类似于本文附图 3 中的图表”。就像向发型师展示图片远比描述你想要的发型要好得多一样，提供明确的示例——无论是编程查询的代码片段还是写作任务的例句——都是非常有价值的。
+&lt;p&gt;·澄清上下文，使大型语言模型更好地理解你的请求的细微差别。&lt;/p&gt;
+&lt;p&gt;·减少实现预期结果所需的迭代次数。&lt;/p&gt;
+&lt;p&gt;·提供评估模型输出的基准。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;示例可作为大型语言模型的路线图，引导它生成与你的期望密切相关的响应。
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;7. 声明首选的响应格式&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型的回答往往比较啰嗦。指定你所需的格式——&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;要点、阅读水平、语气等&lt;/span&gt;&lt;/b&gt;——有助于限制可能的输出，从而提高相关性。例如，你可以声明响应格式，而不是“概述主要结论”：用要点概括主要发现，并使用高中生能理解的语言。预先声明格式还能为评估大型语言模型的表现提供明确的标准。一些选项包括：
+&lt;p&gt;·简明扼要的要点概述。&lt;/p&gt;
+&lt;p&gt;·语气随意，便于理解。&lt;/p&gt;
+&lt;p&gt;·用于记录的代码注释。&lt;/p&gt;
+&lt;p&gt;·限制响应长度以求简洁，或限制阅读水平以求理解。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;声明你喜欢的格式，为提示设定明确的预期。限制可以提高相关性。
+&lt;p&gt;&lt;br&gt;&lt;h4&gt;8. 试验、试验、再试验&lt;/h4&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;有效的提示词并不是公式化的；小的调整有时会产生显著且令人惊讶的差异。请看下面的例子：
+&lt;p&gt;·在一系列推理任务中，只需在 GPT-3 的提示中添加“&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;让我们一步步思考&lt;/span&gt;&lt;/b&gt;”的指令，就能大大提高表现——这是一种思维链提示（chain of thought prompting）。&lt;/p&gt;
+&lt;p&gt;·大型语言模型可以对&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;情感信息&lt;/span&gt;&lt;/b&gt;做出反应。根据一份未经同行评审的预印本，添加诸如“深呼吸——这对我的职业生涯非常重要”或“如果回答得好，我将给予 200 美元的小费”等短语可以提高回答质量。&lt;/p&gt;
+&lt;p&gt;·未经同行评审的研究表明，通过在提示词中加入“&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;确定问题中的核心概念并提供指导&lt;/span&gt;&lt;/b&gt;”和“&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;回忆三个相关且不同的问题&lt;/span&gt;&lt;/b&gt;”——一种类比提示形式——可以提高复杂编码任务的表现。&lt;/p&gt;
+&lt;p&gt;·尽管大型语言模型在涉及复杂计算的直接查询中可能会遇到困难，但它们在&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;生成&lt;/span&gt;&lt;/b&gt;解决相同问题的计算机功能&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;代码&lt;/span&gt;&lt;/b&gt;（例如“编写 Python 代码来解决它”）时却大放异彩。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这些案例证明了大型语言模型对提示词的敏感程度。因此，你必须不断尝试、尝试、再尝试！要有效地使用大型语言模型，就必须不断进行创造性的实验。你可以考虑：
+&lt;p&gt;·改变措辞、长度、具体性和限制条件。&lt;/p&gt;
+&lt;p&gt;·在不同的例子、上下文和指令之间切换。&lt;/p&gt;
+&lt;p&gt;·尝试对话式和简洁的陈述式提示词。&lt;/p&gt;
+&lt;p&gt;·在不同的大型语言模型上尝试相同的提示词。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;因此，我们应将提示词视为可检验的假设，并利用结果来指导迭代。并非所有的尝试都会成功，但每次尝试都会积累证据。只要坚持不懈，最佳结果就会出现。
+&lt;p&gt;&lt;br&gt;&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;结论&lt;/h3&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大型语言模型在自然语言任务领域是无与伦比的合作伙伴。本文提出了一些可行的策略及其原理，用于制作有效的提示词，以充分释放大型语言模型的潜力。
+&lt;p&gt;&lt;b&gt;中心主题包括：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;·将复杂任务&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;分解&lt;/span&gt;&lt;/b&gt;为子任务和结构化步骤的重要性；&lt;/p&gt;
+&lt;p&gt;·通过相关&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;细节&lt;/span&gt;&lt;/b&gt;来构建框架；&lt;/p&gt;
+&lt;p&gt;·明确声明&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;目标&lt;/span&gt;&lt;/b&gt;；&lt;/p&gt;
+&lt;p&gt;·通过&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;示例&lt;/span&gt;&lt;/b&gt;说明意图。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;其他建议包括：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;·指定&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;角色&lt;/span&gt;&lt;/b&gt;并要求提供不同的选项，以利用大型语言模型的多功能性；&lt;/p&gt;
+&lt;p&gt;·明确&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;格式&lt;/span&gt;&lt;/b&gt;以设定期望值；&lt;/p&gt;
+&lt;p&gt;·不断&lt;span style=&#34;color:#6607ff73;&#34;&gt; &lt;b&gt;尝试&lt;/span&gt;&lt;/b&gt;以获得最佳结果。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这些策略结合在一起，可以帮助用户创建精心设计的结构化提示词，从而最有效地解决特定任务。虽然编写有效提示词的技能可能不会带来永恒的幸福，但它有望为科研人员带来越来越高的生产力和乐趣。
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 将信心放在置信区间的谬误</title>
+      <link>https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2024%E7%BD%AE%E4%BF%A1%E5%8C%BA%E9%97%B4/</guid>
+      <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
+&lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#00000084&#34;&gt; --&gt;
+&lt;div style=&#34;border-left: 6px solid #4A90E2;
+            background-color: #f5f7fa;
+            padding: 10px 16px;
+            font-size: 20px;
+            line-height: 1.8;
+            border-radius: 4px;&#34;&gt;
+  &lt;p&gt;&lt;b&gt;原文信息&lt;/b&gt;&lt;/p&gt;&lt;i&gt;
+&lt;p&gt;Morey, R. D., Hoekstra, R., Rouder, J. N., Lee, M. D., &amp;amp; Wagenmakers, E.-J. (2016). The fallacy of placing confidence in confidence intervals. Psychonomic Bulletin &amp;amp; Review, 23(1), 103–123. &lt;a href=&#34;https://doi.org/10.3758/s13423-015-0947-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/s13423-015-0947-8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/i&gt;&lt;p&gt;&lt;b&gt;译者/校对者列表&lt;/b&gt;&lt;/p&gt;&lt;i&gt;
+OpenTransfer 自动翻译工作流程；陈梁杰（北京大学）；温秀娟（广州医科大学）；刘若婷&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;br&gt;本文word版本请见：https://osf.io/fajrd
+&lt;br&gt;本文约22997字，全部阅读结束大约需要半小时以上，请合理规划阅读时长。
+&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;摘要&lt;/h3&gt;
+区间估计是一种对包含抽样不确定性的参数进行估计的方法，它长期以来被认为是统计分析的关键组成部分。区间估计的方法多种多样，但最流行的是置信区间（confidence intervals, CIs），即在重复抽样中以某个已知比率包含参数真值的区间。研究者通常认为，置信区间的宽度反映估计的精确度；置信区间指明哪些参数值更可能是真值或更加合理；区间的置信水平（例如，95%）表示真值在该区间内的可能性。然而，本文借助多个实例展示了置信区间并不一定具备这些属性中的任何一个，且这些误解会导致不合理或随意的推断。因此，我们敬告不要依赖于置信区间理论来说明区间估计的合理性，并建议使用其他区间估计的理论。
+&lt;br&gt;&lt;b&gt;&lt;i&gt;关键词：&lt;/i&gt;&lt;/b&gt;贝叶斯推理与参数估计，贝叶斯统计学，统计推断，统计
+&lt;br&gt;&lt;h3 style=&#34;color:#6607ff73;&#34;&gt;正文&lt;/h3&gt;
+&lt;p style=&#34;margin: 1em 0; font-size: 18px; line-height: 1.6; font-family: &#39;SimSun&#39;;&#34;&gt;
+  “你一直在使用那个词。我不认为它意味着你认为它意味着的那样。”
+&lt;/p&gt;
+&lt;p style=&#34;text-align: right; font-size: 16px; font-style: italic;font-family: &#39;SimSun&#39;;&#34;&gt;
+  —— Inigo Montoya，《公主新娘》（1987）
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在过去的百年里，统计学经历了飞速的发展，数据推断方法激增。这些方法在其哲学基础、解决问题的方式，以及实际应用的频繁程度等方面，呈现出广泛的差异。其中，备受欢迎且广泛应用的一类方法是区间估计方法。尽管这些方法在哲学基础和计算方式上有所不同，但它们共同点在于：能够提供一系列可能的参数值，而非单一值，来反映测量或抽样过程中的不确定性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在诸多区间估计方法中，置信区间（CI）尤为受到青睐。几乎所有基础统计学教材都会介绍置信区间；众多知名期刊的方法论指南也推荐甚至要求使用置信区间（如，Psychonomics Society, 2012; Wilkinson &amp; the Task Force on Statistical Inference, 1999）；并且它们构成了方法学改革方案的基础（Cumming, 2014; Loftus, 1996）。在当前的方法学改革中，正确理解置信区间理论允许和不允许的推断类型，对于确定未来科学研究的方向至关重要。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本文认为，当前对置信区间的推崇往往基于一种非原则性的“民间理解”。接下来，本文将概述这种民间CI理论中的三大谬论，并在CI理论的哲学和历史背景下进行分析；通过一个改编自统计学文献的简明例子，展示CI理论与民间CI理论之间的差异；最后，在广泛支持与使用CI的方差分析和回归分析中，展示置信的常见谬误，并讨论CI理论与民间CI理论不一致的深层含义。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本文的&lt;b&gt;核心主张&lt;/b&gt;是：不应像如今支持者所建议的那样使用置信区间，因为这种方法在置信区间理论中并未得到验证。他们所谓的CI的优势，并非源于置信区间理论；如果按照他们的建议使用CI，可能导致严重的误导性推断。在许多CI应用中，支持者实际上并未探讨其是否支持合理的推断。&lt;b&gt;因此，我们认为，在最佳情况下（推断的合理性可以在CI理论之外证明），诉诸CI理论是不必要的；而在最糟糕的情况下（推断合理性不能被证明），这种使用是不明智的&lt;/b&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+置信区间的民间理解&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在科学实践中，经常需要对我们感兴趣的某些数值进行估计，并表达对这些估计的不确定性。例如，当需要估计正态总体的真实均值$μ$，通常会选择样本均值$x̄$作为估计值。一般来说，我们希望$x̄$能接近$μ$，这种接近程度取决于样本大小和样本中观察到的变异性。为了表达估计值的不确定性，通常会使用置信区间。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;关于置信区间，所有人都同意的一个基本定义是：某参数（通常称为$\theta$，可能是总体均值、中位数、方差、概率或任何其他未知量）的置信区间是由一个特定的重复抽样过程生成的区间，这个过程有固定概率包含该参数。例如，如果生成一个包含$\theta$的区间的概率为0.5，则代表50%的置信区间；如果这个概率为0.95，则代表95%的置信区间。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;定义1（置信区间）：&lt;/b&gt;参数$\theta$的X%置信区间是由一个特定过程生成的区间$[L,U]$，在重复抽样中，这个过程有X%的概率包含$\theta$的真值，且对$\theta$的所有可能值都适用（Neyman, 1937）&lt;sup&gt;[1]&lt;/sup&gt;。
+&lt;p&gt;置信区间的置信系数来源于生成它的过程。因此，区分置信程序（confidence procedure）和置信区间是有帮助的：X% 置信程序是在重复样本中生成包含$\theta$的区间的过程，而置信区间是由这样的过程生成的特定区间。置信程序是一个随机过程；而置信区间是被观察并固定的。&lt;/p&gt;
+&lt;p&gt;如何解释置信程序似乎很清晰：它是生成置信区间的过程，这些区间将在样本的固定比例中包含参数的真值。然而，当我们从数据中计算出一个具体的区间并必须对其进行解释时将是困难的。如何从我们对置信程序属性的了解转移到对某个观察到的置信区间的解释，这并不明显。&lt;/p&gt;
+&lt;p&gt;教科书作者和置信区间的拥护者通过三个显著特点，巧妙地填补了理论与实践之间的鸿沟：（1）置信区间的置信系数被视为对区间包含参数的不确定性的衡量；（2）置信区间的宽度反映了对估计不确定性的评估；（3）这个区间被认为涵盖了参数的“可能”或“合理”取值范围。这些观点均涉及基于观测数据进行参数推断，即所谓的“后数据（post-data）”推断。&lt;/p&gt;
+&lt;p&gt;例如，Masson和Loftus（2003）针对95%置信区间提出：“在没有其他信息的前提下，我们得到的置信区间有95%的概率包含总体均值。” 而Cumming（2014）则表述：“我们有95%的把握认为，我们的区间涵盖了[参数]，并且可以认为这个区间的上下限分别是[参数]可能的最大和最小值。”&lt;/p&gt;
+&lt;p&gt;然而，这些关于置信区间的解释并不准确，它们似乎是对置信区间定义的自然但错误的推断。我们将其称为“基本置信谬误”（Fundamental Confidence Fallacy）。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;谬误1（基本置信谬误）：&lt;/b&gt;如果一个随机区间以X％的概率包含真值，那么特定观察到的区间包含真值的可能性或概率同样是X％；或者，我们可以对观察到的区间包含真值有X％的信心。
+&lt;p&gt;基本置信谬误的逻辑似乎是合理的：在给定样本的情况下，我们可以得到任意一个可能的置信区间。如果95%的可能的置信区间包含真值，那么在没有其他信息的情况下，似乎有理由说我们有95%的把握认为我们获得了一个包含真值的置信区间。然而，“置信区间”这一术语本身就暗示了这种谬误：在通常的语境中，“置信”这个词与可信性和信念的概念紧密相关。与“覆盖程序（coverage procedure）”这一更精确的术语相比，“置信区间”一词似乎助长了基本置信谬误。&lt;/p&gt;
+&lt;p&gt;基本置信谬误的核心混淆在于：它将观察数据之前已知的信息——即置信区间无论如何都有固定的机会包含真值——与观察数据之后所获得的信息混为一谈。频率主义CI理论并未对某一特定观察到的置信区间包含真值的概率做出任何陈述；它要么是0（如果区间不包含参数），要么是1（如果区间确实包含了真值）。&lt;/p&gt;
+&lt;p&gt;本文通过几个例子展示了计算区间之前和之后所知信息的不同。目前，我们提供一个简单的例子，称之为“微不足道的区间（trivial interval）”。假设要通过两个独立观测值$y_1$和$y_2$估计连续总体的均值。如果$y_1$大于$y_2$，我们构造一个包含所有实数的置信区间$(-∞,∞)$；如果不是，则构造一个空置信区间。前者保证包含真值，后者则不包含。在观察数据之前，任意一个抽样区间包含真均值的概率显然为50%。然而，在观察数据之后，我们便能确切知道区间是否包含真值。将50%的先验概率应用于我们已确切知道区间是否包含真值的后数据情况，这无疑是一种根本性的推理错误。&lt;/p&gt;
+&lt;p&gt;事实上，事后概率评估并非置信区间理论的宣传要点。例如，Neyman （1937, p. 349）指出：“当一个样本已经抽取并给出了[置信区间]时，我们是否能说在这种特定情况下，[参数]的真值落在[限制]内的概率等于[X%]？答案显然是否定的。” 频率主义哲学家Mayo（1981）进一步阐释道：“[这种误解]似乎源于人们对于置信区间的期望——它们能提供某些本质上无法提供的东西，即对未知参数值位于特定区间内的概率、信念或支持程度的度量。”近期研究表明，这种谬误在研究人员中普遍存在，他们可能是习自教科书、教师和置信区间的倡导者（Hoekstra et al., 2014）。&lt;/p&gt;
+&lt;p&gt;如果置信区间不能用于评估参数在特定范围内的确定性，那么它们到底有什么用途呢？置信区间的支持者经常声称，置信区间可用于评估参数的估计精度。这被视为使用置信程序而非零假设显著性测试的主要原因之一（如，Cumming &amp;amp; Finch, 2005; Cumming, 2014；Fidler &amp;amp; Loftus, 2009; Loftus, 1993, 1996）。例如，Cumming（2014, p. 10）指出：“长置信区间很快就会告诉我们，我们的实验效果是否不佳且仅能提供不精确的估计。”Young和Lewis（1997, p. 309）指出：“了解点估计如何精确表示两组之间的真实差异非常重要。置信区间的宽度为我们提供了关于点估计精度的信息。”这便是置信区间的第二个谬误，即“精度谬误（precision fallacy）”。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;谬误2（精度谬误）：&lt;/b&gt;置信区间的宽度反映了我们对参数的了解精度。窄置信区间意味着精确的了解，而宽置信区间则代表不精确的了解。
+&lt;p&gt;然而，估计的精度与置信区间的大小并没有必然联系。设想两位研究人员——一位资深研究员和一位博士生——正在分析一项包含50名参与者的实验数据。为了让博士生有所学习，资深研究员决定随机将参与者分为两组，每组25人，他们分别分析其中一组数据。在随后的会议上，他们分享了各自计算出的均值的Student&amp;rsquo;s $t$置信区间。博士生的95%置信区间是52±2，而资深研究员的是53±4。资深研究员指出，他们的结果基本一致，可以将两个点估计的等权重加权平均值52.5作为真实均值的总估计。&lt;/p&gt;
+&lt;p&gt;博士生却提出，她的置信区间更窄，因此应该给予更多的权重。她认为自己的估计更精确，应更为重要。她的导师则指出这是错误的，因为不均等加权两个均值得出的估计会与分析完整数据集得出的估计不同，而后者一定是52.5。博士生的误区在于，她错误地认为置信区间直接反映了后数据的精度。稍后，我们将通过几个例子说明，置信区间的宽度与参数估计的不确定性在某些情况下成反比，而在另一些情况下则没有任何关系。&lt;/p&gt;
+&lt;p&gt;我们不能将观察到的置信区间解释为以某种概率包含真值；我们也不能将置信区间解释为它能指示我们估计的精度。置信区间的第三种常见谬误是：如Loftus（1996）所述，置信区间提供了一个“所观察到的均值模式应如何认真地被视为反映总体均值的潜在模式”的指标。当置信区间用于检验理论（Velicer et al., 2008）或支持零假设（即实际上为零）的论证时（Loftus, 1996），便采用了这种逻辑。我们将这种误解称为“似然性谬误（likelihood fallacy）”。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;谬误3（似然性谬误）：&lt;/b&gt;置信区间包含了参数的可能值。区间内的值比区间外的值更有可能出现。这种谬误以多种形式存在，有时会涉及参数信念的合理性、可信度或可解释性的评估。
+&lt;p&gt;即便一个置信程序可能具有包含真值的固定平均概率，但在任何给定样本中，它是否包含“合理”的值则是另一个问题。正如我们即将展示的，即使是从置信区间理论角度看来“好的”的置信区间，也可能排除几乎所有合理的值，并且可能为空或无限窄，从而排除所有可能的值（Blaker &amp;amp; Spjøtvoll, 2000; Dufour, 1997; Steiger, 2004; Steiger &amp;amp; Fouladi, 1997; Stock &amp;amp; Wright, 2000）。但正如Neyman（1941）所述： “我们不应该‘断定’[区间包含$\theta$]，也不应该‘相信’[区间包含$\theta$]&amp;hellip;我们表现得好像我们真的知道真值[在区间内]一样。这是我们决策的结果，与‘推理’或‘结论’无关。推理在[推导出置信程序]时就结束了。我们在使用置信区间的过程中，并没有关于[$\theta$]值的任何‘信念’。”（Neyman, 1941, pp. 133–134）&lt;/p&gt;
+&lt;p&gt;在现代统计学应用中，置信区间的使用有时会引起疑惑。Neyman曾明确指出，置信区间并不能支持任何关于某参数合理性的看法。即便是从频率检测的角度看，人们也会接受或拒绝特定参数值，但Mayo和Spanos（2006）强调，仅因特定值位于置信区间内，并不足以合理地接受它，他们将其称为 &amp;ldquo;接受谬误&amp;rdquo;。这种谬误与经典显著性检验中的一个常见误区相似，即未拒绝的零假设会被轻率接受。&lt;/p&gt;
+&lt;p&gt;如果置信区间无法用于评估包含真值的概率和精确度，不能产生对参数值可能性和合理性的评估，那么它们的真正作用是什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+置信区间的理论基础&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Neyman（1937）在其经典论文中为置信区间理论奠定了基础。Neyman关于置信区间的观点可以通过一个简单的实例来阐述。假设一位研究人员希望估计某个参数。Neyman建议研究人员按照以下三个步骤操作：
+&lt;p&gt;a. 开展实验并收集相关数据。&lt;/p&gt;
+&lt;p&gt;b. 计算两个数值（较小的为L，较大的为U），并根据特定方法构建一个区间$[L,U]$。&lt;/p&gt;
+&lt;p&gt;c. 声明$L \lt \theta \lt U$，即参数$\theta$落在这个区间内。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这些步骤的合理性在于，通过选择步骤（b），从长远来看，研究者在步骤（c）所做的声明将有X%的时间是正确的。按照这种方法计算出的任何区间都被称为置信区间。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;首先，我们探讨步骤（c）中关于落在区间内的声明的意义。根据置信区间理论，这一步骤并非是基于数据的信念、结论或任何形式的推理所得。它也不涉及实际是否在区间内的不确定性。这仅仅是一个二元声明，意味着在长期内具有特定的为真的概率。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;频率主义对置信程序的评估基于其“检验力（power）”，即排除错误参数值的频率。理想的区间应较短且能更频繁地排除错误值（Lehmann, 1959; Neyman, 1937, 1941; Welch, 1939）。考虑一个特定的错误值$\theta&#39; \neq \theta$，不同的置信程序会以不同的比率将其排除。如果某个置信程序A平均而言比程序B更频繁地排除，则表明A对该值的处理更为有效。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;有时，我们会发现一个置信程序排除每个错误值的比率都超过另一个程序；在这种情况下，第一个程序的检验力总是优于第二个。甚至可能存在一个“最优”置信程序：它排除所有错误值的比率超过任何其他可能的程序，这类似于最强检验力的测试。虽然最佳置信程序并非总是存在，但我们总能将两个程序进行比较，以决定哪个更优（Neyman, 1952）。因此，置信程序与假设检验紧密相关：置信程序控制了包含真值的比率，更好的置信程序在排除错误值方面更为高效。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+早期质疑&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;置信区间概念自Jerzy Neyman于1934年提出以来，就伴随着一系列的质疑&lt;sup&gt;[2]&lt;/sup&gt;。在对Neyman（1934）的讨论中， Bowley指出了我们所说的“基本置信谬误”，并对置信区间能否回答正确问题表达了怀疑：
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;“我不确定所谓的‘置信’是否是一种幻觉。它真的能引导我们找到我们所追求的目标吗？即在我们所采样的宇宙中，特定参数落在这一确定范围内的可能性有多大？我认为不能。我们的实际情况是，知道一个不太可能的事件已经发生，或者总体的参数在限制范围内。为了平衡这些因素，我们必须估计和判断参数在整个宇宙中出现的可能性（即先验概率），这正是我们应该避免的东西。”（Neyman, 1934, pp. 609）
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在同一讨论中，Fisher批评称，置信区间理论可能导致相互矛盾的推断：“置信区间理论是一个广泛且漂亮的体系，但其建立付出了相当大的代。Fisher首先指出的是结果独特性的丧失，以及由此可能导致的矛盾推断的风险。”（Neyman, 1934, p. 618; Fisher, 1935）。尽管如我们所见，这些批评是准确的，但从更广泛的角度来看，它们并未触及核心问题。与现代置信区间的支持者一样，这些批评者未能完全理解Neyman的目标与他们的目标之间的差异：Neyman开发的是一个旨在控制错误率的行为理论，而非一种基于数据进行推理的理论（Neyman, 1941）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;尽管面临这些批评，置信区间的概念越来越流行，成为最广泛使用的区间估计方法。而其它替代方法，例如贝叶斯可信区间和Fisher基准区间，并未得到普遍应用。我们认为，这在很大程度上是因为人们没有完全理解置信区间、贝叶斯理论和基准理论之间的差异，以及由此产生的各种区间的解释方式。在接下来的章节中，我们将通过构建和比较不同的置信程序来演示置信区间理论的逻辑，并展示这三种谬误如何影响对这些区间的推断。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+案例一：迷失的潜水艇&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如图1a所示，假设救援舱口位置为未知的$\theta$点，气泡可能从$\theta - 5$米（潜艇头部）到 $\theta + 5$（潜艇尾部）以均匀的概率上浮。救援人员需要利用这些气泡来推断舱口的准确位置。我们将观察到的两个气泡分别标记为$y_1$和$y_2$，为了方便，通常将它们按位置排序，记作$x_1$和$x_2$，其中总是较小的一个。值得注意的是， y的平均值等于x的平均值，因为在计算均值时顺序不影响结果，并且两个气泡间的距离$|y_1 - y_2| = x_1 - x_2$。我们用$d$来表示这个差异。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1--潜水艇救援尝试图中从下至上依次展示了似然性和置信区间交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b41.png&#34; alt=&#34;图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1  潜水艇救援尝试。图中从下至上，依次展示了似然性和置信区间。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;救援人员首先注意到，通过观察这两个气泡，可以轻松排除除了这两个气泡五米范围内的其他所有可能位置，因为任何气泡都不可能距离舱口超过五米。例如，如果两个气泡的位置分别是$y_1 = 4$和$y_2 = 6$，则潜艇舱口可能的位置仅在1到9之间，因为只有这些位置在两个气泡的五米范围之内。这个逻辑在似然性中得到正式表达，它描述了对于所有可能的值，观测数据的联合概率密度。在此案例中，由于观测是独立的，联合概率密度为：
+$$
+p (y_1 , y_2 ; \theta) = p_y (y_1; \theta) × p_y (y_2; \theta)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;每个气泡的概率密度$p_y$在潜艇的10米长度内均匀分布，这意味着联合密度为$\frac{1}{10} × \frac{1}{10} = \frac{1}{100}$。当$y_1$和$y_2$中较小的一个（我们记作 ）大于$\theta - 5$时，显然$y_1$和$y_2$都必须大于$\theta - 5$。因此，在$x_1$和$x_2$的约束条件下，联合概率密度为：
+$$
+p (y_1 , y_2 ; \theta) = \frac{1}{100}, 若x_1&gt;\theta-5且x_2&lt;\theta+5\text{(公式1)}
+$$
+如果我们将公式1重写为未知参数为的固定观测数据的函数，我们便得到了似然，它标记了数据中关于参数$\theta$的信息。在这种情况下，只有当观察到的气泡可能存在$\theta$时，它才为正（如图1和5）：
+$$
+p (\theta ; y_1 , y_2 ) = 1, 若x-(5-d/2)\lt\theta\le x+(5-d/2)\text{(公式2)}
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如果似然性为正，则值$\theta$是可能的；如果为0，则$\theta$是不可能的。通过公式2表达似然性，我们可以观察到几个关键点。首先，似然性围绕着一个合理的$\theta$点估计，即 的平均值。其次，似然性的宽度为 ，这在此处是估计不确定性的指标，气泡之间的差异 越小，似然性的宽度越大。与气泡距离较远时相比，当气泡彼此靠近时我们对$\theta$的了解较少。记住似然性是数据中的信息，接下来我们可以定义置信程序。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+五类置信程序&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在这一场景中，恰好有四名统计学家 在船上&lt;sup&gt;[3]&lt;/sup&gt;并被救援人员邀请，用统计学方法提升他们的决策能力。这些统计学家提出了四种不同的50%置信程序。在此，我们将概述这四种程序。首先，介绍一种较为简单、通常不会被专业人士采用的程序（读者可以通过图1说明的链接中找到一个小型应用程序，该程序允许从这些置信程序中进行抽样）。
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;微不足道的程序：通过观察气泡的顺序，我们可以构建一个50%置信程序。如果$y_1 &amp;gt; y_2$，则构造一个包含整个海洋的区间（-∞，∞）；如果$y_2 &amp;gt; y_1$，则仅构造一个只包含救生艇中央正下方单一确切点的区间。这个程序显然是50%置信程序；只有一半时间，即当$y_1 &amp;gt; y_2$时，救援舱口将恰好位于区间内。我们提出这个简单区间是为了阐明，包含真值X%时间的程序本身没有任何意义（也可参考Basu, 1981）。很明显，我们必须考虑的不仅是置信性质，下文将进一步讨论。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基于均值抽样分布的程序：第一位统计学家建议使用均值$x̄$的抽样分布来构建置信程序。$x̄$的抽样分布具有已知的三角形分布，其均值为$\theta$。利用这个分布，$x̄$与$\theta$的差距小于5-52（约1.46米）的概率为50%。因此，我们可以将$x̄-\theta$作为所谓的“关键量”（Casella &amp;amp; Berger, 2002；详见补充材料），指出有50%的概率落在的这个距离内。这导致了以下置信程序：
+$$
+x̄ ± (5-5/\sqrt 2)
+$$
+我们称之为“抽样分布”程序。这个程序还具有形式$x̄ ± C × SE$，其中标准误差（即估计的标准差）已知为2.04。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非参数程序：第二位统计学家指出，\theta既是气泡位置的均值也是中值。Olive（2008）以及Rusu和Dobra（2008）为中值提出了一个简单的非参数置信程序，它在这种情况下就是两个观察值之间的区间：
+$$
+x̄ ± \frac{d }{ 2}
+$$
+很容易看出这是一个50%置信程序；两个观察值都低于的概率是0.25，两个观察值都高于的概率也如此。因此，这两个观察值包围的概率是50%。巧合的是，这与$n=2$的50% Student’s 程序相同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;统一的功效最强（uniformly most-powerful, UMP）程序：第三位统计学家，引用Welch（1939），描述了一种可以看作是对非参数程序的轻微修改。假设我们使用非参数程序得到特定的置信区间。如果该区间超过5米宽，则一定包含救援舱口，因为唯一可能的值相距两个气泡都不到5米。此外，在这种情况下，该区间也将包含不可能值，因为它比似然性更宽。我们可以通过将区间限制在5米以内，排除这些不可能的值，即：
+$$
+x̄ ± \frac{d }{ 2}，如果d&amp;lt;5 (非参数程序)
+$$
+$$
+5 - \frac{d }{ 2}，如果d \ge 5 (可能性)
+$$
+这种调整不会改变区间包含救援舱口的概率，因为它仅仅是用另一个肯定包含救援舱口的区间替换了一个区间。Pratt（1961）指出，这个区间可以被证明是统一最强功效（UMP）的反演。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;客观的贝叶斯程序：第四位统计学家提出了一种客观的贝叶斯程序。使用这个程序，我们简单地将可能性的中间50%作为我们的区间：
+$$
+x̄ ± \frac{1 }{ 2} (5 - d/2)
+$$
+从客观的贝叶斯的角度来看，这可以通过假设一个为每个可能的舱口位置分配等概率的先验分布来证明。在贝叶斯术语中，该程序为这个先验生成“可信区间（credible intervals）”。它也可以用Fisher的基准理论证明（Welch, 1939）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+置信程序的特性&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;救援队在听完四位统计学家关于他们各自的置信程序后感到困惑，这是可以理解的。因为似乎从两个气泡的位置推断出潜艇舱口位置存在至少四种不同的方法。当统计学家们向救援人员展示了他们的置信程序后，两个气泡在$x_1=1$和$x_2=1.5$的位置出现了。图1A展示了由此产生的可能性和四个不同的置信区间。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在计算出这四个置信区间后，救援人员想知道如何解释它们。首先，为什么基本置信谬误是一个谬误很容易理解。正如Fisher在之前关于置信区间理论的讨论中指出的，对于任何给定的问题，例如这个潜艇救援问题，都存在多种可能的置信程序。这些程序将导致不同的置信区间。对于我们的潜艇例子中的置信程序，所有的置信区间都围绕着..，因此这些区间将相互嵌套。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如果我们错误地解释这些观察到的区间具有50%概率包含真值，就会出现逻辑上的问题。首先，基于基础概率论，最短的区间必然也有50%的概率包含参数：最窄的区间有50%的概率包含真值，而最宽的区间有50%的概率排除真值。根据这种推理，必须有0%的概率真值在较窄的嵌套区间之外却在较宽的区间之内。如果我们相信基本置信谬误，我们将得出这样的结论：即使是最短的嵌套的X%置信区间也有X%概率包含真值。显然，“始终选择最短的嵌套区间“这种置信程序会导致含真值的概率低于X%。如果我们坚信基本置信谬误，我们就会陷入这样的矛盾之中，即最短的区间同时具有X%的概率和低于X%的概率包含真值。基本置信谬误信念将导致逻辑上的矛盾。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;关于如何解释嵌套CI的问题，这本身并不是对置信区间理论的批评，而是对置信区间的民间理论的批评。Neyman本人非常清楚这种解释是不被允许的，并使用类似嵌套的置信区间来证明这一谬误（Neyman, 1941, pp. 213-215页）。正如Fisher所警告的那样，科学文献中对置信区间的不恰当解释导致饿了相互矛盾的推论。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;即使没有嵌套的置信程序，我们也可以看出基本置信谬误必然是错误的。参考图1B，它展示了当$x_1=0.5$和$x_2=9.5$时产生的可能性和置信区间。如图1B所示，当气泡彼此相距很远，可以非常精确地确定舱口位置（气泡足够远，必然是从潜艇的船首和船尾发出的）。抽样分布、非参数和UMP置信区间都将可能性圈在其中，这意味着这些50%的置信区间肯定包含了舱口。因此，在报告50%的确定性、50%的概率或50%的置信度时，声称某个特定区间肯定包含参数显然是错误的。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+font-style: italic;
+&#34;&gt;
+相关的子集群&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;事实上，我们可以确信一个50%置信区间包含真值的情况，是基于基本置信谬误产生的一个更一般问题的具体实例。图2左列的阴影区域展示了在所有可能的观测对的各种置信程序中的真值包含情况。顶部、中部和底部行分别对应抽样分布、非参数/UMP和贝叶斯程序。由于每个程序都是50%置信程序，所以在每张图中，阴影区域面积都是限定可能观测的较大正方形的50%。图中的点‘a’和‘b’分别代表图1A和1B中的气泡位置；点‘b’位于每个区间的阴影区域内，因为如图1B所示，真值在每种区间中都被包含，；而‘a’点则位于每个阴影区域之外，因为所有置信区间都排除了这对观测到的气泡。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们可以将气泡的位置转化为平均位置a和它们之间的差异$b=y_2-y_1$，这将不会丢失任何信息：‘a’提供了关于舱口位置的点估计，而‘b’提供了有关该估计精度的信息。图2右列所显示的与左列相同的信息，只是以a和b为函数展现。右列的图与左列的图相比，相当于顺时针旋转了45°。虽然两列显示了相同的信息，但旋转后的右列揭示了一个关键事实：当气泡之间的距离变化时，各种置信程序包含真值的概率也会发生变化。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为了更清晰地看到这一点，我们可以观察图2B中‘a’点下方的水平线。这条水平线表示所有气泡对的子集，显示气泡对间的差异与图1A中的差异相同，均为0.5米。这条线的大约31%位于阴影区域之下，意味着从长期来看，当气泡相隔0.5米时，大约31%的抽样分布区间将包含真值；对于非参数和UMP区间（中部行）而言，这个比例仅为5%左右；而对于贝叶斯区间（底部行）而言，这个比例正好是50%。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如果我们相信基本置信谬误，就意味着我们可以使用程序包含真值的长期概率作为我们对特定区间包含真值的数据后确定性的指标。但在这种情况下，我们已经为每个区间确定了两个长期概率：不考虑观察到的差异b的平均长期概率，即50%，以及考虑b的长期概率，对于抽样分布区间是31%，对于非参数/UMP区间是5%。这两者都是有效的长期概率，那么我们应该用哪一个来推理呢？在基本置信谬误中下，两者都是有效的，因此导致了推理上的矛盾。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;存在多个矛盾的长期概率再次引起了我们对实验前所知与实验后所知之间混淆的关注。对于这些置信程序的任何一个，在实验之前我们都知道未来的CI中将有50%的概率包含真值。在观察结果后，对数据的已知属性进行条件处理（例如，当前情况下气泡的方差等）可能会从根本上改变我们对概率的评估。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2-左侧为两个气泡y_1和y_2可能出现的位置右侧为y_2与y_1的均值相对于y_1和y_1的图示图中阴影为各自50置信区间中真值所在的可能区域顶部图a和b为抽样分布区间中间图c和d为非参数ump区间底部图e和f为贝叶斯区间图中的a和b分别对应图1a和b中的气泡对交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b42.png&#34; alt=&#34;图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2 左侧为两个气泡y_1和y_2可能出现的位置；右侧为y_2与y_1的均值相对于y_1和y_1的图示。图中阴影为各自50%置信区间中真值所在的可能区域。顶部图（A和B）为抽样分布区间；中间图（C和D）为非参数/UMP区间；底部图（E和F）为贝叶斯区间。图中的‘a’和‘b’分别对应图1A和B中的气泡对。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;由多个适用的长期概率引起的矛盾推理问题是“参考类（reference class）”问题的一个示例（Venn, 1888; Reichenbach, 1949），其中单个观察事件（例如，CI）可以被看作是几个长期序列的一部分，每个序列都有不同的长期概率。Fisher发现，当数据有多个具有不同概率包含真值的可识别子集时（例如在我们的置信区间示例中具有特定值b的子集时）这些子集与推断是相关的（Fisher, 1959）。相关子集的存在意味着可以为一个区间分配多个概率。相关子集在许多置信程序中都是可识别的，例如在常见的经典Student &#39;s t区间中，CI越宽包含真值的概率越大(Buehler, 1959; Buehler &amp; Feddersen, 1963; Casella, 1992; Robinson, 1979)。据我们所知，只有两种消除相关子集矛盾威胁的一般策略：Neyman策略（避免将概率分配给特定区间），以及贝叶斯策略（始终对观测数据进行条件处理）。我们将在后续讨论中对此进行进一步阐释。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+font-style: italic;
+&#34;&gt;
+准确性与可能性的误区&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这组置信程序清楚地展示了所谓的“精度谬误”。图3展示了这四种置信程序产生的区间宽度如何随似然性宽度的变化而变化。贝叶斯程序紧密跟随数据的不确定性变化：当似然性宽度增加时，贝叶斯置信区间也变得更加宽松。稍后我们将讨论为何似然性与贝叶斯区间之间存在这种必然的对应关系。相比之下，抽样分布程序产生的区间宽度是固定的，因此无法反映出有关估计精度的任何信息。这与常见的置信区间公式类似，即抽样分布区间遵循公式：
+$$
+x̄ ± C×SE ，
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;与已知总体方差的正态总体均值的置信区间相似，标准误差——即的抽样分布的标准差——是已知且固定的，这里大约为2.04（详见补充材料）。这表明，长期标准误差以及基于标准误差的置信区间并不能始终作为我们评估参数估计不确定性的可靠指南。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3-四种置信程序的ci宽度与舱口位置估计不确定性之间的关系sd抽样分布程序np非参数程序umpump程序b贝叶斯程序当似然性宽度超过5时np和ump程序的表现会出现重叠交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b43.png&#34; alt=&#34;图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3 四种置信程序的CI宽度与舱口位置估计不确定性之间的关系。SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。当似然性宽度超过5时，NP和UMP程序的表现会出现重叠。交互图： &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;奇怪的是，非参数程序生成的区间宽度与参数估计的不确定性成反比。更加令人困惑的是，最初UMP程序的区间宽度随数据不确定性增加而增加，但当似然性宽度超过5米时，UMP程序生成的区间宽度也与数据的不确定性成反比。这可能导致一些奇怪的情况。假设观察到的UMP 50%区间为[1, 1.5]，这与两组可能的观测数据相一致：（1, 1.5）和（-3.5, 6）。这两组气泡具有相同的置信区间，然而第二组数据集显示出较高的精度，而第一组则显示出极低的精度！UMP和抽样分布程序具有同一个问题，即它们的置信区间不能被用来反推观测数据的可靠性。即使UMP是效力最强的程序，但它明显丢失了重要的信息。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;要了解可能性谬论在这个例子中是如何表现出来的，请再次参见图3。不确定性高时，似然性宽；然而，非参数和UMP区间非常窄，这意味着精度不高且几乎排除了所有可能的值。此外，抽样分布程序和非参数程序均可能包含不可能值&lt;sup&gt;[4]&lt;/sup&gt;。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+对置信机制的评价&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对四个不同的置信程序，救援队员需要决定采用哪一种。我们已经指出某些置信程序具有违背直觉的特点，但直到现在，我们还没有明确指出应该更倾向于哪种程序。为了帮助救援团队在这些区间中做出选择，我们将直接对比这四种程序。首先，我们从置信区间理论的角度来评估这些程序，然后根据贝叶斯理论进行分析。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如前所述，根据置信区间理论，更好的区间应该更少地包含错误值。图4显示了每个程序在离舱口一定距离处包含了$.$的概率。所有程序都是50%的置信程序，因此它们有50%的时间包含真值。然而，重要的是，这些程序以不同的速率包含特定的错误值$\theta&#39; \neq \theta$。图1和图4的互动版本提供了对这些程序的直观展示。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图4-各置信程序中包含错误值的概率其中t微不足道的程序sd抽样分布程序np非参数程序umpump程序b贝叶斯程序抽样分布程序的线虚线位于贝叶斯程序和ump程序之间交互图-httplearnbayesorgredirectscishiny1html-&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b44.png&#34; alt=&#34;图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 http://learnbayes.org/redirects/CIshiny1.html 。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图4 各置信程序中包含错误值的概率。其中，T：微不足道的程序；SD：抽样分布程序；NP：非参数程序；UMP：UMP程序；B：贝叶斯程序。抽样分布程序的线（虚线）位于贝叶斯程序和UMP程序之间。交互图 &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt; 。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;显然，微不足道的程序（标记为T，灰色水平线）是一个糟糕的选择，因为它包含真值的频率与包含每个错误值的频率相同。这类似于假设检验中，功率等于其第一类错误率。除非该程序是特意设计的，否则它将比其他任何其他表现得都更差。另一方面，UMP程序（标记为UMP）在包含$.$的每个值方面都比其他任何程序都更优，这是因为它是通过反演最强功效测试而创建的。 通过比较这些程序的曲线，我们可以看出其余三个程序之间的排序。抽样分布程序始终优于贝叶斯程序，但不优于非参数程序。非参数程序和贝叶斯程序的曲线重叠，因此二者并不存在优劣之分。Welch（1939）通过使用如图4所示的频率法与UMP区间频率进行比较后指出，贝叶斯程序 “不是构建置信边界的最佳方法”&lt;sup&gt;[5]&lt;/sup&gt;。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;程序之间的频率比较是有启发性的，因为我们已经根据Neyman提出的标准，以及新置信程序的现代开发者使用的标准，覆盖率和功率，得出了程序的排序：UMP程序是最好的，其次是抽样分布程序，再次为贝叶斯程序，而非参数程序虽然不是最佳选择，但也不是最差的。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们还可以从贝叶斯的角度审查这些程序，贝叶斯理论主要关注的是基于数据以及在观察数据之前已知的信息，判断推断是否合理（Howson &amp; Urbach, 2006）。我们已经看到，以这种方式解释非贝叶斯程序会产生问题，而贝叶斯程序在这方面则具有更好的性质。我们将展示如何推导出贝叶斯区间，以更深入了解其具有良好性质的原因。图5的左列显示了从先验和似然性到后验和所谓可信区间的贝叶斯推理过程。顶部的先验分布显示，在观察数据之前，该区域中的所有位置被认为是等概率的。在观察到图1A所示的气泡后，似然性成为一个对于舱口所有可能位置都为1的函数，其他位置则为0。为了将先验经验与来自两个气泡的新信息相结合，我们将数据中的信息与似然性相乘（或等效地，排除我们知道不可能的值）来限制我们之前知道的信息，从而得到底部行中的后验分布。如阴影区所示，中心50%的可信区间包含后验的面积中央50%的所有值。图5的右列显示了使用不假定所有位置同等可能的有信息先验分布进行类似计算的情况。如果有关于潜水艇位置的其他信息，这种情况就可能会出现。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图5-形成贝叶斯可信区间先验信息顶部图与来自数据的似然性信息中部相结合共同构成了后验分布底部在似然性图中阴影区域标示了每个气泡周围5米范围内的可能位置深色阴影区域则为它们重叠的地方暗示了舱口theta的潜在位置在后验图中中央50区域即后验的阴影区域展示了一个可能的50可信区间也就是中央可信区间交互图-httplearnbayesorgredirectscishiny1html&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b45.png&#34; alt=&#34;图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 http://learnbayes.org/redirects/CIshiny1.html。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图5 形成贝叶斯可信区间。先验信息（顶部图）与来自数据的似然性信息（中部）相结合，共同构成了后验分布（底部）。在似然性图中，阴影区域标示了每个气泡周围5米范围内的可能位置；深色阴影区域则为它们重叠的地方，暗示了舱口\theta的潜在位置。在后验图中，中央50%区域（即后验的阴影区域）展示了一个可能的50%可信区间，也就是中央可信区间。交互图 &lt;a href=&#34;http://learnbayes.org/redirects/CIshiny1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://learnbayes.org/redirects/CIshiny1.html&lt;/a&gt;。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;现在很明显为什么贝叶斯可信区间具有通常归因于置信区间的属性。可信区间可以被解释为包含真值的概率为50%，因为其中的值占后验概率的50%。它通过与后验和似然性的关系，根据数据和先验知识揭示了参数估计的精确性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在五种程序中，只有贝叶斯程序的区间可以说在观察后数据有50%的概率包含真值。重要的是，这种区间解释的能力来自于贝叶斯理论而不是置信区间理论。同样重要的是，为了获得所需的区间，需要规定一个先验，并根据规定的先验解释区间。在其他四个区间中，由于其奇怪的特性且不存在可能导致这些程序的先验分布，无法证明它们可以从数据中得出“合理的”推断或结论。从这个角度来看，Neyman拒绝从数据中“得出结论”和“推理”的原因是很清楚的，因为他的理论本身并不支持这样的观点。很明显，如果科学家关心从数据中得出合理的推断，他们可能希望拒绝以置信区间理论为基础来评估程序。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;现在我们可以回顾一下我们对这四个程序的了解。只有贝叶斯程序（当其区间被解释为可信区间时）允许解释为舱口存在50%的概率会位于区间内。只有贝叶斯程序能够正确地跟踪估计的精度，并且以期望的方式覆盖合理值：其他程序生成的区间，根据简单逻辑，可以确定包含真值，但概率仍然为“50%”。非贝叶斯区间具有不受欢迎的，甚至奇怪的特性，这会导致任何理性的分析师都拒绝将它们作为进行推论的手段。然而，频率CI理论却认为贝叶斯程序不如其他程序。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;频率理论和贝叶斯理论之间的脱节来自这两个理论的不同目标。频率理论是一种“先验信息”理论。它展望未来，设计将在未来重复采样中具有特定平均性质的程序。这种思考在Neyman（1937, p. 349）中可以清楚地看到：一旦推导出程序，推理就结束了。置信区间理论归属于包含或排除真实和错误参数值的平均频率。基于观察到的数据，任何给定的推断都可能是合理的，也可能是不合理的，但这不是Neyman的关注点；他否认基于数据的任何结论或信念。另一方面，贝叶斯理论是一种“后数据”理论：贝叶斯分析者根据模型假设和先验信息，使用数据中的信息来确定什么是合理的。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;使用由数据前理论证明的区间来进行后数据推断可能导致不合理且可能是轻率的推断。这个问题不仅限于潜水艇的例子（Berger &amp; Wolpert, 1988；Wagenmakers et al., 2014），尽管这个简单的例子有助于识别这些问题。在下一节中，我们将展示一个常用的置信区间如何导致类似的有缺陷的后数据推断。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+案例二：野外的置信区间&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;前述示例旨在用一个简单的例子来阐明置信区间理论的逻辑。此外，它也展示了置信区间程序可能不具备分析人员所期望的特性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在介绍置信区间时，其倡导者通常专注于对正态分布均值的估计。在这种简单的情形下，频率主义者和贝叶斯主义者（使用“非信息”先验）的结果在数值上是一致的。&lt;sup&gt;[6]&lt;/sup&gt;然而，置信区间的倡导者建议将其应用于许多其他类型的量度，如标准化效应大小Cohen&#39;s d（Cumming &amp; Finch, 2001）、中位数（Bonett &amp; Price, 2002; Olive, 2008）、相关性（Zou, 2007）和有序关联（Woods, 2007）等。这些研究的作者通常未对他们提出的置信区间程序的特性进行深入分析，仅仅展示了这些程序在正确的样本比例中包含真值：即，它们是置信区间。有时，作者会提供程序的频率特性分析，例如平均宽度。新置信区间程序的开发往往不会检查其是否支持基于数据的有效推理，而这作为一种规则。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;正如第一个示例所展示的，仅关注程序的频率特性可能会对这些置信程序的使用者造成潜在的灾难，因为置信程序不能保证支持对感兴趣参数的合理推断。Casella（1992）在置信区间方面强调了这一点，他指出：“我们必须记住，从业者将进行基于数据（conditional post-data）的推断。因此，我们必须能够向用户保证，无论是先数据（pre-data）还是后数据，任何推断都具有一定的有效性”（p. 10）。任何区间程序的发展，如果不至少部分地关注其后数据属性，便是不完整的，甚至是极其具有误导性的“不负责任”。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;置信区间的倡导者所建议的程序，以及研究人员所使用的程序，可能会导致这种误导性的推断。我们将通过检验 的置信区间来展示这一点， $ \omega^2 $是ANOVA设计中误差的占比。在单因子设计具有两个以上水平时，该参数是效应量大小的衡量指标。这个区间是由Steiger（2004，另请参见Steiger &amp; Fouladi, 1997）建议的，被Cumming（2014）引用，在社会科学软件中应用（implemented）（如，Kelley, 2007a, b），并由Finch和French（2012）仅对其频率特性进行评估。我们在这里讨论的问题也适用于Steiger（2004）讨论的其他相关置信区间，如$η^2$，偏$η^2$，F分布的非中心参数，信噪比f，RMSSE Ψ等。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Steiger（2004）强调了应该避免仅依赖显著性检验，而更加重视估计的精度，并提出了置信区间的概念。他指出，科学家更关注的是明确量化两组间的差异程度，而非仅判断这些差异是否存在（pp. 164-165）。Steiger与Fouladi（1997）进一步阐述，置信区间的宽度直观地反映了测量的精准度（p. 231）。然而，考虑到我们对精度误差的认识，这些论断应当引起我们的警觉。 接着，Steiger利用反演（inverting）显著性检验的方法，提出了一种计算$η^2$置信区间的新途径。鉴于UMP程序在潜水艇案例中表现出的异常，这一提议同样值得我们警惕。即便是基于高效能检验的置信程序，也未必能产生合理的推断结果。在展示Steiger的置信区间在数据中的表现之前，我们将先简述通过倒置显著性检验构建置信区间的基本原理。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为深入理解倒置显著性检验构建置信区间的过程，可以将 水平的双侧显著性检验视作两个 水平的单侧检验的结合，分别对应于分布的两个尾部。当任一单侧检验被拒绝时，双侧检验亦被拒绝。例如，为构建68%的置信区间（与标准正态均值误差覆盖真值的频率相同），我们可以使用两个（1−0.68）/2 = 0.16水平的单侧检验。设想一个包含三组、每组10个参与者的单因素设计实验，其中 的效应大小决定了F值的大小：$\omega^2$越大，F值越大。给定$\omega^2$的F分布被称为非中心F分布。当 $\omega^2=0$，即无效应存在时，我们得到熟知的中心F分布。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;首先考虑单侧检验拒绝较大F值的情形。以图6A为例，当F（2，27）= 5时，检验 $\omega^2=.1$的零假设得出的p值为.16。测试更大的$\omega^2$值不会导致拒绝，而更小的$\omega^2$值则会，因为它们的p值低于.16。图6a中灰色虚线展示了 $\omega^2=.2$的非中心F（2，27）分布，显然此时的p值高于.16，所以 $\omega^2=.2$不会被上侧检验（upper-tailed test）拒绝。再考虑单侧检验拒绝较小F值的情况。图6B显示，检验 $\omega^2 = .36$的零假设得到的p值为.16；大于.36的$\omega^2$值将被拒绝，而小于.36的则不会。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;综合两个单侧检验，对于[.1，.36]范围内的任何$\omega^2$值，两个检验的p值都会大于.16，因此不会被拒绝。这样，当F（2，27）= 5时，我们可以定义68%置信区间为所有不被这两个双侧检验拒绝的$\omega^2$值，即[.1，.36]区间。然而，复杂性出现在ANOVA中 F检验的p值超过$\alpha /2$时，因为根据定义，这样的p值是在 = 0，即无效应的假设下计算的。$\omega^2$值不能低于0，所以上侧检验不可能拒绝任何$\omega^2$值。这种情况下，置信区间的下限不存在。当p值超过$1-\alpha/2$时，所有下侧检验都会被拒绝，导致置信区间的上限不存在。若边界不存在，Steiger（2004）会将其默认设为0。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为了探索这种置信区间在实际应用中的表现，设想一个三组、每组10名参与者的被试者间实验，其结果为F（2，27）= 0.18，p = 0.84。根据诸如Psychonomics society 2012和Wilkinson &amp; the Task Force on Statistical Inference（1999）等机构提出的良好分析实践指南，我们希望计算标准化效应大小$\omega^2$的置信区间。使用软件计算出Steiger的置信区间后，我们得到了68%置信区间为[0, 0.01]。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图6-通过倒置显著性检验的方式构建置信区间a部分展示了两个非中心f分布真实-omega2-1蓝色实线和真实-omega2-2灰色虚线当-f2-27-5时这些检验的上尾p值分别为-16-和-42b部分展示了两个非中心f分布真实-omega2-36红色实线和真实-omega2-2灰色虚线当-f2-27-5-时这些检验的下尾p值分别为-16-和-58&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b46.png&#34; alt=&#34;图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图6 通过倒置显著性检验的方式构建置信区间。A部分：展示了两个非中心F分布，真实 $\omega^2$= .1（蓝色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5时，这些检验的上尾p值分别为 .16 和 .42。B部分：展示了两个非中心F分布，真实 $\omega^2$= .36（红色实线）和真实 $\omega^2$= .2（灰色虚线）。当 F（2, 27）= 5 时，这些检验的下尾p值分别为 .16 和 .58。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图7A（顶部区间）展示了68%置信区间的结果。若对置信区间的误区缺乏了解，我们可能就会将这一区间作为 $\omega^2$ 估计精度的有效衡量标准而予以发布。值得注意的是，置信区间的下限正好为0，这是因为其下限实际上并不存在。在讨论这类情况时，Steiger和Fouladi（1997）提到，
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;“[在零点处任意设定置信边界]虽然保持了置信区间的正确覆盖概率，但当置信区间的两端都位于零点时，其宽度作为衡量估计精度的指标就可能受到质疑。在这种情况下，获取其他关于测量精度的指示，比如统计量标准误差的估计，便显得尤为重要。”（Steiger &amp; Fouladi, 1997, p. 255）
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Steiger（2004）进一步指出，“[置信区间的宽度与精度之间的关系]并非完美，并在某些情况下极度受损”（p. 177）。这是一个相当惊人的承认：置信区间的主要优势被认为是能够评估参数估计的精度。然而，置信区间未能实现其最初被提倡的目标。遗憾的是，Steiger没有具体阐释导致这一结果的原因，也未解释在何种条件下置信区间能有效追踪精度。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们可以通过考察似然性来验证Steiger的警告的必要性——实际上，这是对精度误区的一种警示。似然性指的是观察到的F统计量在所有可能的真实$\omega^2$值下的概率密度。值得注意的是，与$\omega^2$的似然性相比，置信区间是多么的狭窄。如果我们相信精度谬误，那么随着$\omega^2$变大，似然性下降的速度要比置信区间所暗示的要慢得多。此外，我们还可以将置信区间与在假定均值和误差方差具有标准“非信息性”先验的情况下计算得出的68%贝叶斯可信区间进行比较。 &lt;sup&gt;[7]&lt;/sup&gt;相比之下，贝叶斯可信区间更为宽泛，显示出对$\omega^2$估计的更大不确定性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图7B展示了相同情况下的变化，但F值略有下降。 估计的精度基本未发生实质性变化；然而，此时的置信区间仅包含 $ \omega^2 = 0 $的值：更准确地说，由于此F值始终会被用于构建置信区间的两个单侧检验中的至少一个拒绝，因此置信区间为空。正如Steiger所指出的，“零宽度的置信区间显然无法说明效应大小是以完美精度确定的”（p. 177），也不能表明$\omega^2$恰好为0的概率有68%。通过观察似然性和贝叶斯可信区间，这一点变得更加明显。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;一些学者（如，Dufour, 1997）将空置信区间解读为模型不当拟合的迹象。在这种单样本设计情况下，如果置信区间为空，意味着均值之间的相似性超过了在模拟假设下预期的$\alpha / 2$的频率；也就是说，p值大于$1-\alpha/2$，因此F值较小。如果按照这种模型来拒绝显著性检验的逻辑，那么置信区间本身就变得难以解释，因为它似乎指向了错误的精度（Gelman, 2011）。此外，在这种情况下，p值无疑比置信区间提供了更多信息；p值提供的是不依赖于任意选择$\alpha$的分级信息（arbitrary choice），而对于所有p值大于$1-\alpha/2$的情况，置信区间均为空。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图7C展示了当我们将置信系数微调至70%时发生的变化。再次强调，参数估计的精度并未改变，但置信区间现在又呈现出非零的宽度。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图7D展示了一项分析结果，其中F（2, 27）= 4.24，p值为0.03，并使用了95%的置信区间。此时，Steiger的区间已覆盖了大部分可能性，但下限仍然“卡在”0处。在这种情况下，Steiger和Fouladi建议我们，将置信区间宽度作为精度指标是“有疑问的”，我们应该“寻找其他测量精度的指标”。事实上，在这里，置信区间与贝叶斯可信区间相比并没有太大差异，尽管置信区间更长且不平衡。然而，如果我们不检查似然性和贝叶斯可信区间，我们就不会知道这一点；置信区间在这个特定情况下具有合理宽度的唯一原因是它与似然性和可信区间提供的实际精度度量是一致的。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图7-四种假设实验结果的似然性置信区间和贝叶斯可信区间最高后验密度或hpd区间在每张图中顶部区间是steiger2004对-的置信区间底部区间则是贝叶斯hpd区间更多细节见正文&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2024%e7%bd%ae%e4%bf%a1%e5%8c%ba%e9%97%b47.png&#34; alt=&#34;图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图7 四种假设实验结果的似然性、置信区间和贝叶斯可信区间（最高后验密度，或HPD，区间）。在每张图中，顶部区间是Steiger（2004）对 的置信区间；底部区间则是贝叶斯HPD区间。更多细节见正文。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Steiger的置信程序在什么情况下会产生“可疑”的置信区间呢？这通常发生在相应的F检验p值大于 的情况下；对于95%的置信区间而言，这意味着每当p &gt; 0.025时。Steiger和Fouladi建议在这种情况下不使用置信区间，这与他们和其他支持者推崇置信区间的初衷正相悖。这不只是理论上的问题；中等大小的p值在实际研究中经常出现。在我们对引用Steiger（2004）论文的粗略审查中发现，很多研究报告了下限为0的置信区间，而未加以注释（如，Cumming et al., 2012; Gilroy &amp; Pearce, 2014, Hamerman &amp; Morewedge, 2015; Lahiri et al., 2013; Todd et al., 2014; Winter et al., 2014）。还有其他一些研究未使用置信区间，而是依赖效应大小的点估计和p值（如，Hollingdale &amp; Greitemeyer, 2014）；但从p值推断，若他们按照“良好做法（good practice）”计算置信区间，很可能得到Steiger所谓的倒置F检验的区间。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;然而，使用置信区间的作者往往不会指出其解释存在问题，这是合理的。如果置信区间真的包含了最可能的值，或者如果它是精度的指标，或者如果置信系数代表了我们对参数在该区间内的不确定性，那么从一个置信区间中得到的信息就应与另一个区间相同。考虑到置信区间通常的呈现方式，仅凭p值判断置信区间的解释可能性并不直观。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们认为，对区间的解释能力不应仅因获得的p值不够低而受限。当然，置信系数是任意的；如果一个置信系数下的区间宽度被质疑，那么仅仅改变置信系数以排除0值，从而使区间宽度变得可接受似乎毫无意义。此外，如果在中等p值情况下区间过窄，从而不足以作为精度的指标，那么在其他情况下其宽度可能过宽，同样会威胁到其解释力。这一点在潜水艇示例中的UMP程序中表现得非常明显：当数据提供的信息少时，UMP区间过窄；而当数据提供充足信息时，区间又过宽。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Steiger和Fouladi（1997）总结了置信区间的核心问题：为了保持正确的覆盖概率（这是一种频率主义者的先验关注点），他们牺牲了研究人员所期望的置信区间，即后数据的精确度指标。如果我们的目标是摆脱显著性测试，那么我们不应采用除了可以解释为显著性测试的反演（inversions）之外的方法。我们赞同Steiger和Fouladi的看法，研究人员应考虑采用其他测量精度的指标；幸运的是，贝叶斯可信区间在这方面表现出色，使得置信区间变得多余。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+讨论&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在运用置信区间理论及两个具体案例的分析基础上，我们揭示了一个事实：置信区间并非如通常所声称的那样具有特定性质。置信区间理论的发展，原本是为了解答一个极为限定的问题——如何设计一个程序，使其能以固定的比例频率产生包含真实参数值的区间。然而，有关置信区间能提供精确度的指标、区间内的数值是合理的、以及置信系数能被视作区间包含真实值的可靠性度量的观点，均是不成立的，在置信区间理论中找不到这些观点的支持。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;支持置信区间的背后，的确有着良好的初衷：希望拥有具备所宣称属性的统计程序，这本是值得追求的。基本置信谬误的推动力源于希望评估区间包含真实值的可能性；似然性谬误的动机在于确定哪些参数值是值得重视的；而精度谬误则在于期望对估计值的精确度进行量化。我们赞同这些目标（Morey et al., 2014），但指出，置信区间理论并不是实现这些目标的正确方法。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+解释与报告区间的建议准则&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;频率主义理论有时可能显得难以理解。正如Fisher（1955）指出的，频率主义理论家们经常开发出与科学家需求不符的方法，这似乎与科学家的关切脱节。这种情况造成了一种误解，即实践者可能错误地假设某种方法是为他们的目的而设计的，而实际上它是为了另一个目的。为了解决这种误解，我们提供了一份清晰的指南，帮助读者理解和报告置信区间。 当数据收集完毕且计算出置信区间后，应如何解释这个区间呢？答案其实非常简单：在置信区间理论本身，这个区间是不被解释的。  [8]如Neyman及其他人反复强调，并且我们也展示了，置信区间不能被解释为任何超出其为某过程结果的含义，这个过程仅确保在固定比例的样本中包含真实值。除非区间的解释可以通过其他推理理论得到明确证明，否则应避免对置信区间进行任意解释，以防产生与数据矛盾的推断。即便是“良好”的置信区间，通常因倒置显著性测试而构建，也可能具有一些奇特的特性（Steiger, 2004）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为减少科学文献中的混淆，我们根据本文的讨论提出以下关于区间报告的指导方针。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;我们建议报告可信区间而非置信区间。&lt;/b&gt;任何选择使用置信区间的作者都应确保这些区间在合理的先验条件下与可信区间在数值上相符。许多置信区间可能无法这样解释，但如果作者知道它们可以这样解释，应将其称为“可信区间”。这表明读者可以像解释置信区间那样解释这些区间，尽管这种解释通常是错误的。当然，相应的先验也必须报告。这并不是说不能将可信区间称为置信区间，但读者可能更感兴趣的是该程序允许有效的后数据推断，而非先验数据推断，尤其当他们希望从计算出的区间中得出实质性的结论时。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;不应使用其贝叶斯属性未知的置信程序。&lt;/b&gt;正如Casella在1992年指出的那样，了解程序的后数据属性对于理解区间能推断出什么是必要的。未经探讨其贝叶斯属性的程序可能具有不适合后数据推断的特性。那些未经充分研究属性的程序并不适用于一般情况。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;如果置信程序不对应于贝叶斯程序，请向读者说明。&lt;/b&gt;已知的不对应于贝叶斯程序的置信区间，应提醒读者无法将其解释为具有X%概率包含参数，也无法用精确度的术语进行解释，更不能认为区间内的值值得重视：这样的区间只是在抽样前具有X%概率包含真实值的区间。报告置信区间的作者有责任防止读者进行无效的推断，因为如果不加以警示，读者几乎肯定会错误地解释它们（Hoekstra et al., 2014）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;绝不应在没有说明过程和相应统计数据的情况下报告置信区间。&lt;/b&gt;如我们所述，构建置信区间的方式多种多样，且它们各有不同属性。有些区间可能比其他区间具有更好的频率特性；有些可能对应于可信区间，而另一些则不会。不幸的是，作者们通常在没有说明如何构建置信区间甚至不引用来源的情况下进行报告，这是一种不佳的做法。如我们的示例所示，如果不清楚所使用的置信过程，就无法确定能从中推断出什么。例如，在潜水艇的案例中，考虑一个宽度为0.5米的50%置信区间。这可能对应于非常精确的信息（贝叶斯区间）或非常不精确的信息（UMP和非参数区间）。不明确所使用的过程可能导致荒谬的推断。此外，应提供足够信息，使任何读者都能计算不同的置信区间或可信区间。在许多情况下，这已包含在标准报告规范中，但在其他情况下可能需要提供更多信息。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;&lt;b&gt;考虑报告似然性或后验概率，而非区间。&lt;/b&gt;区间提供的信息相对较少。正如置信区间的支持者所辩称，置信区间提供的信息比显著性检验更多，尽管对于许多置信区间来说这是值得怀疑的。然而，似然性或后验概率比区间提供更多的信息。最近，Cumming（2014）提出了所谓的“猫眼（cat’s eye）”区间，其对应于正态分布数据的“非信息”先验下的贝叶斯后验。鉴于现代科学图形如此容易创建，我们认为在大多数情况下似然性或后验都可以在一定程度上甚至完全取代区间（如，Kruschke, 2010）。似然性或后验概率可以完全避免置信或可信系数的武断性。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;贝叶斯统计学的完整介绍超出了本文的范围。事实上，它可以填满整个课程。近年来，为希望了解更多关于应用贝叶斯统计学的读者开发了许多良好资源，包括后验分布和可信区间的估计。在技术较低的领域有Bolstad（2007），Lee和Wagenmakers（2013）以及Lynch（2007）的著作；在技术更高的领域有Jackman（2009），Ntzoufras（2009）和Gelman等人（2004）的著作。对于希望尝试一些简单示例的读者，本文的补充材料中包含了用于估计本文示例的后验分布和可信区间的R代码。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+置信区间与可信区间的比较&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;关于贝叶斯推断和频率推断之间的关系，存在一个常见的误解：认为它们会导致相同的推断结论，因而所有置信区间都可以简单地以贝叶斯方式解释。例如，在数据呈正态分布的情形下，某些特定的先验设定会使得置信区间在数值上与贝叶斯后验得出的可信区间相等（Jeffreys, 1961; Lindley, 1965）。这可能让人误以为使用置信程序或贝叶斯程序并无差别。然而，我们的研究表明，置信区间与可信区间之间可能存在显著差异。确定某个置信区间在数值上等同于某个可信区间的唯一方法是证明它。我们不能也不应该假设这种对应关系是成立的。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;更广泛地说，通过指出在某些特定条件下置信程序在数值上与贝叶斯程序一致，来为置信程序辩护，实际上并不是真正的辩护。首先，需要选择要使用的置信程序，而这些程序种类繁多。如果承诺使用能够被贝叶斯方法解释的程序，那么直接应用贝叶斯理论无疑更为高效。若确实需要贝叶斯理论的优势——这对置信区间的支持者来说显然是必要的——那么就可以广泛地采用贝叶斯推断，而不是仅仅在它偶尔与可信区间保持一致时才使用。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;然而，需要强调的是，在应用统计学文献中介绍的许多置信区间方法中，并没有人试图证明这些区间具有置信区间支持者所期望的性质。新开发的置信区间应首先展现其期望的推断特性，而不仅仅是真值的名义覆盖率和“短”宽度。因为许多置信区间的开发者并未这样做，所以对置信区间的推广建立在不稳固的基础之上。采用贝叶斯推断，所有推断都在一个逻辑统一的框架内产生，使得评估这些置信程序的属性变得不那么重要。如果需要，还可以评估贝叶斯程序的覆盖范围；但如果主要关注合理的后数据推断，那么贝叶斯属性应是首要考虑的，而不是频率覆盖（Gelman, 2008; Wasserman, 2008）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对于那些通过区间推理的拥护者来说，采用贝叶斯推断还有其他好处。置信区间的端点始终由数据确定。然而，假如我们对确定参数是否位于特定区间内的可能性感兴趣，例如，在美国，对智力障碍的罪犯执行死刑是非法的。佛罗里达州规定智力障碍的标准是真实智商低于70。由于智商测试存在误差，人们可能会问，对于某个罪犯，其真实智商低于70的概率有多大（Anastasi &amp; Urbina, 1997; Cronbach, 1990）。在这种情况下，我们关注的区间不再是样本数据的函数。真实值在固定区间内的长期概率是未知的，可能是0或1，因此无法构造任何置信程序，尽管这样的信息对研究者、政策制定者或辩护律师可能非常重要（Pratt et al., 1995）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;即使在表面上看起来简单的情况下，固定区间嵌套在置信区间内，或反之，也不能对固定区间的合理性得出结论。例如，人们可能会假设嵌套在置信区间内的较短区间具有较低的置信度，但正如图1B所示，某些50%的置信区间内部可能嵌套着100%的置信区间（似然性）。同样，如果置信区间嵌套在固定区间内，人们可能会认为固定区间的概率必须高于该置信区间。但在图1A中，可以设想一个略大于50% UMP区间的固定区间；由于它仅占据似然性的一小部分，它的真实值包含概率可能远低于50%。了解基本置信谬误是一种谬误就不能再使用置信区间来评估固定区间的概率。另一方面，贝叶斯程序提供了计算任何给定数值范围合理性的能力。由于所有这些推断都必须从后验分布中进行，推断结果必须保持一致（Lindley, 1985; Fisher, 1935）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;然而，从置信区间转向可信区间需要一种思维方式的转变，即摆脱与区间相关的测试中心观点（例如，区间中是否包含0）。尽管每个置信区间都可以解释为一种测试，但不应将可信区间以此方式解释。如Berger在2006年所述，通过检查某个可信区间是否包含感兴趣的特定参数值来评估贝叶斯可信度是错误的。当感兴趣的是测试特定值（例如，零假设）时，必须为该特定值分配先验非零概率（这超出了本文的范围，详请参阅Rouder et al., 2009; Wagenmakers et al., 2008; Dienes, 2011）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;最终，我们认为在科学推断中，含义的理解至关重要。贝叶斯可信区间通过显著地使用先验信息，支持了一种基于合理性的概率解释。相反，置信区间所依据的哲学观点并不包含对推断合理性的考量，且不采用先验信息。将置信区间视为可信区间的做法，实际上是试图将贝叶斯含义引入频率统计学，却未充分考虑先验信息。如常言所述，“天下没有免费的午餐”，我们必须作出选择。我们怀疑，当面临选择时，研究人员可能更倾向于指定先验，并从贝叶斯理论中获得好处。然而，我们不应该假装选择是不必要的。置信区间理论和贝叶斯理论在本质上不同，因此不应该混为一谈。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+结论&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们的观点是，置信区间并不支持其倡导者所声称的推论。一个引人深思的问题是，置信区间理论是如何从Neyman开始，作为一种通过二元陈述来避免从数据种推理问题的方式（Neyman, 1937, 1941），到最终被许多学者认为是数据推理的最佳方法（如，Cumming &amp; Finch, 2005; Cumming &amp; Fidler, 2009）（如，Cumming, 2014; Hoekstra et al., 2006; Wilkinson &amp; Statistical Inference, 1999）。无论这种混淆如何形成，我们都应该意识到，置信区间理论仅提供了非常表面的解释，并不符合科学家的实际需求。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们并不认为置信区间理论为心理学方法论的未来提供了可靠的基础。没有贝叶斯特性的置信程序存在许多不足之处；而那些具有贝叶斯特性的置信程序，其有效性可以通过贝叶斯理论得到证实。如果我们放弃使用置信程序，我们又会失去什么呢？放弃使用置信程序，意味着放弃一种仅能创建具有固定长期真值包含概率区间的方法。我们怀疑，如果研究人员意识到这是他们唯一的损失，他们不会感到太大遗憾。相反，通过采用贝叶斯推断，他们将获得一种能够对精度和合理性进行原则性陈述的方法。归根结底，这正是置信区间的支持者所期望的。
+&lt;h3&gt;参考文献&lt;/h3&gt;
+（略，见原文）
+&lt;hr style=&#34;border: none; height: 2px; background-color: #ccc; margin: 20px 0;&#34;&gt;
+&lt;h3&gt;脚注&lt;/h3&gt;
+&lt;p&gt;[1] 现代置信区间的定义不再局限于恰好X%的概率，而是至少为X%。这一细微的变化并不会影响我们后续讨论的观点。提及这一点，是为了确保论述的完整性。&lt;/p&gt;
+&lt;p&gt;[2] 在其1937年发表的重要理论论文之前，Neyman最初在另一篇论文中首次提出了这一理论。&lt;/p&gt;
+&lt;p&gt;[3] John Tukey曾指出，一群统计学家的集体名词是“争吵”(McGrayne, 2011)。&lt;/p&gt;
+&lt;p&gt;[4] 为了构造一个更好的区间，频率学家通常会截断区间，只保留可能的值，正如从非参数程序生成UMP程序所做的那样(例如，Spanos, 2011)。这保证会导致一个更好的程序。我们这里要强调是，单纯地假定一个程序具有良好的性质是错误的，因为它是一个置信程序。然而，参见Velicer等人(2008)中CI支持者在置信区间中包含不可能的值的例子，以及Fidler和Thompson(2001)对这种做法的辩护。&lt;/p&gt;
+&lt;p&gt;[5] 在本文的早期草稿中，有读者提出频率派统计学家同样会使用似然函数，因此他们可能更倾向于贝叶斯方法。但正如Neyman在1977年所强调的，对于频率派统计学家而言，似然函数并不具有特别的重要性；关键在于统计方法的频率派特性，而非其构建过程。&lt;/p&gt;
+&lt;p&gt;[6]  这并不意味着即使在这种简单的情况下，通过置信区间进行推理也不会产生问题（如，Brown, 1967; Buehler &amp;amp; Feddersen, 1963)。&lt;/p&gt;
+&lt;p&gt;[7] 详见补充资料。我们通常不主张对感兴趣的参数采用非信息性先验（Rouder et al., 2012; Wetzels et al., 2012）；在本例中，我们将其用作比较，因为许多人错误地认为置信区间在数值上对应于采用非信息性先验的贝叶斯可信区间。&lt;/p&gt;
+&lt;p&gt;[8] 最近，一些学者建议用注重不同“严格程度”测试的频率主义观点来取代Neyman关于置信区间的行为观点（如，Mayo &amp;amp; Cox, 2006; Mayo &amp;amp; Spanos, 2006）。喜欢频率主义范式的读者可能希望探索这种方法；然而，我们并不知道在这种范式下有任何关于CI的全面论述，更不用说，它并没有提供CI支持者所期望的特性。这并不意味着我们反对这种方法，而是警告我们必须做出选择。&lt;/p&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 建立大团队的科学</title>
+      <link>https://terryzang.github.io/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2022%E5%A4%A7%E5%9B%A2%E9%98%9F/</guid>
+      <description>&lt;!-- &lt;label for=&#34;colorPicker&#34;&gt;选择颜色：&lt;/label&gt;  --&gt;
+&lt;!-- &lt;input type=&#34;color&#34; id=&#34;colorPicker&#34; value=&#34;#00000084&#34;&gt; --&gt;
+&lt;div style=&#34;border-left: 6px solid #4A90E2;
+            background-color: #f5f7fa;
+            padding: 10px 16px;
+            font-size: 20px;
+            line-height: 1.8;
+            border-radius: 4px;&#34;&gt;
+  &lt;p&gt;&lt;b&gt;原文信息&lt;/b&gt;&lt;/p&gt;&lt;i&gt;
+&lt;p&gt;Coles, N. A., Hamlin, J. K., Sullivan, L. L., Parker, T. H., &amp;amp; Altschul, D. (2022). Build up big-team science. Nature, 601(7894), 505–507. &lt;a href=&#34;https://doi.org/10.1038/d41586-022-00150-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/d41586-022-00150-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/i&gt;&lt;p&gt;&lt;b&gt;译者&lt;/b&gt;&lt;/p&gt;&lt;i&gt;
+刘逸康（南京师范大学心理学院）&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;b&gt;校对&lt;/b&gt;&lt;/p&gt;&lt;i&gt;
+  张晗（新加坡 A*STAR）；胡传鹏（南京师范大学心理学院）&lt;/i&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;本译文下载地址：&lt;/b&gt;&lt;a href=&#34;https://osf.io/2ce8a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/2ce8a/&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;h2 style=&#34;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+&#34;&gt;
+本文要点
+&lt;/h2&gt;
+&lt;b&gt;研究人员正在创建“草根”合作网络，以尝试去解决灵长类动物研究等方面的难题，但他们亟需资金和其他支持。&lt;/b&gt;
+&lt;h2 style=&#34;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+  background: -webkit-linear-gradient(#3C80F7, #9065FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+&#34;&gt;
+正文内容
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如果不重新定义研究的方式，我们是否根本无法回答科学上一些最重要的问题？这个拷问激励一批研究者创建了ManyBabies联盟（ManyBabies Consortium）。ManyBabies联盟是一个由来自200多个机构的约450名科研合作者组成的“草根”网络（grass-roots network），他们集中资源开展了多项关于婴幼儿发育的大规模研究（massive study）&lt;sup&gt;1&lt;/sup&gt;。人类婴幼儿也许是地球上最强大的学习机器——了解他们的学习机制对人工智能、公共政策、教育等具有启示意义。然而，现有的科研模式使得全面了解婴幼儿的学习机制比较困难。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;举一个简单的例子：什么东西能吸引婴幼儿的注意力？比如，一只兔子？一个婴幼儿会注意到兔子的概率取决于兔子如何呈现（例如，由母亲或陌生人呈现给婴幼儿）、婴幼儿先前与哺乳动物接触的经验、与兔子同时呈现的其他物品等因素。要有效地回答这个问题，需要几十种实验条件和几百个婴幼儿。但大多数婴幼儿研究项目往往由单个实验室及其不断流转的博士生来实施，因此上述的每种实验条件一般难以收集到25个婴幼儿数据&lt;sup&gt;2&lt;/sup&gt;。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;但是，如果研究者们互相合作，同时在多个实验室间协同工作，情况会如何呢？这样的团队联盟也许能够解决单个实验室无法尝试解决的问题。在一项概念验证研究中，ManyBabies联盟利用口耳相传、社交媒体和电子邮件等方式，组成了一个由69个实验室组成的团队，以验证世界各地的婴幼儿是否更喜欢&#34;儿向语(baby talk)&#34;（参考联合国儿童基金会翻译为“儿向语”&lt;sup&gt;[1]&lt;/sup&gt;，指的是许多文化中的成年人对婴幼儿使用的一种高声调、唱腔的说话方式）。来自16个国家的2329名婴幼儿的数据提供了一个非常肯定的回答，并且婴幼儿甚至更喜欢非母语的“儿向语”&lt;sup&gt;3&lt;/sup&gt;。谷歌学术显示，这项领域内规模最大的研究在其发表后的一年内就被引用了100多次。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;ManyBabies联盟并不是个别现象。它是更广泛的“草根”大团队科学运动的一部分：分散在世界各地、不同机构的大量研究人员自发组织起来，汇集才智、集中资源，追求同一个目标&lt;sup&gt;4&lt;/sup&gt;。除了ManyBabies联盟，研究者们还合作创建了心理科学加速器项目 (Psychological Science Accelerator)（约1200名研究人员参与）&lt;sup&gt;5&lt;/sup&gt;，全球草原波动与资源网络（Disturbance and Resources Across Global Grasslands network，DRAGNet；约100名研究人员；https://dragnetglobal.weebly.com）和ManyPrimates项目（包括约150名研究人员）&lt;sup&gt;6&lt;/sup&gt;。这些自发组织的研究团体汇集资源，分别在心理学、生态学和灵长类研究方面开展了多项大规模研究。它们的合作模式类似于人类基因组计划和欧洲核子研究中心（CERN，位于瑞士日内瓦附近的欧洲粒子物理实验室），但它们在成立时没有正式的资金资助机制或发达的基础科研设施。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们发现，尽管“草根”大团队科学能够产生难以获得的知识，但是在可持续性方面却面临着不少困难。
+&lt;p&gt;[1] &lt;a href=&#34;https://www.unicef.cn/parenting-site/how-talk-your-baby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.unicef.cn/parenting-site/how-talk-your-baby&lt;/a&gt;&lt;/p&gt;
+&lt;hr style=&#34;border: none; height: 3px; background-color: #ccc; margin: 20px 0;&#34;&gt;
+&lt;p&gt;&lt;br&gt;&lt;h3 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+&#34;&gt;
+大团队科学的例子&lt;/p&gt;
+&lt;/h3&gt;
+大团队的科研工作者们以多种多样的方式聚集在一起，尝试解决科学中的难题，从土壤样本到癌症生物学。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2022%e5%a4%a7%e5%9b%a2%e9%98%9f1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;!-- &lt;style&gt;
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+&lt;/style&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;width: 20%;&#34;&gt;联盟或项目名称&lt;/th&gt;
+    &lt;th style=&#34;width: 25%;&#34;&gt;如何组织和何时发起&lt;/th&gt;
+    &lt;th style=&#34;width: 30%;&#34;&gt;项目发现或研究问题&lt;/th&gt;
+    &lt;th style=&#34;width: 25%;&#34;&gt;数据收集&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;心理科学加速器（Psychological Science Accelerator）&lt;/td&gt;
+    &lt;td&gt;由2017年的一篇博客发起的“草根”联盟。现在涉及约1200名研究人员。&lt;/td&gt;
+    &lt;td&gt;“认知再评价”改善了对COVID-19新冠病毒肺炎的情绪反应。&lt;/td&gt;
+    &lt;td&gt;由450多名研究人员收集的87个国家的20,000多人的数据12。&lt;/td&gt;
+  &lt;/tr&gt;
+     &lt;tr&gt;
+    &lt;td&gt;多儿童研究联盟（ManyBabies Consortium）&lt;/td&gt;
+    &lt;td&gt;由2015年的一篇博客发起的“草根”联盟。现在涉及约450名研究人员。&lt;/td&gt;
+    &lt;td&gt;即使是非母语，婴幼儿也更喜欢“儿语”。&lt;/td&gt;
+    &lt;td&gt;由全世界16个国家的150名研究人员收集的2,329名婴幼儿的数据3。&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;多灵长类动物研究项目（ManyPrimates project）&lt;/td&gt;
+    &lt;td&gt;通过2018年的研讨会、口耳相传、电子邮件和社交媒体发起的“草根”联盟；现在有约150名研究人员参与。&lt;/td&gt;
+    &lt;td&gt;在41种密切相关的灵长类动物中，系统发育对短期记忆的影响比生态学或社会因素更重要。&lt;/td&gt;
+    &lt;td&gt;81名研究人员研究了421只灵长类动物8。&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;营养素网络（Nutrient Network, NutNet）&lt;/td&gt;
+    &lt;td&gt;2006年启动，研究者通过电子邮件和推特请求加入研究网络。数据收集于2007年开始。&lt;/td&gt;
+    &lt;td&gt;食草动物和光照供应是否能解决添加养分造成的植物物种的损失？&lt;/td&gt;
+    &lt;td&gt;利用来自更广泛的养分网络实验（超过130个合作地点）的数据，研究人员记录了全球40个地点的添加养分和排斥食草动物的控制组合对植物多样性的影响13。&lt;/td&gt;
+  &lt;/tr&gt;  
+  &lt;tr&gt;
+    &lt;td&gt;多笑脸合作（Many Smiles Collaboration）&lt;/td&gt;
+    &lt;td&gt;2018年启动的“草根”项目。通过社交媒体和电子邮件招募合作者组成对抗合作团队。&lt;/td&gt;
+    &lt;td&gt;改变面部表情是否会影响情绪？&lt;/td&gt;
+    &lt;td&gt;近50名研究人员从19个国家的3,878名参与者那里收集数据14。&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;可重复性项目：癌症生物学（Reproducibility Project: Cancer Biology）&lt;/td&gt;
+    &lt;td&gt;通过阿诺德风险投资公司向开放科学和科学交流中心提供的资金于2013年启动。&lt;/td&gt;
+    &lt;td&gt;高影响力的癌症生物学论文中的实验结果能否被复制？&lt;/td&gt;
+    &lt;td&gt;200名合作者试图复制50个临床前实验的158个效果15。&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;全球草原波动与资源网络（DRAGNet）&lt;/td&gt;
+    &lt;td&gt;2018年构思的“草根”联盟。2019年开始收集数据；通过电子邮件和推特建立研究网络。&lt;/td&gt;
+    &lt;td&gt;当草原受到翻耕和添加营养物质的干扰时，它们是如何反应的？&lt;/td&gt;
+    &lt;td&gt;大约90名研究人员对18个国家的70个站点进行监测（https://dragnetglobal.weebly.com）。
+  &lt;/td&gt;    
+&lt;/table&gt; --&gt;
+&lt;hr style=&#34;border: none; height: 3px; background-color: #ccc; margin: 20px 0;&#34;&gt;
+&lt;h4&gt;&lt;b&gt;困难1：如何奖励团队成员&lt;/b&gt;&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;美国田纳西州孟菲斯大学的历史学家Michele Grigsby Coffey将学术描述为“一场利己的运动”，在这项运动中，研究人员“因自我陶醉而得到奖励”，并且“鼓励以牺牲他人利益为代价来优先考虑自己”&lt;sup&gt;7&lt;/sup&gt;。然而，大团队科学是一项团体运动，它常常要求研究人员将研究发现置于自己的利益之上。例如，第一个ManyPrimates研究考察了40多种灵长类动物的工作记忆能力，即测试它们是否能在短时延迟后记住食物隐藏的位置&lt;sup&gt;8&lt;/sup&gt;。作为该研究的共同作者之一，D.A.估计他为这个项目投入了大约200个小时。但是在所发表的论文中，ManyPrimates联盟被列为第一作者，通讯作者的电子邮箱是一个共享的邮箱，在按字母排序的作者名单中D.A.只是79人之一。这样的文章署名方式突出了团队的成就而不是任何个人。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;追求大团队科学的理想是相对无私的，但当前学术界的规则作为这场利己的运动的裁判员，它会对这样的理想做出惩罚。例如，当作者之一的N.A.C.在博士后研究期间被提名领导心理科学加速器项目时，一位善意的指导教授告诉他，他将十分胜任这项工作，不过这个项目将&#34;扼杀你获得终身教职的机会&#34;。本稿件中资历较深的共同作者（J.K.H.、L.L.S.和T.H.P.）也向年轻同事提出过类似的警告。例如，当招聘委员会的成员看到求职者简历中所列的几篇论文，求职者的名字在一长串作者名单的中间时，他们会大吃一惊。学术这场利己的运动奖励的是明星而不是那些关键的配角。事实上，当本文的一名作者兴奋地将大团队合作取得的重大进展向部门主管分享时，得到的回应却是“很好，但是要确保你自己的研究团队要有成果。”
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;学术界可以通过奖励那些为团队工作做出巨大贡献的研究人员来改变游戏规则。否则，团队将被迫寻找其他方式来增加收益或降低参与成本。例如，项目负责人可以资助合作者，正如美国国防部高级研究计划局（www.cos.io/score）支持的合作项目，这项合作项目设计出可以预测社会和行为科学研究结果可重复性的工具。然而，这种做法的问题是：资源较少的研究人员无法领导大团队工作。作为一个替代方案，一些合作提供了非经济性的福利。例如，DRAGNet和Nutrient Network都为参与合作的研究人员提供了访问整个项目数据库的独家权限。然而，这些政策却背离了使科学更加开放和包容的目标。通过招募更多的研究人员来分担费用，可以达到降低成本的目的，但这使得组织协调工作变得更加困难。
+&lt;h4&gt;&lt;b&gt;困难2：多样性（与代表性）&lt;/b&gt;&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大团队科学研究的一个很大的潜在优势就是增加了被试（participant/ subject，即参加研究的志愿者，心理学中翻译为“被试”，也有翻译为“受试者”，后文统一翻译为 “被试”）、研究者和研究问题的多样性。但我们注意到一个令人担忧的趋势：基础科研设施中原先存在的不平等似乎在大团队科学中继续延续。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;2021年的一项分析指出，前殖民地国家的研究人员往往无法获得参与大团队科学所需的实验室空间和资金&lt;sup&gt;9&lt;/sup&gt;。这并不奇怪，这些不平等似乎也影响了谁来领导这些工作。在本次调研中，没有一个行为科学大团队项目是由发展中国家的研究人员领导的。此外，ManyBabies、心理科学加速器、营养素网络和DRAGNet的联合管理和指导委员会中，只有4名（委员会共32人）成员来自北美或西欧之外（委员会成员的来源地：美国17人，加拿大5人，西欧6人，肯尼亚1人，阿根廷1人，澳大利亚1人和印度1人）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;大团队科学理应找到改变上述趋势的方法。例如，心理科学加速器利用捐款向代表性不足的地区的研究人员发放参与补助。ManyBabies联盟推出了其第一项研究的扩展：在瑞士苏黎世的Jacobs基金会的支持下，ManyBabies联盟为非洲的数据收集提供资金、培训和支持。DRAGNet通过让资源匮乏的机构将种子样本运送到资源较好的机构进行处理，最大限度地降低了成本。ManyPrimates团队通过参加代表性不足的地区的学术会议，同时用西班牙语或法语等语言的出版物向当地的学术共同体传播知识，促进了该项目与代表性不足的南半球地区的联系。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;研究人员也可以通过培训和支持代表性不足地区的研究人员来尝试缩小基础科研设施的差距。例如，在心理科学加速器的几名成员支持的大力支持下，一名来自尼日利亚的博士生领导了一个大团队项目，在非洲各地区调查人们如何评价道德过失&lt;sup&gt;10&lt;/sup&gt;。
+&lt;h4&gt;&lt;b&gt;困难3：资金和可持续性&lt;/b&gt;&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;尽管大团队项目有公认的产出，成员们都在不断地努力以维持大团队的持续，这些项目的建立往往只需要很少的资金。但是如果没有资金支持，它们还是很难维持。大团队科学需要资金来留住那些知道如何开展“下一代”大规模协同研究的科研人员，需要资金用于维护日益复杂的工作流程管理工具，也需要资金用于支持那些资源不足的研究人员。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;例如，第一项心理科学加速器研究考察了世界各地的人们是如何根据面部外观来判断他人的&lt;sup&gt;11&lt;/sup&gt;。该项目由241个合作者参与，采集了41个国家11570名被试数据。原则上，这项研究需要花费数十万美元。假设数据收集过程，每名被试研究助理的报酬是30分钟5美元，那么整个研究的成本会超过115,000美元。如果考虑到项目管理的劳动力成本，花费会更高，这其中包括获得150多份伦理批准文件，将研究材料翻译成23种语言，以及开发研究工具来跟踪进展并验证来自世界各地实验室的数据（见go.nature.com/3jcsutx）。实际上，由于数百名合作者捐赠了他们的时间和资源以弥补差额，该项目正式运作的费用不到2000美元（见go.nature.com/3qstumf）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;靠微薄的捐款运行的研究工作既不可能持续，也难以扩大。这一事实在2020年初变得很明显，当时心理科学加速器收到了66份关于COVID-19新冠病毒肺炎大流行下的心理学全球研究项目的紧急提案。但是出于经济上的考虑，心理科学加速器不得不拒绝了大部分提案，只保留了三个提案。一个被拒绝的提案旨在减少谣言的传播：在分享新闻之前提醒人们考虑其准确性是否有助于减少新冠疫情时期的各种假新闻和谣言？现在，每当我们看到诸如“抗寄生虫药物可以预防新冠”、“孕妇不应该接种新冠疫苗”或“COVID-19疫苗含有微型芯片”之类的谣言时，就会痛苦地想起那项因缺乏资金而未能进行的研究提案。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为什么“草根”的大团队科学行动很难获得资金？政府和慈善资助者提供了各种理由。例如，大团队科学最终会因为学术界的利己规则而被证明是不可持续的；大团队科学在研究人员和研究问题方面仍然不够多样化；大团队科学的工作系统尚未建设好，无法处理有数百个合作者的提案，也无法处理向几十个研究机构发出资助请求。最令人受挫的一个理由是：目前大团队科学在没有得到政府和慈善资助的情况下也能运行（所以不用资助了）。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;领导大团队科学运动有时感觉就像在没有绳索的情况下攀登世界上最高的山峰。我们已经瞥见了山峰，可以想象绝顶之上的风光，但我们缺乏装备和资源来攀登得更高。在学术机构和资助者提供早就该提供的支持之前，大团队科学未来的每一步都会变得愈加艰难。
+&lt;hr style=&#34;border: none; height: 3px; background-color: #ccc; margin: 20px 0;&#34;&gt;
+&lt;h3&gt;参考文献&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Byers-Heinlein, K. et al. Can. Psychol. Can. 61, 349–363 (2020).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Oakes, L. M. Infancy 22, 436–469 (2017).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ManyBabies Consortium. Adv. Methods Pract. Psychol. Sci. 3, 24–52 (2020).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Forscher, P. S. et al. Preprint at PsyArXiv &lt;a href=&#34;https://doi.org/10.31234/osf.io/2mdxh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31234/osf.io/2mdxh&lt;/a&gt; (2020).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moshontz, H. et al. Adv. Methods Pract. Psychol. Sci. 1, 501–515 (2018).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Many Primates et al. PLoS ONE 14, e0223675 (2019).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grigsby Coffey, M. ‘The Unselfish Academic’ Auntie Bellum Magazine (3 December 2016).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Many Primates et al. Preprint at PsyArXiv &lt;a href=&#34;https://doi.org/10.31234/osf.io/5etnf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31234/osf.io/5etnf&lt;/a&gt; (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Silan, M. et al. Assoc. Psychol. Sci. Obs. 34 (6), 64–69 (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adetula, A. et al. Preprint at AfricArXiv &lt;a href=&#34;https://doi.org/10.31730/osf.io/hxjbu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31730/osf.io/hxjbu&lt;/a&gt; (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jones, B. C. et al. Nature Hum. Behav. 5, 159–169 (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wang, K. et al. Nature Hum. Behav. 5, 1089–1110 (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Borer, E. T. et al. Nature 508, 517–520 (2014).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Coles, N. A. et al. Preprint at PsyArXiv &lt;a href=&#34;https://doi.org/10.31234/osf.io/cvpuw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.31234/osf.io/cvpuw&lt;/a&gt; (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Errington, T. M. et al. eLife 10, e71601 (2021).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 信号检测论的贝叶斯估计 (四)</title>
+      <link>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF4/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 4&lt;br&gt;
+&lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-4/&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
+&lt;b&gt;译者：&lt;/b&gt;田宇浩 刘帅呈&lt;br&gt;
+&lt;b&gt;校对：&lt;/b&gt;胡传鹏 金海洋&lt;br&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;h3&gt;分层EVSDT模型&lt;/h3&gt;
+&lt;h4&gt;案例数据&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;为展示如何使用层级EVSDT模型对信号检测论结果进行贝叶斯估计，本文选用了一个包含48名被试的数据。其中每名被试均根据自身对呈现刺激的确信程度报告新刺激(或旧刺激)的评价等级，对刺激的新旧进行6点计分评级：1 =“呈现刺激肯定为新刺激”, …, 6 =“呈现刺激肯定为旧刺激” (Koen etal., 2013)。R语言的MPTinR包中包含该案例数据(Singmann, &amp; Kellen, 2013)。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在该实验中 (Koenet al., 2013)，被试完成学习阶段识记后在无干扰条件(全神贯注)或在干扰条件(执行一个额外任务)下完成再认测验阶段。我们这里关注在无干扰条件下被试判断的评级数据。我从该篇文章的附录中摘出了新旧项目判断的计数表如下所示(以确保我们使用了相同的数据)。&lt;/p&gt;
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
+  &lt;table border=&#34;1&#34; style=&#34;border-collapse: collapse; min-width: 700px;&#34;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;isold&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;1&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;&lt;td&gt;old&lt;/td&gt;&lt;td&gt;2604&lt;/td&gt;&lt;td&gt;634&lt;/td&gt;&lt;td&gt;384&lt;/td&gt;&lt;td&gt;389&lt;/td&gt;&lt;td&gt;422&lt;/td&gt;&lt;td&gt;309&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;new&lt;/td&gt;&lt;td&gt;379&lt;/td&gt;&lt;td&gt;356&lt;/td&gt;&lt;td&gt;454&lt;/td&gt;&lt;td&gt;871&lt;/td&gt;&lt;td&gt;1335&lt;/td&gt;&lt;td&gt;1365&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对于完整的R代码(包括数据的预处理)，请参阅这篇博客的源代码(https://github.com/mvuorre/vuorre.netlify.com/blob/master/content/post/2017-10-30-bayesian-estimation-of-signal-detection-theory-models-part-4.Rmd)。为简练起见，本篇博客中省略了一些不太重要的代码。&lt;/p&gt;
+&lt;h4&gt;模型语法&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这是我们用于估计单个被试信号检测论模型的brms语法：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+uvsdt_m &lt;-bf(y ~ isold, disc ~ 0 + isold)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;上述语法是由以下7个参数组成的：在y[1]上的5个截距(在累计概率(cumulative probit)模型中又称为阈限(thresholds))；isold 对y的影响；和isold 对辨别参数disc[2]的影响。之所以存在5个截距(阈限)是因为存在6种反应类别。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;通过设定所有被试都拥有自己特定的上述参数(数据中的id变量)，我们将前面的代码扩展到了层级模型。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+  uvsdt_h &lt;-bf(y ~ isold + (isold |s| id),
+              disc~ 0 + isold + (0 + isold |s| id))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;回想一下以前使用|s|来估计各种变量间相关的博客。与这些阈值相关的只有一个标准差。也就是说，这个模型假设被试所有的阈限相对于均值的变化是相似的。&lt;/p&gt;
+[1] 截距是自动被包含在模型中，但是截距也能通过添加1到这个公式的右侧来明确地被包含在模型中。&lt;br&gt;
+[2] 0 + ...移除了这个模型的截距。
+&lt;h4&gt;先验分布&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我设置辨别力指标d’的先验为N(1, 3)(即均值为1，标准差为3的正态分布[3])，因为我知道被试的任务表现通常都很好。可能这个先验分布也受到了我阅读这篇文献的影响！我设置a的先验为N(0, 1)：这个参数通常来说是在-1/4左右，但是这里我忽略了这个信息。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我设定被试间标准差的先验分布为 t(7, 0, .33)，这反映出我假设被试间应该存在中等程度的相似，但也允许存在更大的偏差(该先验分布表示自由度为7，平均数为0，标准差为0.33的t分布)。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+Prior &lt;- c(prior(normal(1, 3), class = &#34;b&#34;, coef = &#34;isold&#34;),
+          prior(normal(0, 1), class = &#34;b&#34;, coef = &#34;isold&#34;, dpar = &#34;disc&#34;),
+          prior(student_t(7, 0, .33), class = &#34;sd&#34;),
+          prior(student_t(7, 0, .33), class = &#34;sd&#34;, dpar = &#34;disc&#34;),
+          prior(lkj(2), class = &#34;cor&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+[3] 译者注。
+&lt;h4&gt;估计并总结参数&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们可以像之前一样(参见本系列先前文章)估计这个模型。但请注意，这个模型的估计耗时相当长(注意我已经将默认的2000次迭代次数减少到了500次)。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fit &lt;- brm(uvsdt_h,
+           family =cumulative(link=&#34;probit&#34;),
+           data =d,
+           prior =Prior,
+           control= list(adapt_delta = .9), inits = 0,
+           cores = 4, iter = 500,
+           file =here::here(&#34;static/data/sdtmodel4-1&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们接着展示该模型的参数估计结果。请注意这里有效样本量偏小，并且Rhat说明从后验中提取更多的样本对我们更有利。实际应用的时候，我建议每个链条(chain)要超过500次迭代。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fit)
+##  Family: cumulative
+##   Links: mu = probit; disc = log
+## Formula: y ~ isold + (isold | s | id)
+##          disc ~ 0 + isold + (0 + isold | s | id)
+##    Data: d (Number of observations: 9502)
+## Samples: 4chains, each with iter = 500; warmup = 250; thin = 1;
+##          total post-warmup samples = 1000
+##
+## Group-LevelEffects:
+## ~id (Number oflevels: 48)
+##                           Estimate Est.Errorl-95% CI u-95% CI Eff.Sample
+##sd(Intercept)                 0.35      0.04    0.28     0.43        210
+## sd(isold)                     0.79      0.10    0.62     1.01        321
+##sd(disc_isold)                0.46      0.05    0.38     0.55        319
+##cor(Intercept,isold)         -0.47      0.12   -0.68    -0.22        121
+##cor(Intercept,disc_isold)     0.35      0.13    0.08     0.58        273
+##cor(isold,disc_isold)        -0.76      0.07   -0.87    -0.61        455
+##                           Rhat
+##sd(Intercept)             1.03
+## sd(isold)                 1.00
+##sd(disc_isold)            1.01
+##cor(Intercept,isold)      1.03
+##cor(Intercept,disc_isold) 1.02
+##cor(isold,disc_isold)     1.00
+##
+## Population-LevelEffects:
+##              Estimate Est.Error l-95% CI u-95%CI Eff.Sample Rhat
+## Intercept[1]    -0.60     0.05    -0.70    -0.49       200 1.00
+## Intercept[2]     0.20     0.05     0.09     0.30       197 1.00
+## Intercept[3]     0.69     0.05     0.60     0.80       203 1.00
+## Intercept[4]     1.04     0.05     0.94     1.14       212 1.01
+## Intercept[5]     1.49     0.05     1.39     1.59       230 1.00
+## isold            1.86      0.12    1.63     2.10        119 1.04
+## disc_isold      -0.38     0.07    -0.52    -0.25       112 1.05
+##
+## Samples weredrawn using sampling(NUTS). For each parameter, Eff.Sample
+## is a crudemeasure of effective sample size, and Rhat is the potential
+## scale reductionfactor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;让我们首先看一下“群体水平的效应(Group-Level Effects)”：“人均(average person)”isold的效应就是辨别力指标d’，它非常接近论文中所报告的结果(目测Koen et al. (2013)中的图3得到；这个d’在该论文中未被报告)。由于模型的参数化，disc_isold为−log(σsignal)=−a。这篇论文探讨了Vo=σsignal，因此我们将来自-a中的每个后验样本转换为符合Vo的后验分布样本。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+samples &lt;- posterior_samples(fit, &#34;b_&#34;) %&gt;%
+    mutate(Vo =exp(-b_disc_isold))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们由此可以对于模型中包括Vo在内的每个样本群体水平的效应绘制密度曲线(Gabry 2017) 。图1表明我们对于Vo的估计与论文报告的结果非常接近(Figure 3 in Koen et al. (2013)).&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+library(bayesplot)
+mcmc_areas(samples, point_est = &#34;mean&#34;, prob = .8)
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1uvsdt模型中群体水平效应的后验分布的密度图不同的参数标注在y轴上而分布值在x轴上表示垂直线为后验均值阴影区域为80可信区间&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_1.png&#34; alt=&#34;图1:UVSDT模型中群体水平效应的后验分布的密度图。不同的参数标注在y轴上，而分布值在x轴上表示。垂直线为后验均值，阴影区域为80%可信区间。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1:UVSDT模型中群体水平效应的后验分布的密度图。不同的参数标注在y轴上，而分布值在x轴上表示。垂直线为后验均值，阴影区域为80%可信区间。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4&gt;异质性参数&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;尽管“群体水平估计”(或许更应称为“平均效应”)通常是研究中推断的主要目标，但它们并不是故事的全部，也不一定是所有故事中最有趣的部分。可以确定的是，当允许信号分布的标准差变化时，它通常大于1。但是这个参数在被试间的差异却很少有人关注。图2揭示了a的被试间异质性是相当大的：个体差异的标准差大概在0.5左右。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+samples_h &lt;- posterior_samples(fit, c(&#34;sd_&#34;, &#34;cor_&#34;))
+mcmc_areas(samples_h, point_est = &#34;mean&#34;, prob = .8)
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2uvsdt模型参数的标准偏差和相关参数的密度图带有-sd_id__的参数是-id间的标准差带有-cor_id__的参数是-id间的相关性&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_2.png&#34; alt=&#34;图2：UVSDT模型参数的标准偏差和相关参数的密度图。带有“ sd_id__”的参数是-id间的标准差，带有“ cor_id__”的参数是-id间的相关性。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2：UVSDT模型参数的标准偏差和相关参数的密度图。带有“ sd_id__”的参数是-id间的标准差，带有“ cor_id__”的参数是-id间的相关性。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图2还告诉我们，个体差异的辨别力指标d’和与a是相关的(‘cor_id__isold__disc_isold’)。我们可以通过同时绘制信号方差和辨别力指数d’的个体差异来进一步研究这种关系：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3个体差异标准差左和辨别力指数d右后验分布的脊线图被试在y轴上的顺序是相同的以此更好地展现两变量间的关系&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_3.png&#34; alt=&#34;图3:个体差异标准差(左)和辨别力指数d’(右)后验分布的脊线图。被试在y轴上的顺序是相同的，以此更好地展现两变量间的关系。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3:个体差异标准差(左)和辨别力指数d’(右)后验分布的脊线图。被试在y轴上的顺序是相同的，以此更好地展现两变量间的关系。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;从图3的山脊线图(Wilke 2017)中可以看出，信号标准差(σsignal)越大的被试越倾向于有更大的辨别力指数d’：伴随着信号分布变异性的提高，被试再认的敏感性同样提高。图2的密度图还清楚地表明，我们并不确定哪些被试的(哪一个指标)是更大的，正如后验分布所展示的那样。图4所示的后验均值散点图是可视化这种关系的另一种方法。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图4个体特异性的辨别力指标和信号分布标准差的后验均值散点图&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af4_4.png&#34; alt=&#34;图4:个体特异性的辨别力指标和信号分布标准差的后验均值散点图。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图4:个体特异性的辨别力指标和信号分布标准差的后验均值散点图。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4&gt;总结&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;使用R的brms包( Bürkner2017)在贝叶斯框架下估计EVSDT和UVSDT模型既简单(相对而言)，又可以提供足够的信息。在这篇文章中，我们使用了很少的几行代码估计了一个层级非线性认知模型。以往有关此主题的文献(e.g. Rouder et al. (2007)关注了使用复杂的方法实现更简单的模型(EVSDT)——希望在本文中，我已经展示了，只要对R语言有些了解，这些模型都在可理解的范围内。&lt;/p&gt;&lt;p style=&#34;text-indent:32.4px&#34;&gt;值得一提的另外一点是关于层次模型的更普遍的观点：我们知道被试在我们的模型中引入了(随机)变异。忽略这些变异显然是不好的(Estes 1956)。更合适的做法是对这种变异性进行建模，并使用所得的参数来推断个体间的参数异质性(更概括地说，即是认知策略)。尽管最大似然法提供了我在这里所说的被试间异质性参数，但贝叶斯方法可以得出有关这些参数更明确的结论。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;参考文献&lt;/h3&gt;
+&lt;i&gt;
+&lt;p&gt;[1] Bürkner, Paul-Christian. 2017. “Brms: An RPackage for Bayesian Multilevel Models Using Stan.” Journal ofStatistical Software 80 (1): 1–28. &lt;a href=&#34;https://doi.org/10.18637/jss.v080.i01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18637/jss.v080.i01&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[2] Estes, W.K. 1956. “The Problem of Inferencefrom Curves Based on Group Data.” Psychological Bulletin 53(2): 134–40. &lt;a href=&#34;https://doi.org/10.1037/h0045156&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/h0045156&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[3] Gabry, Jonah. 2017. Bayesplot: Plottingfor Bayesian Models. &lt;a href=&#34;http://mc-stan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mc-stan.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[4] Koen, Joshua D., Mariam Aly, Wei-Chun Wang, andAndrew P. Yonelinas. 2013. “Examining the Causes of Memory StrengthVariability: Recollection, Attention Failure, or Encoding Variability?” Journalof Experimental Psychology: Learning, Memory, and Cognition 39 (6):1726–41. &lt;a href=&#34;https://doi.org/10.1037/a0033671&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/a0033671&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[5] Macmillan, Neil A., and C. Douglas Creelman.2005. Detection Theory: A User’s Guide. 2nd ed. Mahwah, N.J:Lawrence Erlbaum Associates.&lt;/p&gt;
+&lt;p&gt;[6] McNicol, Don. 2005. A Primer of SignalDetection Theory. Psychology Press.&lt;/p&gt;
+&lt;p&gt;[7] R Core Team. 2017. R: A Language andEnvironment for Statistical Computing. Vienna, Austria: R Foundation forStatistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[8] Rouder, Jeffrey N., Jun Lu, Dongchu Sun, PaulSpeckman, Richard D. Morey, and Moshe Naveh-Benjamin. 2007. “Signal DetectionModels with Random Participant and Item Effects.” Psychometrika 72(4): 621–42. &lt;a href=&#34;https://doi.org/10.1007/s11336-005-1350-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11336-005-1350-6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[9] Singmann, Henrik, and David Kellen. 2013.“MPTinR: Analysis of Multinomial Processing Tree Models in R.” BehaviorResearch Methods 45 (2): 560–75. &lt;a href=&#34;https://doi.org/10.3758/s13428-012-0259-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/s13428-012-0259-0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[10] Wilke, Claus O. 2017. Ggridges:Ridgeline Plots in ’Ggplot2’. &lt;a href=&#34;https://CRAN.R-project.org/package=ggridges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=ggridges&lt;/a&gt;.&lt;/p&gt;
+&lt;/i&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 信号检测论的贝叶斯估计 (三)</title>
+      <link>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF3/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 3&lt;br&gt;
+&lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-3/&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
+&lt;b&gt;译者：&lt;/b&gt;刘帅呈 高昊&lt;br&gt;
+&lt;b&gt;校对：&lt;/b&gt;胡传鹏 金海洋 于玮烨&lt;br&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;h3&gt;引言&lt;/h3&gt;
+&lt;h4&gt;案例数据：评级任务&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们首先使用来自Decarlo（2003）的示例数据，简单地讨论一下评级任务。在之前的文章中，我们讨论了信号检测实验。这个实验中的实验材料要么是旧的，要么是新的，被试对实验材料进行 “旧”或“新”的二项的反应。在这里，我们将对实验任务进行简单的修改，被试将表达他们的（不）确定性：即在每个试次（trial）中呈现的实验材料依旧是旧的或者新的，但是被试需要对他们关于刺激材料的判断做出确信度评级。例如，在下面的数据中，参与者可以用数字来回答，表示他们认为这个项目是旧的确信度：1 =肯定是新的，…，6 =肯定是旧的。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对于结果数据的一个解释是，被试为确信度评级设置了许多标准，例如：反应为6比反应为4需要更多的证据。也就是说，在回答“肯定是新的”、“可能是新的”等问题时，会有不同的标准。然而，被试的辨别力应该不受影响。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;下面的案例数据以一种汇总的形式呈现（整理了新或者旧（isold=1）两种试次类型中每个确信度的反应数量（Decarlo，2003））：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+library(tidyverse)
+dsum &lt;- tibble( 
+      isold = c(0,0,0,0,0,0,1,1,1,1,1,1),
+      y =c(1:6, 1:6）,
+      count = c(174, 172, 104, 92, 41, 8, 46, 57, 66, 101, 154, 173)
+      )
+dsum
+  ## # A tibble: 12 x 3
+  ##   isold     y count
+  ##   &amp;lt;dbl&amp;gt; &amp;lt;int&amp;gt; &amp;lt;dbl&amp;gt;
+  ## 1   0   1  174
+  ## 2   0   2  172
+  ## 3   0   3  104
+  ## 4   0   4  92
+  ## 5   0   5   41
+  ## 6   0   6   8
+  ## 7   1   1   46
+  ## 8   1   2   57
+  ## 9   1   3   66
+  ## 10   1   4   101
+  ## 11   1   5   154
+  ## 12   1   6   173
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;然而，这几篇博客文章的一个主题是：我们不需要将数据汇总为计数数据（或单元（cell）数据，或类似的），而是尽可能的直接使用实验提供的原始数据。我认为，特别是当我们想包含协变量时，使用这种试次水平的数据在计算和概念上都更容易。以下是原始试次水平格式的数据：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+d &lt;- tibble( 
+      isold = c(rep(0, 174), rep(0, 172), rep(0, 104), rep(0, 92), rep(0, 41), rep(0, 8),
+      rep(1, 46), rep(1, 57), rep(1, 66), rep(1, 101), rep(1, 154), rep(1, 173)),
+      y = c(rep(1, 174), rep(2, 172), rep(3, 104), rep(4, 92), rep(5, 41), rep(6, 8),
+      rep(1, 46), rep(2, 57), rep(3, 66), rep(4, 101), rep(5, 154), rep(6, 173)) 
+  ) 
+  d
+  ## # A tibble: 1,188 x 2
+  ##    isold     y
+  ##    &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;
+  ##  1     0     1
+  ##  2     0     1
+  ##  3     0    1
+  ##  4     0     1
+  ##  5     0     1
+  ##  6     0     1
+  ##  7     0     1
+  ##  8     0     1
+  ##  9     0     1
+  ## 10     0     1
+  ## # ... with 1,178 more rows
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;（上面的代码不够整洁，如果有人知道可以把汇总数据整理为整洁的试次水平数据的其他方法，请告诉我。）如果你想在自己的电脑上面尝试，可以在R语言上执行上述代码。我们现在可以从EVSDT模型开始，让信号检测论模型拟合这个被试的数据。&lt;/p&gt;
+&lt;h3&gt;EVSDT：一个被试的评级反应&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;回忆一下，二项反应的EVSDT模型中，我们对概率P（在试次i中是旧的反应）进行了建模：&lt;/p&gt;
+$$
+p_i = Φ(d&#39;\text{isold}_i - C)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型呈现了对新的实验材料反应为旧（c=zFAR）的概率（z分数），以及对旧的实验材料反应依然为旧（d&#39;）的增量（z分数）。对于评级数据，模型是相似的，只是现在包含了多个c。这表示对不同确信度评级反应的不同标准。这些标准被认为是有顺序的——当试次中的信号（记忆强度）较弱时，与报告“确定为旧”相比，人们应该更容易报告“不确定为旧”。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;评级反应的EVSDT模型对反应确信度评级为k或更低（信心评级）的累计概率进行建模：&lt;/p&gt;
+$$
+p(y_i \ ≤ k_i) = Φ(d&#39;\text{isold}_i - C_{ki})
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型也被称为序数概率Φ模型（Ordinal Probit Model），它可以通过很多回归模型软件进行拟合。Decarl（2003）展示了在SPSS中如何使用PLUM程序拟合单个被试的模型。然而，我们可以通过在R语言中brms工具包（Bürkner，2017; Stan Development Team，2016）估计这个模型并得到该模型的贝叶斯推论。使用该模型（暂时不考虑先验分布）对上述数据进行估计的brms语法如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fit1 &lt;- brm(y ~ isold, 
+            family = cumulative(link=&#34;probit&#34;), 
+            data = d,
+            cores = 4,
+          file = here::here(&#34;static/data/sdtmodel3-1&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型估计了每个反应类别的截距（反应标准）和isold的效应，即d&#39;。模型的后验分布总结如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fit1)
+  ##  Family: cumulative
+  ##   Links: mu = probit; disc = identity
+  ## Formula: y ~ isold
+  ##    Data: d (Number of observations: 1188)
+  ## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+  ##          total post-warmup samples = 4000
+  ##
+  ## Population-Level Effects:
+  ##              Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+  ## Intercept[1]    -0.44      0.05    -0.54    -0.35       4256 1.00
+  ## Intercept[2]     0.23      0.05     0.14     0.33       5885 1.00
+  ## Intercept[3]     0.67      0.05     0.57     0.77       4736 1.00
+  ## Intercept[4]     1.20      0.06     1.09     1.31       4620 1.00
+  ## Intercept[5]     1.88      0.07     1.75     2.01       4436 1.00
+  ## isold            1.26      0.07     1.13     1.39       4157 1.00
+  ##
+  ## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample
+  ## is a crude measure of effective sample size, and Rhat is the potential
+  ## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;5个截距是模型中的5个标准，isold为d&#39;。我也用SPSS对这个模型进行了估计，比较这两种方法的结果可能会有帮助：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+PLUM y WITH x
+  /CRITERIA=CIN(95) DELTA(0) LCONVERGE(0) MXITER(100) MXSTEP(5) PCONVERGE(1.0E-6) SINGULAR(1.0E-8)
+  /LINK=PROBIT
+  /PRINT=FIT KERNEL PARAMETER SUMMARY.
+Parameter Estimates
+|-----------------|--------|----------|-----------------------------------|
+|                 |Estimate|Std. Error|95% Confidence Interval            |
+|                 |        |          |-----------------------|-----------|
+|                 |        |          |Lower Bound            |Upper Bound|
+|---------|-------|--------|----------|-----------------------|-----------|
+|Threshold|[y = 1]|-.442   |.051      |-.541                  |-.343      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 2]|.230    |.049      |.134                   |.326       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 3]|.669    |.051      |.569                   |.769       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 4]|1.198   |.056      |1.088                  |1.308      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 5]|1.876   |.066      |1.747                  |2.005      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Location |x      |1.253   |.065      |1.125                  |1.381      |
+|-------------------------------------------------------------------------|
+Link function: Probit.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;不出所料，从brms得到的数值结果（后验均值和标准差，可信区间）与从SPSS中得到的频率论结果相匹配。&lt;/p&gt;&lt;p style=&#34;text-indent:32.4px&#34;&gt;现在我们可以用图形来说明估计的参数如何映射到信号检测论模型。d&#39;是信号和噪音分布峰值之间的距离：表示被试分辨信号和噪音的能力。这5个截距是指对不同确信度评级的标准（z分数）。如果把z分数换算成比例（例如使用R语言中的pnorm()函数），他们测量的是在噪音分布下z分数左边的累积面积(模型图见图1)。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1通过参数后验均值可视化的等方差高斯信号检测模型这两个分布一个是噪音分布虚线一个是信号分布实线竖直的点线是反应标准d是两个分布的峰值距离&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_1.png&#34; alt=&#34;图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&amp;#39;是两个分布的峰值距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1:通过参数后验均值可视化的等方差高斯信号检测模型。这两个分布一个是噪音分布（虚线），一个是信号分布（实线）。竖直的点线是反应标准，d&amp;rsquo;是两个分布的峰值距离。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;h3&gt;UVSDT：一个被试的评级反应&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;值得注意的是，上面的模型假设信号和噪音分布的方差相等。不等方差SDT模型（UVSDT）允许信号分布和噪音分布有不同的方差（噪音的标准差还是固定为1），并且当允许信号分布的标准差变化时，它始终大于1。&lt;/p&gt;&lt;p style=&#34;text-indent:32.4px&#34;&gt;UVSDT模型增加了一个参数(Decarlo，2003)来描述信号分布的标准差。我们可以把它作为一个比例参数包含在上面的公式中。但是因为标准差的参数一定大于零，为方便起见，可以使用$\text{log}(σ_\text{old}) = a$：&lt;/p&gt;
+$$
+p(y_i \le k_i) = \Phi\left(\frac{d&#39; \cdot \text{isold}_i - c_k}{\exp(a \cdot \text{isold}_i)}\right)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这种非线性模型，也被称为不等误差概率模型（a probit model with heteroscedastic error， 例如：DeCarlo （2010）），可以使用brms工具包进行估计。最初，我认为我们可以写出非线性brms公式来描述序数概率模型，但是brms不支持非线性累积序数模型。然后，我开始修改原始的Stan代码去估算该模型，尽管这样做可行，但对于开展实证研究却不太实用，因为并不是每个人都想编写Stan代码。&lt;/p&gt;&lt;p style=&#34;text-indent:32.4px&#34;&gt;在与brms的创建者Paul Bürkner进行多次交流之后（Paul Bürkner在免费和开源软件上做了很多努力，应该为他颁发金牌），我发现，在默认情况下brms在序数回归模型中包含类似的参数。如果您向上滚动并查看fit1的总结，你可以在最上面看到该模型的公式为：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+Formula: y ~ isold      
+         disc = 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;换句话说，有一个“discrimination”参数disc，默认情况下设置为1。这里是brms如何参数化序数概率模型的：&lt;/p&gt;
+$$
+p(y_i \le k_i) = \Phi\left(disc * \left( c_{ki} - d&#39; \text{isold}_i\right)\right)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;重要的是，我们还可以在disc上包含预测变量。在这种情况下，当isold为1时，我们想对disc进行估计。因此，新实验材料的disc为1，但是旧实验材料的disc需要从实验数据中估计得来。默认情况下，该参数是通过对数链接函数（a log linkfunction）进行建模，因此包含一个0/1预测因子（isold）就应该可以正常工作：&lt;/p&gt;
+$$
+p(y_i \le k_i) = \Phi\left(\exp(disc\text{isold}_i) * \left( c_{ki} - d&#39; \text{isold}_i\right)\right)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;因此，我们只需对EVSDT模型的代码进行一些细微调整即可估算该模型：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+uvsdt_m &lt;- bf(y ~ isold, disc ~ 0 + isold)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型中有两个brms公式。首先，我们对&lt;span style=&#34;color:#d23;&#34;&gt; y ~ isold&lt;/span&gt;已经很熟悉了。在第二个公式中，我们编写&lt;span style=&#34;color:#d23;&#34;&gt;disc ~ 0 + isold&lt;/span&gt;以防止模型对噪声分布的这个参数进行估计：回忆一下，我们已经将噪声分布的标准差设置为1（通过$\exp(disc * 0) = 1$实现）。在R语言中（以及brms中），建模语法&lt;span style=&#34;color:#d23;&#34;&gt;0 + ...&lt;/span&gt;意味着从模型中除去截距。通过仅包含&lt;span style=&#34;color:#d23;&#34;&gt;isold&lt;/span&gt;，我们可以实现如上所述的0/1预测因子。然后，我们可以估算该模型：
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fit2 &lt;- brm(uvsdt_m,
+            family = cumulative(link=&#34;probit&#34;),
+            data = d,
+            control = list(adapt_delta = .99),
+            cores = 4,
+            file = here::here(&#34;static/data/sdtmodel3-2&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+该模型参数的估计结果如下：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fit2)
+  ##  Family: cumulative
+  ##   Links: mu = probit; disc = log
+  ## Formula: y ~ isold
+  ##          disc ~ 0 + isold
+  ##    Data: d (Number of observations: 1188)
+  ## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+  ##          total post-warmup samples = 4000
+  ##
+  ## Population-Level Effects:
+  ##              Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+  ## Intercept[1]    -0.54      0.05    -0.64    -0.43       3420 1.00
+  ## Intercept[2]     0.20      0.05     0.11     0.30       5291 1.00
+  ## Intercept[3]     0.71      0.05     0.61     0.82       4472 1.00
+  ## Intercept[4]     1.37      0.07     1.25     1.51       2203 1.00
+  ## Intercept[5]     2.31      0.11     2.10     2.54       1562 1.00
+  ## isold            1.53      0.10     1.35     1.72       1724 1.00
+  ## disc_isold      -0.36      0.06    -0.48    -0.24       1501 1.00
+  ##
+  ## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample
+  ## is a crude measure of effective sample size, and Rhat is the potential
+  ## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;注意，我们需要翻转disc参数的符号以获得。对其求幂为我们提供了信号分布的标准差，并且由于我们是在贝叶斯框架中估算模型，因此我们得到的是该参数的后验分布，绘制在图2的y轴上。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2拟合一个被试数据获得的两个uvsdt参数d和信号分布的标准偏差的近似联合后验概率密度浅黄色表示较高的后验密度红点表示从spss的序数回归模块获得的最大似然估计&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_2.png&#34; alt=&#34;图2：拟合一个被试数据获得的两个UVSDT参数（d&amp;#39;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2：拟合一个被试数据获得的两个UVSDT参数（d&amp;rsquo;和信号分布的标准偏差）的（近似）联合后验（概率）密度。浅黄色表示较高的后验密度。红点表示从SPSS的序数回归模块获得的最大似然估计。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们还可以将brms的结果与SPSS的结果（Decarl，2003描述的SPSS程序）进行比较：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+PLUM y WITH x
+  /CRITERIA=CIN(95) DELTA(0) LCONVERGE(0) MXITER(100) MXSTEP(5) PCONVERGE(1.0E-6) SINGULAR(1.0E-8)
+  /LINK=PROBIT
+  /PRINT=FIT KERNEL PARAMETER SUMMARY
+  /SCALE=x .
+Parameter Estimates
+|-----------------|--------|----------|-----------------------------------|
+|                 |Estimate|Std. Error|95% Confidence Interval            |
+|                 |        |          |-----------------------|-----------|
+|                 |        |          |Lower Bound            |Upper Bound|
+|---------|-------|--------|----------|-----------------------|-----------|
+|Threshold|[y = 1]|-.533   |.054      |-.638                  |-.428      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 2]|.204    |.050      |.107                   |.301       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 3]|.710    |.053      |.607                   |.813       |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 4]|1.366   |.067      |1.235                  |1.498      |
+|         |-------|--------|----------|-----------------------|-----------|
+|         |[y = 5]|2.294   |.113      |2.072                  |2.516      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Location |x      |1.519   |.096      |1.331                  |1.707      |
+|---------|-------|--------|----------|-----------------------|-----------|
+|Scale    |x      |.348    |.063      |.225                   |.472       |
+|-------------------------------------------------------------------------|
+Link function: Probit.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;再次，因为我们使用了无信息先验分布（uninformative prior distributions），最大似然估计（SPSS）的结果在数值上与我们贝叶斯的结果相匹配。绘制模型的分布图显示，信号分布比噪声分布具有更大的方差（图3）。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3参数后验均值可视化的不等方差高斯信号检测论模型这两个分布是噪声分布虚线和信号分布实线竖直点线是反应标准d是两个分布的峰之间的比例距离&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_3.png&#34; alt=&#34;图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&amp;#39;是两个分布的峰之间的比例距离。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3：参数后验均值可视化的不等方差高斯信号检测论模型。这两个分布是噪声分布（虚线）和信号分布（实线）。竖直点线是反应标准。d&amp;rsquo;是两个分布的峰之间的比例距离。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;研究者所感兴趣的其他百分比数所对应的量（quantities）可以从参数后验分布中计算得来。从后验中获取样本的一个好处是，如果我们逐行完成这些计算，我们将自动获得这些后验分布（样本）其他百分比数所对应的量。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在这里，我们计算这样一个量：噪声与信号标准差之比（$\exp(-a)$；注意：我们的模型以&lt;i&gt;disc_isold&lt;/i&gt;形式返回&lt;i&gt;-a&lt;/i&gt;），这也是z-ROC曲线的斜率。我们将首先获取&lt;span style=&#34;color:#d23;&#34;&gt;disc_isold&lt;/span&gt;的后验样本，然后计算比率，并汇总后验样本分布中2.5％，50％和97.5％所对应的量。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+as.data.frame(fit2, pars = &#34;b_disc_isold&#34;) %&gt;%    
+transmute(ratio = exp(b_disc_isold)) %&gt;%
+    pull(ratio) %&gt;%
+    quantile(probs = c(.025, .5, .975))
+##  2.5%   50% 97.5%
+## 0.618 0.699 0.788
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这些展示了参数的95％可信区间和中位数。这些可以在出版物中来描述对应的参数。我们还可以将后验分布绘制为直方图：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+as.data.frame(fit2, pars = &#34;b_disc_isold&#34;) %&gt;%
+    transmute(ratio = exp(b_disc_isold)) %&gt;%
+    ggplot(aes(ratio)) +
+    geom_histogram(col=&#34;black&#34;, fill=&#34;gray70&#34;) +
+theme(aspect.ratio = 1)
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af3_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+感谢阅读。
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;参考文献&lt;/h3&gt;&lt;i&gt;
+&lt;p&gt;[1] Bürkner, Paul-Christian. 2017. “Brms: An R Package for Bayesian Multilevel Models Using Stan.” Journal of Statistical Software 80 (1): 1–28. &lt;a href=&#34;https://doi.org/10.18637/jss.v080.i01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18637/jss.v080.i01&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[2] Decarlo, Lawrence T. 2003. “Using the PLUM Procedure of SPSS to Fit Unequal Variance and Generalized Signal Detection Models.” Behavior Research Methods, Instruments, &amp;amp; Computers 35 (1): 49–56. &lt;a href=&#34;https://doi.org/10.3758/BF03195496&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/BF03195496&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[3] DeCarlo, Lawrence T. 2010. “On the Statistical and Theoretical Basis of Signal Detection Theory and Extensions: Unequal Variance, Random Coefficient, and Mixture Models.” Journal of Mathematical Psychology 54 (3): 304–13. &lt;a href=&#34;https://doi.org/10.1016/j.jmp.2010.01.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jmp.2010.01.001&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[4] R Core Team. 2017. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[5] Stan Development Team. 2016. Stan: A C++ Library for Probability and Sampling, Version 2.15.0. &lt;a href=&#34;http://mc-stan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mc-stan.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;/i&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 信号检测论的贝叶斯估计 (二)</title>
+      <link>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2021%E8%B4%9D%E5%8F%B6%E6%96%AF2/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 2&lt;br&gt;
+&lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/12/bayesian-estimation-of-signal-detection-theory-models-part-2/&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
+&lt;b&gt;译者：&lt;/b&gt;高昊 田宇浩&lt;br&gt;
+&lt;b&gt;校对：&lt;/b&gt;胡传鹏 金海洋 于玮烨&lt;br&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;h3&gt;引言&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本篇博文承接第一部分。在第一部分中我们使用以下三种方法对一个被试的EVSDT模型的参数进行估计:&lt;/p&gt;
+- 手动计算点估计（Stanislaw and Todorov，1999）&lt;br&gt;
+- 使用广义线性模型（GLM）来估计（DeCarlo，1998）&lt;br&gt;
+- 使用brm非线性模型语法进行估计（Burkner，2017）&lt;br&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;但是，与参加实验的某些特定被试相比，研究者通常会对他们所代表的总体更感兴趣。因此，我们不会满足于那些恰巧参加了我们研究的被试的参数估计结果。最终统计模型的参数应该能描述研究者所感兴趣的总体的特征。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;一般来说，有两种方法可以得到总体水平的参数。目前而言，最流行的方法是对每个被试进行点估计，即手动计算d’和c的均值和标准差。基于该方式，我们可以计算标准误，t值，置信区间等。另外一种我想推广的方法是建立一个更广的，可以同时估计被试水平和总体水平参数的模型。我们称后面这种方法为“层级”（Hierarchical）或“多水平”（Multilevel）模型（Gelman and Hill，2007; Rouder and Lu，2005） 。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在本篇博客中，我会使用R语言和brms 包来展示如何使用上述两种方法估计EVSDT模型中总体水平的参数（R Core Team 2017; Bürkner 2017）。&lt;/p&gt;
+&lt;h4&gt;示例数据&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们在本篇博客中将继续使用第一部分中使用的数据集。示例数据叫做confcontr，是以dataframe的格式存储的：“ 这些数据来自于Skagerberg和Wright关于记忆一致性研究的对照组。它使用的基本可以算是最简单的新旧再认记忆的实验设计”（Skagerberg and Wright 2008）。&lt;/p&gt;
+为了完整，我们重复呈现第一部分的一些代码，如下所示
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+library(tidyverse)
+library(sdtalt)
+data(confcontr)
+# We prefer working with &#34;tibbles&#34; over &#34;data.frame&#34;s
+confcontr &lt;- as_tibble(confcontr) 
+confcontr
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+# Create a variable in data indicating if trial was hit/miss/etc.
+sdt &lt;- confcontr %&gt;% 
+    mutate(type = &#34;hit&#34;,
+           type = ifelse(isold==1 &amp; sayold==0, &#34;miss&#34;, type),
+           type = ifelse(isold==0 &amp; sayold==0, &#34;cr&#34;, type),  # Correct rejection
+           type = ifelse(isold==0 &amp; sayold==1, &#34;fa&#34;, type))  # False alarm
+# Count hits/misses/etc. and format data to one row per person
+sdt &lt;- sdt %&gt;% 
+    group_by(subno, type) %&gt;% 
+    summarise(count = n()) %&gt;% 
+    spread(type, count)  # Format data to one row per person
+# Calculate point estimates of EVSDT parameters 
+sdt &lt;- sdt %&gt;% 
+    mutate(zhr = qnorm(hit / (hit+miss)),
+           zfa = qnorm(fa / (fa+cr)),
+           dprime = zhr-zfa,
+           crit = -zfa)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;总体水平EVSDT模型&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们现在通过手动计算和层级模型两种方法来估计这些数据总体水平的EVSDT模型的参数。对于多水平的模型，我提供了R和brms代码来估计广义线性混合模型（GLMM， Generalized Linear Mixed Model）的参数。我也会介绍如何用brm非线性语法来估计GLMM模型的参数，以此来帮助我们理解第三部分中所使用的不等方差模型。&lt;/p&gt;
+&lt;h4&gt;总基于整合被试点估计的参数估计体水平EVSDT模型&lt;/h4&gt;
+之前，我们计算了样本集合中每一个被试的d&#39;和c
+&lt;div style=&#34;overflow-x: auto;&#34;&gt;
+  &lt;table border=&#34;1&#34; style=&#34;border-collapse: collapse; min-width: 700px;&#34;&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;subno&lt;/th&gt;
+        &lt;th&gt;cr&lt;/th&gt;
+        &lt;th&gt;fa&lt;/th&gt;
+        &lt;th&gt;hit&lt;/th&gt;
+        &lt;th&gt;miss&lt;/th&gt;
+        &lt;th&gt;zhr&lt;/th&gt;
+        &lt;th&gt;zfa&lt;/th&gt;
+        &lt;th&gt;dprime&lt;/th&gt;
+        &lt;th&gt;crit&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;&lt;td&gt;53&lt;/td&gt;&lt;td&gt;33&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;25&lt;/td&gt;&lt;td&gt;22&lt;/td&gt;&lt;td&gt;0.0801&lt;/td&gt;&lt;td&gt;-0.312&lt;/td&gt;&lt;td&gt;0.393&lt;/td&gt;&lt;td&gt;0.312&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;54&lt;/td&gt;&lt;td&gt;39&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;td&gt;28&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;td&gt;0.2423&lt;/td&gt;&lt;td&gt;-0.631&lt;/td&gt;&lt;td&gt;0.873&lt;/td&gt;&lt;td&gt;0.631&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;55&lt;/td&gt;&lt;td&gt;36&lt;/td&gt;&lt;td&gt;17&lt;/td&gt;&lt;td&gt;31&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;0.4113&lt;/td&gt;&lt;td&gt;-0.466&lt;/td&gt;&lt;td&gt;0.877&lt;/td&gt;&lt;td&gt;0.466&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;56&lt;/td&gt;&lt;td&gt;43&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;38&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;0.8724&lt;/td&gt;&lt;td&gt;-0.883&lt;/td&gt;&lt;td&gt;1.755&lt;/td&gt;&lt;td&gt;0.883&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;57&lt;/td&gt;&lt;td&gt;35&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;29&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;0.2977&lt;/td&gt;&lt;td&gt;-0.413&lt;/td&gt;&lt;td&gt;0.711&lt;/td&gt;&lt;td&gt;0.413&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ --&gt;
+因此我们可以计算这两个参数的样本均值和标准差。下面给出其中一种方式：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+sdt_sum &lt;- select(sdt, subno, dprime, crit) %&gt;%  # Select these variables only
+    gather(parameter, value, -subno) %&gt;%  # Convert data to long format
+    group_by(parameter) %&gt;%  # Prepare to summarise on these grouping variables
+    # Calculate summary statistics for grouping variables
+    summarise(n=n(), mu=mean(value), sd=sd(value), se=sd/sqrt(n))
+sdt_sum
+&lt;/code&gt;&lt;/pre&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;样本均值（mu）是对群体均值的估计，样本标准差（sd）除以是对样本分布标准差的估计，也就是标准误差（se）。由于抽样分布的标准差是未知的，而且只能通过数据进行估计，因此，研究者几乎总是用t分布来代替高斯分布来获得p值和置信区间（也就是说，我们进行t检验，而不是z检验）。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在这里需要注意的是该方法涉及到对未知参数的点估计（被试水平（subject-specific）的参数），接着用额外的模型来整合这些参数。换而言之，我们首先拟合包含了P个参数的N个模型（这里N=被试数量，P=2个参数），紧接着再用P个模型来总结被试水平的参数。这包含了相当多的模型！
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;下一步，我们将会使用层级回归方法一步获得被试水平和总体水平的参数。
+&lt;/p&gt;
+&lt;h4&gt;基于层级模型的参数估计（GLMM）&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们可以使用EVSDT模型来估计每一位被试的参数，随后用广义线性混合模型（GLMM）进一步估计总体的均值。Gelman, Hill（2007）和McELreath（2016）对层级模型有很好且全面的介绍。Rouder和 Lu（2005） 和 Rouder等人（2007）在信号检测理论的框架下讨论了层级模型。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型与第一部分讨论的GLM十分相似，但是现在被试特有的d’和c是来自同一个多元正态分布。该模型中的“超参数（hyperparameter）”描述了总体水平的参数。我们用下标j描述被试j的参数，下标i描述数据的第 i 行，因此模型可以写成，
+&lt;/p&gt;
+$$
+y_{ij} \sim \text{Bernoulli}(p_{ij})$$
+$$
+Phi(p_{ij}) = \beta_{0j} + \beta_{1j} \text{isold}_{ij}$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;当被试 j 在第 i 次试验（trial）上的反应是新的（“new!”），那么结果$y_{ij} = 0$；当被试j在第 i 次试验上的反应是旧的（“old!”），那么结果$y_{ij} = 1$. 第 j 个被试在第i次试验上的反应为旧的的概率记作$p_{ij}$。然后，我们针对$p_{ij}$概率（z分数；Φ，“Phi”）编写线性模型。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;被试水平的截距（回忆上一部分，$β_0 = -z\text{FAR}$）和斜率（$β_1 = d&#39;$）是由一个具有均值和协方差矩阵的多元正态分布来描述的。&lt;/p&gt;
+$$
+\begin{bmatrix}
+\beta_{0j} \\
+\beta_{1j}
+\end{bmatrix}
+\sim N \left(
+\begin{bmatrix}
+\mu_0 \\
+\mu_1
+\end{bmatrix},
+\Sigma
+\right)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;平均值$μ_0$和$μ_1$是总体水平的参数，可以解释为所有人的平均参数（Bolger and laurenceau 2013）.协方差矩阵Σ包含了被试水平参数的（协）方差。但是我发现讨论标准差（我称之为τ）和相关会更加简单。标准差描述了总体中个体之间的异质性。相关描述了d’和c的协方差，即有更高d’的样本是否有更大可能性有更高的c?&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;与运行多个独立的GLM相比，这个模型包含了更多的信息，因为它可以对协方差进行建模，并且有效回答了有关异质性（heterogeneity）的重要问题。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这个模型的brms语法与单个被试的模型很像。我们需要估计5个总体水平的参数。截距和斜率描述的是均值：在R和brms模型语法中，截距恒等为1（可以省略，因为它是自动包含的，为清楚起见，这里将其包含在内），一个变量的斜率通过包含数据中的那个变量名称来表示。为了包含这两个回归系数，我们记为&lt;span style=&#34;color:#d23;&#34;&gt;sayold ~ 1 + isold.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;但是，我们还需要估计三个（协）方差参数。为了包含被试水平的参数（回顾，在数据d中，被试被标记为subno)和（协）方差参数，我们可以扩展上述公式，表示为sayold ~ 1 + isold + (1 + isold | subno). 括号中的部分描述了被试subno指定的截距为1，斜率为isold。brm()调用的其他部分与第一部分相同。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fitglmm &lt;- brm(sayold ~ 1 + isold + (1 + isold | subno), 
+               family = bernoulli(link=&#34;probit&#34;), 
+               data = confcontr,
+               cores = 4,
+               file = here::here(&#34;static/data/sdtmodel2-1&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;接下来我们看一下GLMM估计的参数。首先，我们聚焦输出结果中的“总体水平效应（Population-Level Effects）”。这两个参数分别是平均判断标准c（截距Intercept，$μ_0$）和d&#39;（斜率isold,$μ_1$)。我们正在查看的是参数后验分布（中随机抽取的样本）的数值综合情况: Estimate是后验平均值。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fitglmm)
+##  Family: bernoulli 
+##   Links: mu = probit 
+## Formula: sayold ~ 1 + isold + (1 + isold | subno) 
+##    Data: confcontr (Number of observations: 3100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Group-Level Effects: 
+## ~subno (Number of levels: 31) 
+##                      Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## sd(Intercept)            0.26      0.06     0.16     0.39       1616 1.00
+## sd(isold)                0.39      0.08     0.25     0.56       1168 1.00
+## cor(Intercept,isold)    -0.57      0.19    -0.85    -0.12       1196 1.00
+## 
+## Population-Level Effects: 
+##           Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## Intercept    -0.66      0.06    -0.79    -0.55       1756 1.00
+## isold         1.06      0.09     0.88     1.23       1784 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+接着，我们可以比较模型总体水平均值的参数和我们在前面手动计算的样本统计值。后验平均值完美的与计算的平均值相匹配，同时，后验标准差也与计算的标准误差相匹配。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这些均值可以通过颜色密度图展示出来（如图1左侧的图）。但是，GLMM也提供了对总体水平参数（协）方差的估计。注意，我们也计算了提供这些信息的样本标准差，但我们没有对这些点估计的不确定性进行估计。另一方面，GLMM提供了这些参数的后验分布。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;异质性的参数呈现在&#34;群组水平效应&#34; （Group-Level Effects）表格中。我们发现报告标准的标准差（c）与d&#39;是正相关的。这两个标准差的可视化如图1右侧所示。
+&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1左图平均d和标准c的近似联合后验密度图颜色越浅代表更高的后验概率右图d和标准c总体水平的标准差的近似联合后验密度图两个图的红色点均代表手动计算的样本统计值&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_6.jpg&#34; alt=&#34;图1：左图：平均d’和标准（c）的（近似）联合后验密度图。颜色越浅代表更高的后验概率。右图：d’和标准（c）总体水平的标准差的（近似）联合后验密度图。两个图的红色点均代表手动计算的样本统计值。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1：左图：平均d’和标准（c）的（近似）联合后验密度图。颜色越浅代表更高的后验概率。右图：d’和标准（c）总体水平的标准差的（近似）联合后验密度图。两个图的红色点均代表手动计算的样本统计值。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;很明显在图1中，样本的均值与后验众数近似，但样本的标准差远离标准差后验分布的峰值点。与考虑了被试水平参数不确定性的GLMM模型相比，手动计算的方法忽略被试特有参数的不确定性，进而高估了总体的d&#39;和c的异质性。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对两种方法估计被试水平参数的探索还有更深层次的含义。回想一下，手动计算方法涉及到对每一个样本参数（点）估计一个独立的模型。层级模型会同时考虑所有被试的数据，并且通过共享先验分布允许估计之间相互借鉴 （公式的右侧重复上述的公式）。
+&lt;/p&gt;
+$$
+\begin{bmatrix}
+\beta_{0j} \\
+\beta_{1j}
+\end{bmatrix}
+\sim N \left(
+\begin{bmatrix}
+\mu_0 \\
+\mu_1
+\end{bmatrix},
+\Sigma
+\right)
+$$
+信息的“部分汇集（partial pooling）”（Gelman and Hill，2007）是很明显的，当我们在相同的散点图中画出N个GLMM被试特有参数（对每个被试分别进行点估计）：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图2独立模型中特有的d和标准c用实心圆环表示层级模型的估计结果由空心圆环表示层级模型估计的参数收缩到总体的平均参数红点这种收缩对于更极端的参数值来说会更大每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据随着每个被试的数据点或者被试间的异质性增加这种收缩会下降多层模型核心表达的是这些人不同但也没有那么的不同&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2021%e8%b4%9d%e5%8f%b6%e6%96%af2_7.jpg&#34; alt=&#34;图2：独立模型中特有的d’和标准（c）用实心圆环表示，层级模型的估计结果由空心圆环表示。层级模型估计的参数收缩到总体的平均参数（红点）。这种收缩对于更极端的参数值来说会更大：每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据。随着每个被试的数据点或者被试间的异质性增加，这种收缩会下降。多层模型核心表达的是“这些人不同，但也没有那么的不同”。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2：独立模型中特有的d’和标准（c）用实心圆环表示，层级模型的估计结果由空心圆环表示。层级模型估计的参数收缩到总体的平均参数（红点）。这种收缩对于更极端的参数值来说会更大：每个被试水平参数都综合权衡了该被试的数据和样本的其他被试的数据。随着每个被试的数据点或者被试间的异质性增加，这种收缩会下降。多层模型核心表达的是“这些人不同，但也没有那么的不同”。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们可以看到，用一个层级模型同时对多个被试估计EVSDT模型既简单又有用。特别是，现在可以很容易地在参数中包含预测变量，并回答有关d &#39;和c可能受到的影响的问题。
+&lt;/p&gt;
+&lt;h4&gt;包含预测因子&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;EVSDT参数在组别之间是否有不同？在不同条件是否有不同？为了回答这些问题，我们会尽可能的重复手动计算的这些参数，紧接着用一个ANOVA模型来分析所有被试特有的参数进而做出推断。GLMM方法提供了纳入预测变量的更直接的解决方案：我们只需在回归模型中添加参数。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;例如，假设有两个组别的样本，即数据中变量group，我们可以扩展brms GLMM语法（“...”表示上面使用的其他参数的占位符，我也删除了“1”，因为它们是默认包含的）：
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+brm(sayold ~ isold*group + (isold | subno), ...)
+&lt;/code&gt;&lt;/pre&gt;
+这个模型将会两个额外的参数：group表述c在不同组别之间的差异，交互项isold:group将会描述d&#39;在不同组别之间的差异。换而言之，如果我们对一个被试内变量condition的影响感兴趣，我们可以写作：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+brm(sayold ~ isold*condition + (isold*condition | subno), ...)
+&lt;/code&gt;&lt;/pre&gt;
+只需稍加修改，该语法就可以扩展到“混合”的被试间和被试内的设计。
+&lt;h4&gt;基于GLMM（非线性语法）的参数估计&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;这里我简单的介绍用brms非线性语法拟合上述GLMM，进而引出在第三部分不等方差SDT模型。基础模型是直接对第一部分单个样本的模型进行改写，描述如下&lt;/p&gt;
+$$
+p_{ij} = Φ\left(d_j&#39;\text{isold}_{ij}-c_j\right)
+$$
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;与GLMM一样，变化的d’和标准c被建模为一个多元正态分布。事实证明，这个相当复杂的模型可以很容易地用brms来拟合。这个公式与第一部分单个被试模型很相似，但我们使用bf()来设置d’，标准c和他们相应的被试水平的参数，以及总体水平的参数。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在上面GLMM中，被试水平的效应是通过(1 + isold | subno)进行设定的。借助非线性模型语法，我们使用 |s|而不是 |来设定多参数间变化的效应，告诉brms这些参数应该在同一个协方差矩阵中。这个语法让我们得到Rouder et. al（2007）所讨论的“相关随机效应信号检测模型”。除了这个语法，这个模型与上述的GLMM模型一样，但是截距的符号相反
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+Priors &lt;- c(prior(normal(0, 3), nlpar = &#34;dprime&#34;, lb = 0),
+            prior(normal(0, 3), nlpar = &#34;c&#34;),
+            prior(student_t(10, 0, 1), class = &#34;sd&#34;, nlpar = &#34;dprime&#34;),
+            prior(student_t(10, 0, 1), class = &#34;sd&#34;, nlpar = &#34;c&#34;),
+            prior(lkj(4), class = &#34;cor&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们像之前一样拟合这个模型，但是调整control的参数，设置inits为0来提高采样效率（感谢Tom Wallis 给的建议）：
+&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fitglmm2 &lt;- brm(glmm2, 
+                family = bernoulli(link=&#34;identity&#34;), 
+                data = confcontr,
+                prior = Priors,
+                control = list(adapt_delta = .99),
+                cores = 4, inits = 0,
+                file = here::here(&#34;static/data/sdtmodel2-2&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+尽管这个模型采样没有第一个GLMM公式的效率高，但我们也能（不出意外地）观测到相似的结果：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fitglmm)
+##  Family: bernoulli 
+##   Links: mu = probit 
+## Formula: sayold ~ 1 + isold + (1 + isold | subno) 
+##    Data: confcontr (Number of observations: 3100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Group-Level Effects: 
+## ~subno (Number of levels: 31) 
+##                      Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## sd(Intercept)            0.26      0.06     0.16     0.39       1616 1.00
+## sd(isold)                0.39      0.08     0.25     0.56       1168 1.00
+## cor(Intercept,isold)    -0.57      0.19    -0.85    -0.12       1196 1.00
+## 
+## Population-Level Effects: 
+##           Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## Intercept    -0.66      0.06    -0.79    -0.55       1756 1.00
+## isold         1.06      0.09     0.88     1.23       1784 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;&lt;br&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(fitglmm2)
+##  Family: bernoulli 
+##   Links: mu = identity 
+## Formula: sayold ~ Phi(dprime * isold - c) 
+##          dprime ~ 1 + (1 | s | subno)
+##          c ~ 1 + (1 | s | subno)
+##    Data: confcontr (Number of observations: 3100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Group-Level Effects: 
+## ~subno (Number of levels: 31) 
+##                                   Estimate Est.Error l-95% CI u-95% CI
+## sd(dprime_Intercept)                  0.36      0.07     0.22     0.51
+## sd(c_Intercept)                       0.24      0.05     0.15     0.35
+## cor(dprime_Intercept,c_Intercept)     0.42      0.20    -0.05     0.73
+##                                   Eff.Sample Rhat
+## sd(dprime_Intercept)                    1558 1.00
+## sd(c_Intercept)                         1071 1.00
+## cor(dprime_Intercept,c_Intercept)       1403 1.00
+## 
+## Population-Level Effects: 
+##                  Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## dprime_Intercept     1.06      0.08     0.90     1.23       2025 1.00
+## c_Intercept          0.66      0.06     0.55     0.77       2294 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;因为技术的原因，每一个参数在fitglmm2有一个_Intercept后缀，但是这个结果是一样的。在下一篇博客，我们进一步使用这种语法来估计不等方差高斯SDT模型。&lt;/p&gt;
+&lt;h3&gt;讨论&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;对被试内设计和重复测量数据进行建模时，与传统方法如（多元）方差分析（ANOVA）相比，层级模型技术有几个优势。例如，以前需要使用被试特有模型的参数作为输入的许多模型现在可以在单个模型中建模。层级模型自动地考虑到了不平衡数据，并允许包含连续预测变量和离散的因变量。在SDT的特定背景下，我们注意到，层级模型还估计了一些重要参数。这些参数描述了总体中可能存在的人际之间的差异性。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;我们注意到，层级模型的流行趋势似乎正在加速。许多实证论文现在使用多水平模型来分析数据，而不是使用重复测量方差分析（repeated measures-ANOVA），这表明在应用研究背景下存在对这些模型的需求。那么将更复杂的，可能是非线性的模型概念化为层级模型值得拥有一个统一的数据分析框架。此外，通过包含人与人之间差异的参数，这些模型允许研究人员量化他们感兴趣效应的变化程度，以及有可能的话，这些效应是不是存在于人群中的每个人身上。&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;h3&gt;参考文献&lt;/h3&gt;
+&lt;i&gt;
+&lt;p&gt;[1] Bolger, Niall, and Jean-Philippe Laurenceau. 2013. Intensive Longitudinal Methods: An Introduction to Diary and Experience Sampling Research. Guilford Press. &lt;a href=&#34;http://www.intensivelongitudinal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.intensivelongitudinal.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[2] Bürkner, Paul-Christian. 2017. “Brms: An R Package for Bayesian Multilevel Models Using Stan.” Journal of Statistical Software 80 (1): 1–28. &lt;a href=&#34;https://doi.org/10.18637/jss.v080.i01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18637/jss.v080.i01&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[3] DeCarlo, Lawrence T. 1998. “Signal Detection Theory and Generalized Linear Models.” Psychological Methods 3 (2): 186–205. &lt;a href=&#34;https://doi.org/10.1037/1082-989X.3.2.186&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/1082-989X.3.2.186&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[4] Gelman, Andrew, and Jennifer Hill. 2007. Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;[5] McElreath, Richard. 2016. Statistical Rethinking: A Bayesian Course with Examples in R and Stan. CRC Press.&lt;/p&gt;
+&lt;p&gt;[6] R Core Team. 2017. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[7] Rouder, Jeffrey N., and Jun Lu. 2005. “An Introduction to Bayesian Hierarchical Models with an Application in the Theory of Signal Detection.” Psychonomic Bulletin &amp;amp; Review 12 (4): 573–604. &lt;a href=&#34;https://doi.org/10.3758/BF03196750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/BF03196750&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[8] Rouder, Jeffrey N., Jun Lu, Dongchu Sun, Paul Speckman, Richard D. Morey, and Moshe Naveh-Benjamin. 2007. “Signal Detection Models with Random Participant and Item Effects.” Psychometrika 72 (4): 621–42. &lt;a href=&#34;https://doi.org/10.1007/s11336-005-1350-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11336-005-1350-6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[9] Skagerberg, Elin M., and Daniel B. Wright. 2008. “Manipulating Power Can Affect Memory Conformity.” Applied Cognitive Psychology 22 (2): 207–16. &lt;a href=&#34;https://doi.org/10.1002/acp.1353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/acp.1353&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[10] Stan Development Team. 2016. Stan: A C++ Library for Probability and Sampling, Version 2.15.0. &lt;a href=&#34;http://mc-stan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mc-stan.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[11] Stanislaw, Harold, and Natasha Todorov. 1999. “Calculation of Signal Detection Theory Measures.” Behavior Research Methods, Instruments, &amp;amp; Computers 31 (1): 137–49. &lt;a href=&#34;http://link.springer.com/article/10.3758/BF03207704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://link.springer.com/article/10.3758/BF03207704&lt;/a&gt;.&lt;/p&gt;
+&lt;/i&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>翻译 | 信号检测论的贝叶斯估计 (一)</title>
+      <link>https://terryzang.github.io/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/event/opentransfer/2020%E8%B4%9D%E5%8F%B6%E6%96%AF1/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;b&gt;原标题：&lt;/b&gt;Bayesian Estimation of Signal Detection Models, Part 1&lt;br&gt;
+&lt;b&gt;原文地址：&lt;/b&gt;&lt;a href=&#34;https://vuorre.netlify.app/post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models-part-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vuorre.netlify.app/post/2017/10/09/bayesian-estimation-of-signal-detection-theory-models-part-1/&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;原作者：&lt;/b&gt;Matti. Vuorre&lt;br&gt;
+&lt;b&gt;译者：&lt;/b&gt;王倩 王齐飞 张译文&lt;br&gt;
+&lt;b&gt;校对：&lt;/b&gt;胡传鹏 金海洋 姚佳宇&lt;br&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;h3&gt;引言&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;假如我们在进行一项再认实验，这个实验向被试呈现了一组图片，这些图片中有些是新的（被试之前没有见过的），而有些是旧的（被试之前已看过的）。被试需要对呈现的每一张图片进行反应：“新（未见过）”或者“旧（见过）”。SDT通过分别测量被试的敏感性以及判断标准（一种对反应偏向(response bias)测量）来建立每个被试再认过程的模型。SDT模型的基本理念是：在每个试次中，当刺激呈现时，被试心里会产生一种“熟悉”（或者记忆强度）的信号。随后被试会依据这些信号，判断当前的刺激是“新”或“旧”。Macmillan 和 Creelman（2005）一书中对SDT有更加详细的介绍。&lt;/p&gt;
+&lt;h3&gt;信号检测理论&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;假如我们在进行一项再认实验，这个实验向被试呈现了一组图片，这些图片中有些是新的（被试之前没有见过的），而有些是旧的（被试之前已看过的）。被试需要对呈现的每一张图片进行反应：“新（未见过）”或者“旧（见过）”。SDT通过分别测量被试的敏感性以及判断标准（一种对反应偏向(response bias)测量）来建立每个被试再认过程的模型。SDT模型的基本理念是：在每个试次中，当刺激呈现时，被试心里会产生一种“熟悉”（或者记忆强度）的信号。随后被试会依据这些信号，判断当前的刺激是“新”或“旧”。Macmillan 和 Creelman（2005）一书中对SDT有更加详细的介绍。&lt;/p&gt;
+&lt;h3&gt;案例数据&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;接下来我们将用R统计编程语言来探究一个实例，首先我们需要加载tidyverse工具包（Wickham，2016）&lt;/p&gt;
+&lt;!-- &lt;details&gt; &lt;summary&gt;代码&lt;/summary&gt; --&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+library(tidyverse)
+&lt;/code&gt;&lt;/pre&gt;
+我们将使用stdalt包中的案例数据（Wright，2011）。该包以前可以在CRAN上找到，但现在已经没有了，因此必须从GitHub安装：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+devtools::install_github(&#34;cran/sdtalt&#34;)
+&lt;/code&gt;&lt;/pre&gt;
+这个案例数据称为“confcontr”，数据来自Skagerberg和Wright记忆一致性(memory conformity)研究中的对照组(Skagerberg &amp; Wright，2008)
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+# install.packages(&#34;sdtalt&#34;)
+library(sdtalt)
+data(confcontr)
+## # A tibble: 3,100 x 3
+##    subno sayold isold
+##   &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;
+##  1    53      1     0
+##  2    53      1     1
+##  3    53      1     1
+##  4    53      1     1
+##  5    53      1     0
+##  6    53      1     1
+##  7    53      1     0
+##  8    53      0     0
+##  9    53      0     1
+## 10    53      0     1
+## # ... with 3,090 more rows
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在这篇文章中，我们将利用这些数据来估算该数据包中的某个被试在等方差SDT模型下的参数d’ （辨别力指标/感觉敏感性指标）和 c（报告标准）。&lt;/p&gt;
+&lt;h3&gt;等方差高斯SDT模型&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;首先我们讨论最常见的SDT模型，即假定被试对两种信号的熟悉程度的分布属于高斯分布（即正态分布），且这两个分布的方差是齐性的，但均值可能不同（例如，对旧刺激的熟悉程度更高）。该模型就称为EVSDT (Equal Variance Gaussian SDT Model) 模型。我们用三种方法来估算单个被试的模型：&lt;/p&gt;
+1. 依据计算公式，使用R进行“手动”点估计运算；&lt;br&gt;
+2. 使用贝叶斯广义线性模型（GLM；Generalized linear models）来进行估算；&lt;br&gt;
+3. 使用贝叶斯非线性模型来进行估算。&lt;br&gt;
+&lt;h3&gt;EVSDT参数的点估计&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;首先，我们分别对数据包中每一位被试的EVSDT参数进行最大似然估计。在此之前，我注意到只有在手动点估计运算时才需要进行这种数据处理，因此接下来所介绍的建模方法，都将采用原始数据，以略去繁琐的步骤。首先，我们将计算被试每个试次的反应（击中(hit)、虚报(false alarm)、正确拒斥(correct rejection)、漏报(miss)）并将其放到新变量type中：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+sdt &lt;- confcontr %&gt;% 
+    mutate(type = &#34;hit&#34;,
+           type = ifelse(isold==1 &amp; sayold==0, &#34;miss&#34;, type),
+           type = ifelse(isold==0 &amp; sayold==0, &#34;cr&#34;, type),  # Correct rejection
+           type = ifelse(isold==0 &amp; sayold==1, &#34;fa&#34;, type))  # False alarm
+&lt;/code&gt;&lt;/pre&gt;
+然后我们可以统计某个被试这四种反应类型的数量，最后将每个被试的反应情况放在同一行上。
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+sdt &lt;- sdt %&gt;% 
+    group_by(subno, type) %&gt;% 
+    summarise(count = n()) %&gt;% 
+    spread(type, count)  # Format data to one row per person
+&lt;/code&gt;&lt;/pre&gt;
+对于单个被试，d’ 可由标准化后的击中率和虚报率(hit and false alarm rates)之差计算得来(Stanislaw &amp; Todorov，1999)。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+Φ 是累积正态密度函数(cumulative normal density function)，可将z分数转换为概率，其反函数Φ^(-1) 将概率（例如击中率或虚报率）转换为z分数。标准化后的击中率和虚报率分别表示为 zHR 和zFAR。反应标准c则由-zFAR（负虚报率的标准分数）表示(DeCarlo，1998)。&lt;br&gt;
+我们可以用qnorm()进行z分数转化（即Φ^(-1)）。接下来，根据每个被试反应类型（击中，虚报，漏报，正确拒斥）的数量计算出d’ 和c ：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+sdt &lt;- sdt %&gt;% 
+    mutate(zhr = qnorm(hit / (hit+miss)),
+           zfa = qnorm(fa / (fa+cr)),
+           dprime = zhr-zfa,
+           crit = -zfa)
+round(sdt, 2)
+## # A tibble: 31 x 9
+## # Groups:   subno [31]
+##    subno    cr    fa   hit  miss   zhr    zfa dprime  crit
+##    &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt;
+##  1    53    33    20    25    22  0.08 -0.31    0.39 0.31 
+##  2    54    39    14    28    19  0.24 -0.63    0.87 0.63 
+##  3    55    36    17    31    16  0.41 -0.47    0.88 0.47 
+##  4    56    43    10    38     9  0.87 -0.88    1.76 0.88 
+##  5    57    35    18    29    18  0.3  -0.41    0.71 0.41 
+##  6    58    41    12    30    17  0.35 -0.75    1.1  0.75 
+##  7    59    46     7    21    26 -0.13 -1.12    0.98 1.12 
+##  8    60    38    15    33    14  0.53 -0.570   1.1  0.570
+##  9    61    42    11    25    22  0.08 -0.81    0.9  0.81 
+## 10    62    45     8    22    25 -0.08 -1.03    0.95 1.03 
+## # ... with 21 more rows
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;现在，我们根据这些数据就得到了每个被试d’ 和c的点估计， 53号被试的潜在EVSDT模型如图一所示:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;h3&gt;使用GLM估算EVSDT模型&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;广义线性模型是一类功能强大的回归模型，可以对二项反应进行建模，例如前文所提到的对“新”或“旧”的反应。在confcontr中，每个试次都有一种回答，“旧”(sayold = 1) 或者 “新” (sayold = 0)；我们用GLM对刺激类型的反应进行回归：需要判断的刺激（图片）可能是新的(isold = 0)也可能是旧的(isold = 1)。在二项反应的GLM中，我们假定反应属于贝努里（Bernoulli）分布（即只有一个试次的二项分布），且其概率$p_i$为$y_i=1$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;由于我们希望使用线性模型（广义线性模型）对概率p进行估计，但概率p本身有上限和下限（分别为1和0），因此，我们不用线性模型直接对p进行建模。相反，我们用一个连结函数将p转化为‘线性预测值’ η，并用线性回归模型对 η建模。如果该连结函数是一个概率(probit)，那我们就得到了一个‘probit GLM’。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;如前所述，Φ是一个累积正态密度函数并能将z 值转化为概率，那我们可以用一个截距和斜率来表示η。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;在这一参数化过程中，模型的截距是标准化的虚报率（当η为0时报告1的概率），我们将其作为标准，用c表示。模型的斜率是由z分数所表示的击中率（当η为1时报告1）相对于截距（即标准化的虚报率）的提升，这是d’的另一种表达形式。因此，
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;DeCarlo (1998)已详细地探讨了SDT模型与GLM的关系。从GLM框架来考虑SDT模型的两个直接好处是，可以容易得到c和d&#39;两个预测值以及可用层级模型来估计包含各种相关系数的SDT模型(DeCarlo,2010; Rouder &amp; Lu, 2005)。第二点意味着多个被试（和项目）可同时用该模型进行拟合。我们将在第二部分中讨论这一点。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;因为我们把SDT写成了一个GLM模型，我们有多种多样的软件可以对这个模型进行估计。这里我们使用贝叶斯回归模型R语言工具包brms (Bürkner 2017; Stan Development Team 2016)，因为其模型公式的语法可以很好地用于我们之后要探讨的更复杂的模型。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;通过输入一个在brms语法下的模型公式，一个用连结函数处理过的反应分布以及一个数据框架（data frame）作为参数(arguments)，我们就可以用brms的brm()函数来估计GLM。brms的模型语法用了数据中的变量名。我们用公式sayold ~ isold来回归二元预测值isold 的二项反应sayold。
+&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;接下来需要输入参数，即反应分布，用参数family表示，我们用 family = bernoulli(link=&#34;probit&#34;)这一语法来表示有概率连结函数的贝努里分布。这里我们只需要第一个被试的数据(subno 53)，因此，用data = filter(confcontr, subno==53)来表示该数据。 brm()函数也允许设定参数的先验分布，但这个模型中我们略去对先验的讨论。最后，我们将参数cores设置为4以运行多个马氏链（chains；这能使模型估计得更快）。根据以上的设置，我们可以把SDT作为一个probit GLM进行估计。估计confcontr数据中53号被试SDT模型的具体函数如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+library(brms)
+glmfit &lt;- brm(sayold ~ isold, 
+              family = bernoulli(link=&#34;probit&#34;), 
+              data = filter(confcontr, subno==53),
+              cores = 4,
+              file = here::here(&#34;static/data/sdtmodel1-1&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+估计的模型储存于glmfit中， summary()可以输出估计的参数值。
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(glmfit)
+##  Family: bernoulli 
+##   Links: mu = probit 
+## Formula: sayold ~ isold 
+##    Data: filter(confcontr, subno == 53) (Number of observations: 100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Population-Level Effects: 
+##           Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## Intercept    -0.32      0.18    -0.67     0.03       3340 1.00
+## isold         0.40      0.26    -0.11     0.90       3207 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+回归参数【Intercept (c=−β0)和 isold (d′=β1)】显示在以上代码结果中 “Population-Level Effects”部分。Estimate是后验均值，相当于最大似然估计，Est.Error 是后验标准差，相当于标准误。其后的两列是参数95%的可信区间(credible intervals; CIs)。估计参数的均值与手动计算的点估计值相符。
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+round(sdt[1,], 2)
+## # A tibble: 1 x 9
+## # Groups:   subno [1]
+##   subno    cr    fa   hit  miss   zhr   zfa dprime  crit
+##   &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt;
+## 1    53    33    20    25    22  0.08 -0.31   0.39  0.31
+&lt;/code&gt;&lt;/pre&gt;
+实际上，如果我们使用均匀先验（uniform priors），后验众数(mode)将完全与最大似然估计的结果相对应。53号被试的d′和c值的后验密度展示在图2中：最大似然估计正好在后验密度的最大值处。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图253号被试的sdt参数大概的联合后验密度淡黄色表示较高的后验密度红点表示手动计算的mle的点估计值d&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_7.png&#34; alt=&#34;图2：53号被试的SDT参数（大概的）联合后验密度。淡黄色表示较高的后验密度，红点表示手动计算的MLE的点估计值d′。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图2：53号被试的SDT参数（大概的）联合后验密度。淡黄色表示较高的后验密度，红点表示手动计算的MLE的点估计值d′。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;图2可以引发一些有趣的思考：如果我们忽略参数估计的不确定性（峰值附近色团的可信度降低）会怎么样？答案是，如果实验设计在被试间是平衡的，忽略特定被试间的个体差异对推断平均数基本不会有影响。那如果我们将点估计值作为一些回归的预测值，而忽略其不确定性呢？使用极不确定的估计值会有什么影响？我们还应该相信那些众数吗？无论怎么样，我都希望以上这些已经说明了等方差高斯SDT的参数很容易在GLM框架下获得。接下来，我将介绍如何使用brms的非线性模型语法来估计SDT模型。&lt;/p&gt;
+&lt;h3&gt;使用非线性模型估计等方差高斯信号检测论（UVSDT）&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;等方差高斯信号检测论（EVSDT）模型一种常见泛化是允许信号与噪声分布的方差不同。该模型被称为不等方差高斯信号检测论模型（UVSDT：unequal variance Gaussian SDT model）。UVSDT模型是非线性的，因此需要不同的估计方法。brms语法中可以建立非线性模型。有关UVSDT模型的讨论会放到之后系列的第3部分。这里我们将使用brms的非线性建模语法对GLM模型进行拟合，作为接下来对UVSDT拟合的先导知识。在这里，我们用与GLM类似的方式编写EVSDT模型，只是简单地了翻转c和d&#39;。我们将直接给出参数c，不需要再翻转估计的参数值。在第3部分中，我们将此模型泛化为不等方差模型，从而获得一个非线性模型。因此，拟合上述GLM的变式是很有用的，它能帮助我们熟悉brms的非线性建模语法。对此，我们编写模型如下(DeCarlo 1998)：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;该模型可以直接估算c和d&#39;。与拟合GLM相比，编写和估计非线性模型要复杂得多。因此，下面的代码会有点复杂。但重要的是，我们可以使用brms来估计非线性模型，且使用方式也不会过度偏离基本的公式语法。&lt;/p&gt;
+首先，我们将使用bf()函数指定模型，如下所示：
+&lt;/code&gt;&lt;/pre&gt;
+回归参数【Intercept (c=−β0)和 isold (d′=β1)】显示在以上代码结果中 “Population-Level Effects”部分。Estimate是后验均值，相当于最大似然估计，Est.Error 是后验标准差，相当于标准误。其后的两列是参数95%的可信区间(credible intervals; CIs)。估计参数的均值与手动计算的点估计值相符。
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+m2 &lt;- bf(sayold ~ Phi(dprime*isold - c), 
+         dprime ~ 1, c ~ 1, 
+         nl = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+在第一行，我们设定了关于sayold反应的模型。回想我们之前按照伯努利分布（它会被设定为下面某个估计函数的参数）对反应建模。第一行的右侧（〜之后）是伯努利分布的概率参数（pi）的模型。模型中的两个未知参数d&#39;和c是根据数据估算出来的，如第二行所示（即 dprime ~ 1）。第三行指定模型是非线性的。如果想要进一步了解如何使用Brms的非线性建模语法编写模型，请参照：(vignette(&#34;brms_nonlinear&#34;, package = &#34;brms&#34;)).在接下来的第3部分中，我们会将此语法扩展到非线性（层级）不等方差模型中。由于非线性模型的参数可能难以估计，因此当nl = TRUE时，brms要求用户设定先验。我们在dprime和c 上设置了一些任意的先验值（注意:这里的scale参数是标准差，而不是方差）：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+Priors &lt;- c(prior(normal(.5, 1.5), nlpar = &#34;dprime&#34;),
+          prior(normal(0, 1.5), nlpar = &#34;c&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+在指定模型和先验之后，仅需进行少量调整即可使用 brm()再次进行模型拟合：由于我们在 bf()中指定了相应函数，我们需要在 family 参数中设置link=&#34;identity&#34; 。此外，由于非线性模型难以估计，因此我们还调整了Stan采样器的基础参数adapt_delta（这会使MCMC变慢一些，但会得到更准确的结果）。
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+fit2 &lt;- brm(m2, 
+            family = bernoulli(link=&#34;identity&#34;), 
+            data = filter(confcontr, subno==53),
+            prior = Priors,
+            control = list(adapt_delta = .99),
+            cores = 4,
+            file = here::here(&#34;static/data/sdtmodel1-2&#34;))
+&lt;/code&gt;&lt;/pre&gt;
+需要注意的是，我们现在输入m2作为第一个参数，而对于第一个模型，我们只是在brm()函数内编写了公式。这两种方法是等价的，但是由于此模型更复杂，因此我将其保存为变量，并作为单独的命令行。然后，我们可以比较两个模型的估计参数。后者直接报告了标准化误报率（c）。出于技术原因，在以下结果中使用_Intercept重命名参数：
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+summary(glmfit)
+##  Family: bernoulli 
+##   Links: mu = probit 
+## Formula: sayold ~ isold 
+##    Data: filter(confcontr, subno == 53) (Number of observations: 100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Population-Level Effects: 
+##           Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## Intercept    -0.32      0.18    -0.67     0.03       3340 1.00
+## isold         0.40      0.26    -0.11     0.90       3207 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+summary(fit2)
+##  Family: bernoulli 
+##   Links: mu = identity 
+## Formula: sayold ~ Phi(dprime * isold - c) 
+##          dprime ~ 1
+##          c ~ 1
+##    Data: filter(confcontr, subno == 53) (Number of observations: 100) 
+## Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+##          total post-warmup samples = 4000
+## 
+## Population-Level Effects: 
+##                  Estimate Est.Error l-95% CI u-95% CI Eff.Sample Rhat
+## dprime_Intercept     0.39      0.25    -0.12     0.87       1266 1.00
+## c_Intercept          0.31      0.17    -0.03     0.66       1267 1.00
+## 
+## Samples were drawn using sampling(NUTS). For each parameter, Eff.Sample 
+## is a crude measure of effective sample size, and Rhat is the potential 
+## scale reduction factor on split chains (at convergence, Rhat = 1).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;两个模型的结果非常相似，但需要注意的是：先验仅包含在非线性语法模型中。唯一的不同点是，MCMC算法探索fit2后验的效率较低，正如两个参数的Eff.Sample 较小所反映的。这意味着对于fit2，从后验分布中随机样本拥有更大的自相关，因此我们应该抽取更多样本以进行更准确的推断。用这两种方法获得的后验分布如图3所示。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图3第一行的两幅图是53号被试的sdt参数的大概的联合后验密度近似值使用gl模型和非线性模型估算浅黄色表示较高的后密度红点表示手动计算的样本均值d第二行的分别是glm红色和非线性蓝色模型c和dprime的边缘后验密度这里使用evsdt的非线性参数化模型并不具有明显的优势不过在第3部分中我们将使用它来估计uvsdt模型因此通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/opentransfer/2020%e8%b4%9d%e5%8f%b6%e6%96%af1_8.png&#34; alt=&#34;图3：第一行的两幅图是53号被试的SDT参数的（大概的）联合后验密度（近似值），使用GL模型和非线性模型估算。浅黄色表示较高的后密度。红点表示“手动”计算的样本均值d。第二行的分别是GLM（红色）和非线性（蓝色）模型c和dprime的边缘后验密度。这里使用EVSDT的“非线性”参数化模型并不具有明显的优势。不过，在第3部分中，我们将使用它来估计UVSDT模型，因此，通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型。&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图3：第一行的两幅图是53号被试的SDT参数的（大概的）联合后验密度（近似值），使用GL模型和非线性模型估算。浅黄色表示较高的后密度。红点表示“手动”计算的样本均值d。第二行的分别是GLM（红色）和非线性（蓝色）模型c和dprime的边缘后验密度。这里使用EVSDT的“非线性”参数化模型并不具有明显的优势。不过，在第3部分中，我们将使用它来估计UVSDT模型，因此，通过研究这种简单的例子可以帮助大家更容易理解如何使用brms拟合真正的非线性模型。
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3&gt;讨论&lt;/h3&gt;
+&lt;h4&gt;用不同的方法拟合单个被试的EVSDT模型&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本篇博客中，我们使用了三种方法来估计单个被试数据的等方差高斯SDT模型的参数：手动计算点估计值，使用probit GLM，和使用Brms的非线性建模语法的Probit模型。目前为止，这些方法之间的主要区别在于建模方法可以提供参数估计的不确定性，而手动计算则不能。这个原因直接引领我们更偏向层级模型(Rouder and Lu 2005; Rouder et al. 2007)，我们将在第2部分中对其进行讨论。但是，使用回归模型框架估算SDT模型还有其他好处。例如，通过“手动”计算可能会涉及到一些运算错误，这可能比直接使用原始数据的方法更容易出错。如果使用建模方法的话，贝叶斯建模方法易于应用并为广大读者所使用 (Bü rkner 2017)。建模能够通过交叉的“随机”效应(Rouder et al. 2007)以及可能影响SDT参数的协变量来包含多种变异源，比如跨项目和被试之间的异质性（Rouder等，2007）。通过更改连接函数，我们还可以使用其他分布（例如逻辑回归分布；logistic）来表示信号和噪声的分布（DeCarlo 1998，2010）。&lt;/p&gt;
+&lt;h4&gt;先验分布&lt;/h4&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;刚开始接触贝叶斯建模方法的新手可能会反对使用先验分布，并认为他们过分地影响了结果。但是适度提供信息的先验对推理的影响并没有想象中那么大。上述我们指定的GLM模型并没有使用任何先验信息。另外，使用非线性建模功能会使情况变得更加复杂：在这种情况下，先验主要用来帮助从合理的参数值中提取后验样本。此外，先验在估计SDT模型方面非常有用：如果参与者的命中率或误报率是0或1（一种相当普遍的情况），原则上可以使用适度的先验（mild prior information can be used in a principled manner to release the estimated quantities from hostile captivity of the boundary values）。Stanislaw 和 Todorov在文献中讨论了对0和1比率的各种校正(Stanislaw and Todorov 1999)。但是，贝叶斯先验可以更有原则性地处理这些极端情况。在下一篇文章中，我们将重点介绍层级SDT模型，贝叶斯的优点将变得尤为突出。&lt;/p&gt;&lt;br&gt;
+&lt;h3 style=&#34;color:#d23;&#34;&gt;参考文献&lt;/h3&gt;
+&lt;i&gt;
+&lt;p&gt;[1] Bürkner, Paul-Christian. 2017. “Brms: An R Package for Bayesian Multilevel Models Using Stan.” Journal of Statistical Software 80 (1): 1–28. &lt;a href=&#34;https://doi.org/10.18637/jss.v080.i01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.18637/jss.v080.i01&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[2] DeCarlo, Lawrence T. 1998. “Signal Detection Theory and Generalized Linear Models.” Psychological Methods 3 (2): 186–205. &lt;a href=&#34;https://doi.org/10.1037/1082-989X.3.2.186&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/1082-989X.3.2.186&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[3] DeCarlo. Lawrence T. 2010. “On the Statistical and Theoretical Basis of Signal Detection Theory and Extensions: Unequal Variance, Random Coefficient, and Mixture Models.” Journal of Mathematical Psychology 54 (3): 304–13. &lt;a href=&#34;https://doi.org/10.1016/j.jmp.2010.01.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jmp.2010.01.001&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[4] Kruschke, John K. 2014. Doing Bayesian Data Analysis: A Tutorial Introduction with R. 2nd Edition. Burlington, MA: Academic Press.&lt;/p&gt;
+&lt;p&gt;[5] Macmillan, Neil A., and C. Douglas Creelman. 2005. Detection Theory: A User’s Guide. 2nd ed. Mahwah, N.J: Lawrence Erlbaum Associates.&lt;/p&gt;
+&lt;p&gt;[6] R Core Team. 2017. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[7] Rouder, Jeffrey N., and Jun Lu. 2005. “An Introduction to Bayesian Hierarchical Models with an Application in the Theory of Signal Detection.” Psychonomic Bulletin &amp;amp; Review 12 (4): 573–604. &lt;a href=&#34;https://doi.org/10.3758/BF03196750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/BF03196750&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[8] Rouder, Jeffrey N., Jun Lu, Dongchu Sun, Paul Speckman, Richard D. Morey, and Moshe Naveh-Benjamin. 2007. “Signal Detection Models with Random Participant and Item Effects.” Psychometrika 72 (4): 621–42. &lt;a href=&#34;https://doi.org/10.1007/s11336-005-1350-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11336-005-1350-6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[9] Skagerberg, Elin M., and Daniel B. Wright. 2008. “Manipulating Power Can Affect Memory Conformity.” Applied Cognitive Psychology 22 (2): 207–16. &lt;a href=&#34;https://doi.org/10.1002/acp.1353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/acp.1353&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[10] Stan Development Team. 2016. RStan: The R Interface to Stan. &lt;a href=&#34;http://mc-stan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mc-stan.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[11] Stanislaw, Harold, and Natasha Todorov. 1999. “Calculation of Signal Detection Theory Measures.” Behavior Research Methods, Instruments, &amp;amp; Computers 31 (1): 137–49. &lt;a href=&#34;http://link.springer.com/article/10.3758/BF03207704&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://link.springer.com/article/10.3758/BF03207704&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[12] van Ravenzwaaij, Don, Pete Cassey, and Scott D. Brown. 2016. “A Simple Introduction to Markov Chain Monte–Carlo Sampling.” Psychonomic Bulletin &amp;amp; Review, March, 1–12. &lt;a href=&#34;https://doi.org/10.3758/s13423-016-1015-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3758/s13423-016-1015-8&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[13] Wickham, Hadley. 2016. Tidyverse: Easily Install and Load ’Tidyverse’ Packages. &lt;a href=&#34;https://CRAN.R-project.org/package=tidyverse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=tidyverse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[14] Wright, Daniel B. 2011. Sdtalt: Signal Detection Theory and Alternatives. &lt;a href=&#34;https://CRAN.R-project.org/package=sdtalt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://CRAN.R-project.org/package=sdtalt&lt;/a&gt;.&lt;/p&gt;
+&lt;/i&gt;
+&lt;!-- &lt;span style=&#34;color:#d23;&#34;&gt;改变颜色院&lt;/span&gt;。 --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page.
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

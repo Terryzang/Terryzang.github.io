@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COSN Team | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/cosn-team/</link>
+      <atom:link href="https://terryzang.github.io/author/cosn-team/index.xml" rel="self" type="application/rss+xml" />
+    <description>COSN Team</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>COSN Team</title>
+      <link>https://terryzang.github.io/author/cosn-team/</link>
+    </image>
+    
+    <item>
+      <title>COSN Summer Hackathon 2025开始报名啦！</title>
+      <link>https://terryzang.github.io/news/2025-7-summer_hackthon/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-7-summer_hackthon/</guid>
+      <description>&lt;p&gt;COSN Summer Hackathon又双叒来啦！！！通过2022年 ～ 2024年的三次活动，越来越多的小伙伴有机会参与了Hackathon。今年的Hackathon将以“AI + 脑科学”为主题，聚焦人工智能技术在脑科学领域的探索与应用，欢迎大家提出相关的Project（提交的具体流程之后会公布）！&lt;/p&gt;
+&lt;p&gt;“Learning by doing” 或者在实践中学习是Hackathon 的精神，本次Hackathon将为您提供：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;与神经科学、认知科学和人工智能领域学者的交流机会；&lt;/li&gt;
+&lt;li&gt;与神经科学领域资深编程大神交流，推动自己研究项目的机会；&lt;/li&gt;
+&lt;li&gt;与志同道合的小伙伴建立联系探索未来合作的机会；&lt;/li&gt;
+&lt;li&gt;探索AI与脑科学结合的无限可能；&lt;/li&gt;
+&lt;li&gt;了解开放科学和可重复研究的机会等等&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;你可能会问，什么是hackathon？是暑期学校吗？&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+什么是Hackathon？&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Hackathon，也叫Hacking Day、Hackfest, Datathon 或者Codefest，是Hacking和Marathon的结合。最初是由一些编程人员聚在一起，针对某些特定主题集中1-2天进行的高强度的编程开发活动。随后，这种活动的组织方式也扩展到了其他领域。生命科学、神经、行为和心理科学相关领域都有20余年的Hackathon传统，生物信息学和神经信息学的学者们在领导和组织hackathon方面发挥了重要作用，hackathon通过促进学生和学者的沟通和讨论，产生了非常多有意义和价值的项目，并且促成了日后的长期合作。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;近些年，随着开放科学（Open Science）被学术界广泛认可，开放科学兴趣小组（Open Science Special Interest Group）在Hackathon活动的组织和参与上也非常活跃。更加严谨的方法和更加先进和可靠的信息平台支持是开放科学不可或缺的基础。参考Brainhack和OHBM, hackathon的内容一般包含两个部分：1）TrainTrack：以报告为主要形式，分享主题内容或者教程；2）HackTrack：以项目为导向的自由组队讨论和编程开发，在hackathon结束时分享本次hack的体验和收获，项目可以在Hackthon结束之后长期保持合作。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Hackathon并不是一般意义上的暑期学校或者工作坊、培训，而是更需要于深度参与和合作的“做中学”。具体而言有如下几个特点：
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;问题解决导向。Hackathon中，一群人为了解决某一个问题而创造共同的时空情境，大家主要通过写代码（hack）来解决问题；问题既可以是一个大的研究，也可以是一个研究中的技术挑战。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;深度参与。正是由于hackathon是为了解决问题，因此参与其中的个体需要更加深度的参与，仅仅倾听可能是不太够的；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;扁平化结构。Hackathon虽然有TrainTrack，面向初级的hacker，其特色更在于Hack，即通过coding解决问题，因此没有传统工作坊和暑期校中“教员－学员”的结构，而是更多的平等合作与探索，大家各自发挥优势，一起解决问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+谁适合本次Hackathon？&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;本Hackathon适合各个职业发展阶段的研究者，如果您符合如下特点，非常欢迎您参加(由于人手有限，我们或限制最终参加人数)：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;希望了解认知神经科学、脑科学及编程应用；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;渴望学习新知识，增加编程相关的实践经验；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以保证两天全身心的投入到Hackathon中（特殊情况除外）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+本次Hackathon的安排&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;时间：&lt;/b&gt;2025年08月23日、24日（周六、周日）
+&lt;b&gt;线下地址：&lt;/b&gt;深圳
+&lt;b&gt;线上联动：&lt;/b&gt;使用腾讯会议进行即时通讯
+&lt;b&gt;会议费用：&lt;/b&gt;会议免费（含两日午餐和茶歇），交通和住宿自理&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+主题圆桌讨论：“思想钢印”技术离现实有多远？&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本年度的COSN Hackathon 活动获得三体宇宙公司支持，开启脑科学与三体的特别主题圆桌讨论。围绕科幻小说《三体》中提出的“思想钢印”概念，汇聚来自心理学、神经科学、脑机接口等领域的专家学者，将进行跨学科深度对话。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;本场 Panel 可能涉及到的关键脑科学前沿议题：
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;记忆操控与干预的科学可能性&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;非侵入与侵入式神经调控方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;脑机接口（BCI）的增强与应用前景&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;意识与无意识通路的完整解析&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;神经信息的编码与解码技术进展&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;人脑如何进行道德两难决策&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;讨论嘉宾：&lt;/b&gt;完整名单将在第二轮通知中公布&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;活动形式：&lt;/b&gt;一小时跨界深度对话  &amp;amp; 三十分钟观众互动提问（Q&amp;amp;A）&lt;/p&gt;
+&lt;p&gt;这将是一场融合科学探索与人文思辨的思想碰撞，邀请您共同探讨“思想钢印”从科幻想象走向现实的边界。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;适合对象：&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;神经科学研究人员、科技伦理学者、AI与脑机接口工程师、科幻迷，以及关注未来人机交互的各界人士。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+特邀学术报告嘉宾（按姓氏拼音排序）&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/202507_1.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+李济安，加州大学圣地亚哥分校神经科学博士生在读。2016年本科毕业于中国科学技术大学生命科学学院（计算机科学双学位），2019年硕士毕业于中国科学技术大学统计系。 长期从事计算神经科学、认知神经科学、人工智能等方面交叉科学研究。研究方向包括利用基于数理工具和深度学习的计算建模研究生物脑的知觉、记忆、学习和决策等功能。目前主要研究方向包括：(1)认知决策计算机制的自动发现；(2)深度学习模型和生物脑的异同；（3）反向传播算法的生物可行性；（4）决策机制的计算精神病学；(5)大语言模型的机制可解释性。目前获得卡弗里脑与认知研究所创新研究基金的资助。研究成果在Nature, Nature Human Behaviour等期刊发表。报告主题为《利用微型循环神经网络自动发现认知策略》。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/202507_2.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+刘泉影博士，南方科技大学长聘副教授，博导，神经计算与控制实验室(NCC lab)负责人。致力于从人工智能、控制理论和脑科学交叉融合的视角，发展基于AI的多模态神经解码算法，构建数据驱动的AI孪生脑模型，研发智能化的闭环神经调控系统，推动“读出-写入”双向脑机接口技术的发展，为解码脑功能和干预神经疾病提供全新范式，以一作/通讯作者在Nature Methods、The Innovation等期刊，NeurIPS、ICML、ICLR等机器学习顶会上发表论文60余篇。报告主题为《数据驱动的AI孪生脑》。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/202507_3.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+罗逸飞博士，香港大学数据科学研究院与心理系助理教授，博士生导师，主要研究方向为计算神经科学 &amp;amp; 计算认知科学。报告主题为《可微分3D渲染与视觉认知》。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/202507_4.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+张洳源博士，目前担任上海交通大学心理学院和上海交通大学医学院附属精神卫生中心双聘课题组长，领导认知计算神经科学和脑影像课题组。长期致力于脑科学与类脑智能的交叉研究，综合运用心理物理学、贝叶斯概率模型、深度学习模型、神经调控以及核磁共振等研究手段，探索人脑和人工智能的神经计算机制。以第一或者通讯作者(含共同)在Nature Human Behaviour、AMPPS、PNAS、eLife、J Neurosci、PLoS Comput Biol等杂志发表认知神经科学论文。张洳源的类脑计算研究还在世界顶级机器学习会议(中国计算机A类)ICML和IJCAI发表。目前担任BMC Neuroscience、Psychoradiology、Brain-X等杂志编委，还担任eLife, Cerebral Cortex等脑科学杂志和ICML, NeurIPS, IJCAI, ICLR, CVPR等世界顶级机器学习会议审稿人和ICML2025, NeurIPS 2024,2025的领域主席(area chair)。张洳源的研究先后受到国家自然科学基金、科技部项目和上海市自然科学基金等项目的支持。张洳源先后获得上海市浦江人才计划、上海市海外高层次人才和上海市科技青年35人引领计划提名奖和世界人工智能大会青年优秀论文提名奖(排二)。报告主题为《为什么我们需要计算建模来回答科学问题？》。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/202507_5.webp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+伍海燕博士，澳门大学协同创新研究院ANDlab PI（https://andlab-um.com/），加州理工学院访问学者。加入澳门大学之前，伍海燕教授于北京师范大学获得博士学位，并曾在中国科学院心理研究所担任副研究员。目前论文总被引用超2200次。近五年，以最后通讯作者在Nature Communications, eLife, Scientific Data, Neuroimage, Annals of the New York Academy of Sciences, Human Brain Mapping, Behavior Research Methods 等神经科学和心理学期刊发表论文多篇，神经科学相关专利3项。入选2023年 “脑科学与类脑智能科创新青年30人”。她的研究致力于引入跨学科技术框架，结合人工智能与脑成像、计算模型、颅内及颅外神经信号、神经调控、虚拟现实和大数据，以探索大脑中情绪与决策的交互机制。报告主题为《社会道德决策的神经与计算机制》。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+报名方式&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;请扫描二维码填写问卷报名（线下参加人数限制60人）。特别提醒：（1）本活动不含报名费，参加者食宿自理；（2）自由报名，择优录取；（3）名额有限，早报早得。如果行程有变，及时联系志愿者，将名额让给其他人。
+&lt;p&gt;Click the link to register ( &lt;a href=&#34;https://www.wjx.cn/vm/tYCvkf3.aspx%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wjx.cn/vm/tYCvkf3.aspx)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>neurochat神聊2025在线学术会议将于6月14日召开!</title>
+      <link>https://terryzang.github.io/news/2025-6-10/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-6-10/</guid>
+      <description>&lt;p&gt;走到2025年，neurochat神聊来到了第6年！在今年，neurochat 神聊2025会议将继续在线下线上混合展开，坚持小而精的组织形式。今年组委会将和部分青年报告人相聚太湖湖畔的苏州！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>志愿者招募: Psychological Science REPEAT网络</title>
+      <link>https://terryzang.github.io/news/2025-5-ps_repeat/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-5-ps_repeat/</guid>
+      <description>&lt;p&gt;您是否热衷于提高科学研究的可重复性？Psychological Science这一期刊正在招募志愿者加入他们的REPEAT网络，一个用来检验计算可重复性(computational reproducibility)的小组。&lt;/p&gt;
+&lt;h3&gt;背景&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;Psychological Science最近引入了新的政策来提高透明度和严谨性 (Hardwicke &amp; Vazire, 2024)，其中包括要求实证文章必须具备计算可重复性（这意味着报告的结果可以通过对原始数据重复原始分析来独立重现）&lt;sup&gt;[1]&lt;/sup&gt;。期刊正在建立一个志愿者网络，在文章发表前验证其计算可重复性&lt;sup&gt;[2]&lt;/sup&gt;。欢迎同行积极申请，包括研究生和早期职业研究人员。
+&lt;h3&gt;我将做什么？&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;验证提交给《心理科学》的文章的计算可重复性&lt;sup&gt;[3]&lt;/sup&gt;。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;向作者提供建设性反馈，以增强其工作的可重复性。
+&lt;h3&gt;涉及多少工作量？&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;文章将随机分配。如果您太忙，可以拒绝分配。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;可重复性检查通常涉及与作者进行几轮来回沟通，总时间差异很大；我们估计每篇手稿需要 1 ～ 10 小时。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;要加入 REPEAT 网络，您每年应愿意完成至少四次可重复性检查。每年，我们将更新网络，询问您是否希望继续成为成员。
+&lt;h3&gt;有什么要求？&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;能够证明自己在心理学（或相关领域）有重现分析的能力/经验。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;高度的责任心、注重细节以及对科学诚信的承诺。
+&lt;h3&gt;如何报名成为志愿者？&lt;/h3&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;请填写此 Google 表格&lt;sup&gt;[4]&lt;/sup&gt;提交意向表达。如果您有任何问题，请发送电子邮件至《心理科学》高级 STAR 编辑 Tom Hardwicke (tom.hardwicke@sydney.edu.au)。
+&lt;p&gt;&lt;br&gt;&lt;hr style=&#34;border: none; height: 3px; background-color: #ccc; margin: 20px 0;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;[1] 此要求有一些例外情况；例如，出于伦理原因无法共享数据时。&lt;/p&gt;
+&lt;p&gt;[2] 目前，这些检查由期刊的统计、透明度和严谨性 (STAR) 团队负责；然而，我们相信一个更大的网络将有助于我们获得更广泛的分析和软件能力，并更有效地满足需求。&lt;/p&gt;
+&lt;p&gt;[3] 具体而言，您的目标是使用作者共享的分析脚本和数据来重现手稿中报告的所有数值。我们要求作者提供组织良好且清晰记录的文件，逐步解释如何重现手稿中报告的结果。如果您无法轻松重现结果，您无需深入探索来理解其，只需要告知作者问题并要求他们进行解决。大多数研究人员并未接受如何使分析具有可重复性的培训，因此您可能需要一些这方面的训练。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfCtU1TP-G4ztChWTqtlwj_rj7R8WT_UE2I_22VJeAamuKv-w/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/forms/d/e/1FAIpQLSfCtU1TP-G4ztChWTqtlwj_rj7R8WT_UE2I_22VJeAamuKv-w/viewform&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>会议通知 | 第九届世界研究诚信大会（WCRI）简报 #1</title>
+      <link>https://terryzang.github.io/news/2025-3-wcri/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-3-wcri/</guid>
+      <description>&lt;p&gt;第九届世界研究诚信大会（&lt;span style=&#34;color:#d23;&#34;&gt;9th World Conference on Research Integrity, WCRI&lt;/span&gt;）将于2026年5月3日至6日在加拿大温哥华的威斯汀岸酒店举行。&lt;/p&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;WCRI 2026向全球所有学科，职业阶段和专业职级开放，欢迎研究诚信方面的各利益相关方踊跃参加，包括但不限于大学、研究机构、资助者、出版商和政府代表。第9届WCRI将提供充满活力和互动性的活动，包括突破性的研究、深刻的反思以及有影响力的政策讨论，旨在吸引学术界、从业人员和决策者的参与。
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;赶紧将会议加入您的日程表，来加入这个充满活力的学术聚会，在这里交流想法，认识同行，共同塑造未来的世界研究诚信。
+&lt;p&gt;点击链接访问会议网站: &lt;a href=&#34;https://wcri2026.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wcri2026.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+会议提案&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;WCRI 2026组委会欢迎有关会前研讨会(Pre-Conference Workshop Proposal)、全体会议(Plenary Session Proposal)、专题讨论会(Symposium Proposal)以及重点专题(Focus Track Proposal)的提案。提交的提案应与广泛的利益相关者和学科领域相关。鼓励就会议主题“本土视角(Indigenous ways of being)”、“人工智能(artificial intelligence)”和“研究安全(research security)”进行提案。请注意，所有会议提案均需由规划委员会或WCRI理事会成员（https://wcri2026.org/committees-boards/）提交或支持。
+&lt;p&gt;提案网址（提交截止日期：2025年4月14日）： &lt;a href=&#34;https://wcri2026.org/call-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wcri2026.org/call-for-proposals/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+赞助和展览&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;世界研究诚信会议基金会（WCRIF）诚邀赞助商和/或参展商参与这项顶级盛会，共同打造WCRI 2026，期待本届盛会对科研诚信的未来产生持久的影响。赞助商级别从青铜到白金不等。此外，WCRIF还提供各种自选赞助机会。如需了解更多赞助套餐和优惠详情，可访问WCRI 2026赞助页面（https://wcri2026.org/opportunities/）或联系赞助招募团队（mailto: wcri2026-sponsorship@venuewest.com）讨论您的参与事宜。WCRIF期待与您合作！
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+第六、第七和第八届WCRI提交摘要的预注册率&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;WCRI委员会调查了在第六、第七和第八届世界研究诚信大会上提交的实证研究摘要的预注册率。结果表明，随着时间的推移，预注册率停滞在28%而没有提高。然而，声称预注册的研究的可验证性确实有所提高率，从44%上升到88%。与研究特征和提交摘要研究者特征的关联，以及未进行预注册的原因，可参见已发表的预印本（https://osf.io/preprints/metaarxiv/cn6jf_v1）。该调查的结论是：科研诚信领域的研究人员应该更加言行一致。
+&lt;p&gt;&lt;br&gt;&lt;h2 style=&#34;
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+background: -webkit-linear-gradient(#3C80F7, #9065FF);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+&#34;&gt;
+WCRI早期职业研究人员和专业人员网络&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p style=&#34;text-indent:32.4px&#34;&gt;WCRI早期职业研究人员和专业人员（ECRP）网络在雅典第八届WCRI会议期间成立，现今已有半年。该网络首次虚拟聚会将于2025年3月19日举行，持续1小时。会议开始时间为北京/马来西亚/新加坡晚上8点，南非下午2点，荷兰下午1点，秘鲁上午7点，华盛顿特区上午8点。点击会议注册链接（https://docs.google.com/forms/d/e/1FAIpQLSciod1t8al36-LKkb1MneyNx0_LCUCN8cHODuoP-3tdoDTSEA/viewform）可报名参加此次虚拟会议。如需了解更多会议详情，可联系De-Ming Chau (chau.deming@gmail.com)。</description>
+    </item>
+    
+  </channel>
+</rss>

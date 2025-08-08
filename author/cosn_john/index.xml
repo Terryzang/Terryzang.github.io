@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COSN_John | Chinese Open Science Network</title>
+    <link>https://terryzang.github.io/author/cosn_john/</link>
+      <atom:link href="https://terryzang.github.io/author/cosn_john/index.xml" rel="self" type="application/rss+xml" />
+    <description>COSN_John</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://terryzang.github.io/media/icon_hu_c1867564a64e758d.png</url>
+      <title>COSN_John</title>
+      <link>https://terryzang.github.io/author/cosn_john/</link>
+    </image>
+    
+    <item>
+      <title>专访eLife主编：失去影响因子，中国来稿减少了80%</title>
+      <link>https://terryzang.github.io/news/2025-5-elife/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-5-elife/</guid>
+      <description>&lt;p&gt;&lt;b&gt;编者荐语:&lt;/b&gt;Elife作为科学出版的先行者，正在积极探索不同于当前“发表 vs 拒稿”的模式，而是公开审稿意见和质性评分对稿件进行评估。可以从elife新主编的访谈中看到这个新模式是研究者，而不是出版商，所做出的努力。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新刊｜钻石开放获取模式的《稳健性报告期刊》</title>
+      <link>https://terryzang.github.io/news/2025-4-22/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-4-22/</guid>
+      <description>&lt;p&gt;本周，一本全新的钻石开放获取期刊 ——《稳健性报告期刊》（Journal of Robustness Reports，简称 JRR）正式创刊(网址：https://scipost.org/JRobustRep)。该期刊专注于发表对已发表实证研究成果的简短再分析。&lt;/p&gt;
+&lt;p&gt;WCRI 2026向全球所有学科，职业阶段和专业职级开放，欢迎研究诚信方面的各利益相关方踊跃参加，包括但不限于大学、研究机构、资助者、出版商和政府代表。第9届WCRI将提供充满活力和互动性的活动，包括突破性的研究、深刻的反思以及有影响力的政策讨论，旨在吸引学术界、从业人员和决策者的参与。&lt;/p&gt;
+&lt;p&gt;The majority of empirical research papers only report a single main analytical result, which is usually carried out by a single analysis team (often also the team responsible for the experimental design and data collection) according to a single analysis plan. However, the &amp;ldquo;multi-analyst projects&amp;rdquo; in recent years have shown that different analysis teams often adopt their own unique methods, resulting in significant differences in conclusions. In fact, there is no single optimal statistical analysis plan, and different reasonable plans may lead to different conclusions. The strong variability of conclusions indicates their vulnerability, which is highly dependent on the specific analysis path. The key issue is that without independent analyses by multiple teams, it is difficult to assess the robustness of the conclusions. We recently proposed that for empirical research with significant scientific or social significance, 2-3 short reanalysis reports completed by independent experts should be attached [1]. To verify the feasibility and cognitive value of this method, we established the &amp;ldquo;Robustness Report Journal&amp;rdquo;, dedicated to publishing reanalyses of empirical results. This article outlines the journal&amp;rsquo;s positioning, workflow, and article format of JRR. We hope that JRR can promote reanalysis to become a routine practice in the field of empirical science.&lt;/p&gt;
+&lt;p&gt;JRR requires that the main body of the &amp;ldquo;Stability Report&amp;rdquo; should not exceed 500 words (excluding acknowledgments, references, chart explanations and title page). Only one presentation element (either a figure or a table) is allowed, and other supplementary materials must be presented in the form of online appendices. The response from the original author and the editor&amp;rsquo;s summary are also limited to 500 words and one presentation element, but they do not need to follow the above chapter structure. The article template is available in both Word and LaTeX versions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-图1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://terryzang.github.io/images/news/20241202.png&#34; alt=&#34;图1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      图1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The original intention behind setting the word limit: JRR hopes to encourage mainstream empirical journals to adopt this format, attaching robustness reports to important studies – a 500-word length is comparable to that of a &amp;ldquo;comment&amp;rdquo; or &amp;ldquo;letter to the editor&amp;rdquo; (most journals are already familiar with such formats), and the implementation cost is extremely low.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>杨卫院士及中国科学院文献情报中心团队观点文章 | 开放科学带来的三道阳光、三个转变、四重挑战</title>
+      <link>https://terryzang.github.io/news/2025-3-14/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://terryzang.github.io/news/2025-3-14/</guid>
+      <description>&lt;p&gt;开放科学（Open Science）作为一种新兴的科研范式，正在全球范围内掀起一场深刻的变革。中国作为全球科技强国之一，正在积极拥抱开放科学，并努力在全球开放科学治理中发挥引领作用。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
